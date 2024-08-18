@@ -1,0 +1,11 @@
+{
+    "email": "security@rhinomobility.com",
+    "name": "Rhino Mobility",
+    "root": "cve@mitre.org",
+    "scope": {
+        "rhinomobility": {
+            "products": "https://socialmobile.com/rhino/",
+            "advisories": "https://support.rhinomobility.com/security/releases"
+        }
+    }
+}

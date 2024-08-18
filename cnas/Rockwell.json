@@ -1,0 +1,14 @@
+{
+    "email": "PSIRT@rockwellautomation.com",
+    "name": "Rockwell Automation",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "rockwellautomation": {
+            "open_source": {
+                "github": "RockwellAutomation"
+            },
+            "products": "https://www.rockwellautomation.com/en-us/products.html",
+            "advisories": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html"
+        }
+    }
+}
