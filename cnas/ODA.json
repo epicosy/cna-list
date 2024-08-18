@@ -1,0 +1,11 @@
+{
+    "email": "security@opendesign.com",
+    "name": "Open Design Alliance",
+    "root": "cve@mitre.org",
+    "scope": {
+        "opendesign": {
+            "products": "https://www.opendesign.com/products",
+            "advisories": "https://www.opendesign.com/security-advisories"
+        }
+    }
+}

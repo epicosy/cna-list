@@ -1,0 +1,14 @@
+{
+    "email": "psirt@okta.com",
+    "name": "Okta, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "okta": {
+            "open_source": {
+                "github": "okta"
+            },
+            "products": "https://www.okta.com/pricing/",
+            "advisories": "https://trust.okta.com/security-advisories"
+        }
+    }
+}

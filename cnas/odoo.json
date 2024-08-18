@@ -1,0 +1,14 @@
+{
+    "email": "security@odoo.com",
+    "name": "Odoo",
+    "root": "cve@mitre.org",
+    "scope": {
+        "odoo": {
+            "open_source": {
+                "github": "odoo"
+            },
+            "products": "https://www.odoo.com/page/all-apps",
+            "advisories": "https://www.odoo.com/r/security-issues"
+        }
+    }
+}

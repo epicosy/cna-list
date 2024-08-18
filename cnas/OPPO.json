@@ -1,0 +1,14 @@
+{
+    "email": "security@oppo.com",
+    "name": "OPPO Mobile Telecommunication Corp., Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "oppo": {
+            "open_source": {
+                "github": "oppo-source"
+            },
+            "products": "https://www.oppo.com/en/",
+            "advisories": "https://security.oppo.com/en/mend"
+        }
+    }
+}

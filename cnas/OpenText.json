@@ -1,0 +1,28 @@
+{
+    "email": "security@opentext.com",
+    "name": "OpenText",
+    "root": "cve@mitre.org",
+    "scope": {
+        "opentext": {
+            "open_source": {
+                "github": "opentext"
+            },
+            "products": "https://www.opentext.com/products/listing",
+            "advisories": "https://knowledge.opentext.com/knowledge/llisapi.dll/open/alerts"
+        },
+        "microfocus": {
+            "aliases": [
+                "micro_focus"
+            ],
+            "open_source": {
+                "github": "MicroFocus"
+            },
+            "products": "https://www.microfocus.com/en-us/products",
+            "advisories": "https://www.microfocus.com/en-us/support/security/"
+        },
+        "novell": {
+            "products": "https://www.novell.com/documentation/",
+            "advisories": "https://support.novell.com/security/"
+        }
+    }
+}
