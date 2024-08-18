@@ -1,0 +1,18 @@
+{
+    "email": "psirt@fortinet.com",
+    "name": "Fortinet, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "fortinet": {
+            "aliases": [
+                "forticlient",
+                "fortiguard"
+            ],
+            "open_source": {
+                "github": "fortinet"
+            },
+            "products": "https://www.fortinet.com/products",
+            "advisories": "https://www.fortiguard.com/psirt"
+        }
+    }
+}

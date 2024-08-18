@@ -1,0 +1,14 @@
+{
+    "email": "securityalerts@lexmark.com",
+    "name": "Lexmark International, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "lexmark": {
+            "open_source": {
+                "github": "LexmarkES"
+            },
+            "products": "https://www.lexmark.com/en_us/products.html",
+            "advisories": "https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html"
+        }
+    }
+}

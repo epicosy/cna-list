@@ -1,0 +1,11 @@
+{
+    "email": "psirt@hillstonenet.com",
+    "name": "Hillstone Networks Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "hillstonenet": {
+            "products": "https://www.hillstonenet.com/hillstone-networks-product-portfolio/",
+            "advisories": "https://www.hillstonenet.com.cn/support-and-training/psirt/"
+        }
+    }
+}

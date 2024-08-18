@@ -1,0 +1,14 @@
+{
+    "email": "secure@dell.com",
+    "name": "Dell",
+    "root": "cve@mitre.org",
+    "scope": {
+        "dell": {
+            "open_source": {
+                "github": "dell"
+            },
+            "products": "https://www.dell.com/en-us",
+            "advisories": "https://www.dell.com/support/security/en-us"
+        }
+    }
+}

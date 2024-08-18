@@ -1,0 +1,11 @@
+{
+    "email": "product.security@arconnet.com",
+    "name": "ARCON Techsolutions Private Limited",
+    "root": "cve@mitre.org",
+    "scope": {
+        "arconnet": {
+            "products": "https://arconnet.com/products/",
+            "advisories": "https://arconnet.com/security-advisories/"
+        }
+    }
+}

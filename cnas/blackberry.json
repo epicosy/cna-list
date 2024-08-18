@@ -1,0 +1,14 @@
+{
+    "email": "secure@blackberry.com",
+    "name": "BlackBerry",
+    "root": "cve@mitre.org",
+    "scope": {
+        "blackberry": {
+            "open_source": {
+                "github": "blackberry"
+            },
+            "products": "https://www.blackberry.com/us/en/products",
+            "advisories": "https://www.blackberry.com/us/en/services/blackberry-product-security-incident-response"
+        }
+    }
+}

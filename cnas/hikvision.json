@@ -1,0 +1,14 @@
+{
+    "email": "hsrc@hikvision.com",
+    "name": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "hikvision": {
+            "open_source": {
+                "github": "hikvision-research"
+            },
+            "products": "https://us.hikvision.com/en/products",
+            "advisories": "https://us.hikvision.com/en/support-resources/cybersecurity-center/security-notices"
+        }
+    }
+}

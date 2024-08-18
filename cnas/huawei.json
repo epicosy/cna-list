@@ -1,0 +1,14 @@
+{
+    "email": "psirt@huawei.com",
+    "name": "Huawei Technologies",
+    "root": "cve@mitre.org",
+    "scope": {
+        "huawei": {
+            "open_source": {
+                "github": "Huawei"
+            },
+            "products": "https://www.huawei.com/en",
+            "advisories": "https://www.huawei.com/en/psirt/all-bulletins"
+        }
+    }
+}

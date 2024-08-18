@@ -1,0 +1,14 @@
+{
+    "email": "psirt@arista.com",
+    "name": "Arista Networks, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "arista": {
+            "open_source": {
+                "github": "aristanetworks"
+            },
+            "products": "https://www.arista.com/en/products",
+            "advisories": "https://www.arista.com/en/support/advisories-notices"
+        }
+    }
+}

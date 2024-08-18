@@ -1,0 +1,20 @@
+{
+    "email": "psirt@ciena.com",
+    "name": "Ciena Corporation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "ciena": {
+            "open_source": {
+                "github": "ciena"
+            },
+            "products": "https://www.ciena.com/products/",
+            "advisories": "https://www.ciena.com/product-security"
+        },
+        "blueplanet": {
+            "open_source": {
+                "github": "ciena-blueplanet"
+            },
+            "products": "https://www.blueplanet.com/products"
+        }
+    }
+}

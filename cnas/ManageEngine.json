@@ -1,0 +1,14 @@
+{
+    "email": "cna@manageengine.com",
+    "name": "ManageEngine",
+    "root": "cve@mitre.org",
+    "scope": {
+        "manageengine": {
+            "open_source": {
+                "github": "ManageEngine"
+            },
+            "products": "https://www.manageengine.com/products.html",
+            "advisories": "https://www.manageengine.com/security/advisory/"
+        }
+    }
+}

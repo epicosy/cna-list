@@ -1,0 +1,21 @@
+{
+    "email": "psirt@lenovo.com",
+    "name": "Lenovo Group Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "lenovo": {
+            "open_source": {
+                "github": "lenovo"
+            },
+            "products": "https://www.lenovo.com/us/en/",
+            "advisories": "https://support.lenovo.com/us/en/product_security/home"
+        },
+        "motorola": {
+            "open_source": {
+                "github": "MotorolaMobilityLLC"
+            },
+            "products": "https://www.motorola.com/us",
+            "advisories": "https://en-us.support.motorola.com/app/product-security-advisories"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "email": "dspa-cve@google.com",
+    "name": "Google Devices",
+    "root": "alphabet-cna@google.com",
+    "scope": {
+        "google": {
+            "open_source": {
+                "github": "google",
+                "google": "https://opensource.google/projects"
+            },
+            "products": {
+                "nest": {
+                    "advisories": "https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=10097490370520881802-NA"
+                },
+                "pixel": {
+                    "advisories": "https://source.android.com/docs/security/bulletin/pixel"
+                },
+                "chromecast": {
+                    "advisories": "https://source.android.com/docs/security/bulletin/chromecast"
+                }
+            }
+        }
+    }
+}

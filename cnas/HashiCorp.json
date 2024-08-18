@@ -1,0 +1,14 @@
+{
+    "email": "security@hashicorp.com",
+    "name": "HashiCorp Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "hashicorp": {
+            "open_source": {
+                "github": "hashicorp"
+            },
+            "products": "https://www.hashicorp.com/solutions",
+            "advisories": "https://discuss.hashicorp.com/c/security/52"
+        }
+    }
+}

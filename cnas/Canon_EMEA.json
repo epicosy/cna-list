@@ -1,0 +1,11 @@
+{
+    "email": "product-security@canon-europe.com",
+    "name": "Canon EMEA",
+    "root": "cve@mitre.org",
+    "scope": {
+        "canon": {
+            "products": "https://www.canon-europe.com/products/",
+            "advisories": "https://www.canon-europe.com/psirt/advisory-information"
+        }
+    }
+}

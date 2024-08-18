@@ -1,0 +1,11 @@
+{
+    "email": "productsecurity@baxter.com",
+    "name": "Baxter Healthcare",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "baxter": {
+            "products": "https://www.baxter.com/our-products/product-listing",
+            "advisories": "https://www.baxter.com/product-security#additionalresources"
+        }
+    }
+}

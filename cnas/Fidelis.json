@@ -1,0 +1,11 @@
+{
+    "email": "security@fidelissecurity.com",
+    "name": "Fidelis Cybersecurity, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "fidelissecurity": {
+            "products": "https://fidelissecurity.com/solutions/",
+            "advisories": "https://support.fidelissecurity.com/hc/en-us/categories/360001842694-Advisories-News-and-Policies"
+        }
+    }
+}

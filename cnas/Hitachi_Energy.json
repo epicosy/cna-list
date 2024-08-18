@@ -1,0 +1,15 @@
+{
+    "email": "cybersecurity@hitachienergy.com",
+    "name": "Hitachi Energy",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "hitachienergy": {
+            "open_source": {
+                "github": "hitachienergy"
+            },
+            "products": "https://www.hitachienergy.com/products-and-solutions",
+            "advisories": "https://www.hitachienergy.com/products-and-solutions/cybersecurity/alerts-and-notifications"
+        },
+        "hitachi": "hirt@hitachi.co.jp"
+    }
+}

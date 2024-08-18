@@ -1,0 +1,14 @@
+{
+    "email": "security@liferay.com",
+    "name": "Liferay, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "liferay": {
+            "open_source": {
+                "github": "liferay"
+            },
+            "products": "https://www.liferay.com",
+            "advisories": "https://liferay.dev/portal/security/known-vulnerabilities"
+        }
+    }
+}

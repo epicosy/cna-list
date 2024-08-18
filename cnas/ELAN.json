@@ -1,0 +1,17 @@
+{
+    "email": "psirt@emc.com.tw",
+    "name": "ELAN Microelectronics Corp.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "emc": {
+            "products": {
+                "touchpad": {
+                    "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/TouchpadSolutions"
+                },
+                "biometric": {
+                    "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/BiometricSolutions"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "security-alert@netapp.com",
+    "name": "NetApp",
+    "root": "cve@mitre.org",
+    "scope": {
+        "netapp": {
+            "open_source": {
+                "github": "netapp"
+            },
+            "products": "https://www.netapp.com/products-a-z/",
+            "advisories": "https://security.netapp.com/advisory/"
+        }
+    }
+}

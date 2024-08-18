@@ -1,0 +1,35 @@
+{
+    "email": "security@nortonlifelock.com",
+    "name": "NortonLifeLock Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "norton": {
+            "open_source": {
+                "github": "nortonlifelock"
+            },
+            "products": "https://us.norton.com/products",
+            "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+        },
+        "avast": {
+            "open_source": {
+                "github": "avast"
+            },
+            "products": "https://www.avast.com",
+            "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+        },
+        "avira": {
+            "open_source": {
+                "github": "Avira"
+            },
+            "products": "https://www.avira.com",
+            "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+        },
+        "avg": {
+            "open_source": {
+                "github": "AVGTechnologies"
+            },
+            "products": "https://www.avg.com/en-us/homepage",
+            "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+        }
+    }
+}

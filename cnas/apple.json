@@ -1,0 +1,14 @@
+{
+    "email": "product-security@apple.com",
+    "name": "Apple Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "apple": {
+            "open_source": {
+                "github": "apple"
+            },
+            "products": "https://www.apple.com/shop",
+            "advisories": "https://support.apple.com/en-us/HT201222"
+        }
+    }
+}

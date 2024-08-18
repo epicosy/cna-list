@@ -1,0 +1,15 @@
+{
+    "email": "security.vulnerabilities@hitachivantara.com",
+    "name": "Hitachi Vantara",
+    "root": "cve@mitre.org",
+    "scope": {
+        "hitachivantara": {
+            "open_source": {
+                "github": "hitachi-vantara"
+            },
+            "products": "https://www.hitachivantara.com/en-us/home",
+            "advisories": "https://knowledge.hitachivantara.com/Security/CVE_Index_Page"
+        },
+        "hitachi": "hirt@hitachi.co.jp"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "email": "security-disclosures@ict.co",
+    "name": "Integrated Control Technology LTD",
+    "root": "cve@mitre.org",
+    "scope": {
+        "ict": {
+            "products": "https://ict.co/products-solutions/",
+            "advisories": "https://ict.co/help-support/security-advisories/"
+        }
+    }
+}

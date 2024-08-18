@@ -1,0 +1,14 @@
+{
+    "email": "psirt@autodesk.com",
+    "name": "Autodesk",
+    "root": "cve@mitre.org",
+    "scope": {
+        "autodesk": {
+            "open_source": {
+                "github": "Autodesk"
+            },
+            "products": "https://www.autodesk.com/support",
+            "advisories": "https://www.autodesk.com/trust/security-advisories"
+        }
+    }
+}

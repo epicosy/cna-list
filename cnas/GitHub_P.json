@@ -1,0 +1,14 @@
+{
+    "email": "product-cna@github.com",
+    "name": "GitHub, Inc. (Products Only)",
+    "root": "cve@mitre.org",
+    "scope": {
+        "github": {
+            "products": {
+                "enterprise_server": {
+                    "advisories": "https://enterprise.github.com/releases"
+                }
+            }
+        }
+    }
+}

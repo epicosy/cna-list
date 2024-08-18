@@ -1,0 +1,14 @@
+{
+    "email": "security@knime.com",
+    "name": "KNIME AG",
+    "root": "cve@mitre.org",
+    "scope": {
+        "knime": {
+            "open_source": {
+                "github": "knime"
+            },
+            "products": "https://www.knime.com/software-overview",
+            "advisories": "https://www.knime.com/security/advisories"
+        }
+    }
+}

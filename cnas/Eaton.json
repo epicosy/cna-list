@@ -1,0 +1,11 @@
+{
+    "email": "psirt@eaton.com",
+    "name": "Eaton",
+    "root": "cve@mitre.org",
+    "scope": {
+        "eaton": {
+            "products": "https://www.eaton.com/us/en-us/products.html",
+            "advisories": "https://www.eaton.com/us/en-us/company/news-insights/cybersecurity/security-notifications.html"
+        }
+    }
+}

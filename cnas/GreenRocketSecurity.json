@@ -1,0 +1,11 @@
+{
+    "email": "info@greenrocketsecurity.com",
+    "name": "GreenRocket Security",
+    "root": "cve@mitre.org",
+    "scope": {
+        "greenrocketsecurity": {
+            "products": "https://greenrocketsecurity.com/solutions/",
+            "advisories": "https://www.greenrocketsecurity.com/resources/security-updates/"
+        }
+    }
+}

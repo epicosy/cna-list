@@ -1,0 +1,17 @@
+{
+    "email": "cve@navercorp.com",
+    "name": "Naver Corporation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "navercorp": {
+            "aliases": [
+                "naver"
+            ],
+            "open_source": {
+                "github": "naver"
+            },
+            "products": "https://www.navercorp.com/en",
+            "advisories": "https://cve.naver.com/advisory"
+        }
+    }
+}

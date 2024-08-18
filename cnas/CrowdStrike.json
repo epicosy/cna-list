@@ -1,0 +1,14 @@
+{
+    "email": "bugs@crowdstrike.com",
+    "name": "CrowdStrike Holdings, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "crowdstrike": {
+            "open_source": {
+                "github": "CrowdStrike"
+            },
+            "products": "https://www.crowdstrike.com/products/",
+            "advisories": "https://www.crowdstrike.com/security-advisories/"
+        }
+    }
+}

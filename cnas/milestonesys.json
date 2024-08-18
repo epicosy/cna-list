@@ -1,0 +1,14 @@
+{
+    "email": "psirt@milestonesys.com",
+    "name": "Milestone Systems A/S",
+    "root": "cve@mitre.org",
+    "scope": {
+        "milestonesys": {
+            "open_source": {
+                "github": "milestonesys"
+            },
+            "products": "https://www.milestonesys.com/products/software/xprotect/",
+            "advisories": "https://www.milestonesys.com/support/help-and-documentation/cyber-security/recent-vulnerabilities/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "info@cybellum.com",
+    "name": "Cybellum Technologies LTD",
+    "root": "cve@mitre.org",
+    "scope": {
+        "cybellum": {
+            "open_source": {
+                "github": "Cybellum"
+            },
+            "products": "https://cybellum.com/platform/",
+            "advisories": "https://cybellum.com/vulnerabilities/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "securityalert@analog.com",
+    "name": "Analog Devices, Inc.",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "analogdevices": {
+            "open_source": {
+                "github": "analogdevicesinc"
+            },
+            "products": "https://www.analog.com/en/product-category.html",
+            "advisories": "https://www.analog.com/en/support/technical-support/product-security-response-center.html"
+        }
+    }
+}

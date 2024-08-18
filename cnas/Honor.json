@@ -1,0 +1,14 @@
+{
+    "email": "security@hihonor.com",
+    "name": "Honor Device Co., Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "hihonor": {
+            "open_source": {
+                "honor": "https://www.honor.com/global/opensource/"
+            },
+            "products": "https://www.honor.com/global/",
+            "advisories": "https://www.honor.com/global/support/bulletin/"
+        }
+    }
+}

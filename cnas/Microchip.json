@@ -1,0 +1,14 @@
+{
+    "email": "psirt@microchip.com",
+    "name": "Microchip Technology",
+    "root": "cve@mitre.org",
+    "scope": {
+        "microchip": {
+            "open_source": {
+                "github": "MicrochipTech"
+            },
+            "products": "https://www.microchip.com/en-us/products",
+            "advisories": "https://www.microchip.com/psirt"
+        }
+    }
+}

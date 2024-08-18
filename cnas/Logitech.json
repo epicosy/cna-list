@@ -1,0 +1,14 @@
+{
+    "email": "cve-coordination@logitech.com",
+    "name": "Logitech",
+    "root": "cve@mitre.org",
+    "scope": {
+        "logitech": {
+            "open_source": {
+                "github": "Logitech"
+            },
+            "products": "https://www.logitech.com/en-us",
+            "advisories": "https://hackerone.com/logitech/hacktivity"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "secure@ea.com",
+    "name": "Electronic Arts, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "ea": {
+            "open_source": {
+                "github": "electronicarts"
+            },
+            "products": "https://www.ea.com/games/library",
+            "advisories": "https://www.ea.com/security/advisories"
+        }
+    }
+}

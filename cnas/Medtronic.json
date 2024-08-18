@@ -1,0 +1,14 @@
+{
+    "email": "security@medtronic.com",
+    "name": "Medtronic",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "medtronic": {
+            "open_source": {
+                "medtronic": "https://global.medtronic.com/xg-en/software-license-disclosures/mycarelink-heart-app.html"
+            },
+            "products": "https://global.medtronic.com/xg-en/healthcare-professionals/products.html",
+            "advisories": "https://global.medtronic.com/xg-en/product-security/security-bulletins.html"
+        }
+    }
+}

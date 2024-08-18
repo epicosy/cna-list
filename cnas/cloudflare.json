@@ -1,0 +1,14 @@
+{
+    "email": "cna@cloudflare.com",
+    "name": "Cloudflare, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "cloudflare": {
+            "open_source": {
+                "github": "cloudflare"
+            },
+            "products": "https://www.cloudflare.com/",
+            "advisories": "https://hackerone.com/cloudflare/hacktivity"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "email": "psirt-info@mlsig.jp.nec.com",
+    "name": "NEC Corporation",
+    "root": "vuls@jpcert.or.jp",
+    "scope": {
+        "nec": {
+            "products": "https://www.nec.com/en/global/prod/index.html",
+            "advisories": "https://jpn.nec.com/security-info/index.html"
+        }
+    }
+}

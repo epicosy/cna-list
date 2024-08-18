@@ -1,0 +1,14 @@
+{
+    "email": "secure@citrix.com",
+    "name": "Citrix Systems, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "citrix": {
+            "open_source": {
+                "github": "citrix"
+            },
+            "products": "https://www.citrix.com/downloads/",
+            "advisories": "https://support.citrix.com/securitybulletins"
+        }
+    }
+}

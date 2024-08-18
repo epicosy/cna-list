@@ -1,0 +1,14 @@
+{
+    "email": "psirt@adobe.com",
+    "name": "Adobe Systems Incorporated",
+    "root": "cve@mitre.org",
+    "scope": {
+        "adobe": {
+            "open_source": {
+                "github": "adobe"
+            },
+            "products": "https://www.adobe.com/products/catalog.html",
+            "advisories": "https://helpx.adobe.com/security.html"
+        }
+    }
+}

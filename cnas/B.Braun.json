@@ -1,0 +1,11 @@
+{
+    "email": "productsecurity@bbraun.com",
+    "name": "B. Braun SE",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "bbraun": {
+            "products": "https://catalogs.bbraun.com/en-01/c/PRODUCTS/b-braun-standard-product-catalog",
+            "advisories": "https://www.bbraun.com/en/products-and-solutions/b--braun-product-security.html"
+        }
+    }
+}

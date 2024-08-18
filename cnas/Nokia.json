@@ -1,0 +1,14 @@
+{
+    "email": "security-alert@nokia.com",
+    "name": "Nokia",
+    "root": "cve@mitre.org",
+    "scope": {
+        "nokia": {
+            "open_source": {
+                "github": "nokia"
+            },
+            "products": "https://www.nokia.com/",
+            "advisories": "https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/"
+        }
+    }
+}

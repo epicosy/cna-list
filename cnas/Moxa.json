@@ -1,0 +1,14 @@
+{
+    "email": "psirt@moxa.com",
+    "name": "Moxa Inc.",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "moxa": {
+            "open_source": {
+                "github": "Moxa-Linux"
+            },
+            "products": "https://www.moxa.com/en/products",
+            "advisories": "https://www.moxa.com/en/support/product-support/security-advisory"
+        }
+    }
+}

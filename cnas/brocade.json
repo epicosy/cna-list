@@ -1,0 +1,14 @@
+{
+    "email": "brocade.sirt@broadcom.com",
+    "name": "Brocade Communications Systems, LLC",
+    "root": "cve@mitre.org",
+    "scope": {
+        "brocade": {
+            "open_source": {
+                "github": "BRCDcomm"
+            },
+            "products": "https://www.broadcom.com/products/fibre-channel-networking",
+            "advisories": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "email": "3DS.Information-Security@3ds.com",
+    "name": "Dassault Syst\u00e8mes",
+    "root": "cve@mitre.org",
+    "scope": {
+        "3ds": {
+            "aliases": [
+                "dassault"
+            ],
+            "open_source": {
+                "github": "DassaultSystemes-Technology"
+            },
+            "products": "https://www.3ds.com/products/",
+            "advisories": "https://www.3ds.com/vulnerability/advisories"
+        }
+    }
+}

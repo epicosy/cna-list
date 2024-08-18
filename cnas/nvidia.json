@@ -1,0 +1,14 @@
+{
+    "email": "psirt@nvidia.com",
+    "name": "NVIDIA Corporation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "nvidia": {
+            "open_source": {
+                "github": "NVIDIA"
+            },
+            "products": "https://www.nvidia.com/en-us",
+            "advisories": "https://www.nvidia.com/en-us/security/"
+        }
+    }
+}
