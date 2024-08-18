@@ -1,0 +1,14 @@
+{
+    "email": "cna@sap.com",
+    "name": "SAP SE",
+    "root": "cve@mitre.org",
+    "scope": {
+        "sap": {
+            "open_source": {
+                "github": "sap"
+            },
+            "products": "https://www.sap.com/products.html",
+            "advisories": "https://support.sap.com/en/my-support/knowledge-base/security-notes-news.html"
+        }
+    }
+}

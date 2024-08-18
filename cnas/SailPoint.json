@@ -1,0 +1,14 @@
+{
+    "email": "psirt@sailpoint.com",
+    "name": "SailPoint Technologies",
+    "root": "cve@mitre.org",
+    "scope": {
+        "sailpoint": {
+            "open_source": {
+                "github": "sailpoint-oss"
+            },
+            "products": "https://www.sailpoint.com/products/",
+            "advisories": "https://www.sailpoint.com/security-advisories/"
+        }
+    }
+}

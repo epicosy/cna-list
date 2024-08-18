@@ -1,0 +1,14 @@
+{
+    "email": "security@selinc.com",
+    "name": "Schweitzer Engineering Laboratories, Inc.",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "selinc": {
+            "open_source": {
+                "github": "schweitzer-engineering-laboratories"
+            },
+            "products": "https://selinc.com/products/",
+            "advisories": "https://selinc.com/support/security-notifications/external-reports/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "mobile.security@samsung.com",
+    "name": "Samsung Mobile",
+    "root": "cve@mitre.org",
+    "scope": {
+        "samsung": {
+            "open_source": {
+                "github": "SAMSUNG-Mobile-App-Resources"
+            },
+            "products": "https://www.samsung.com/us/mobile/",
+            "advisories": "https://security.samsungmobile.com/securityPost.smsb/Advisory"
+        }
+    }
+}
