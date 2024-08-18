@@ -1,0 +1,15 @@
+{
+    "email": "security@proofpoint.com",
+    "name": "Proofpoint, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "proofpoint": {
+            "open_source": {
+                "github": "proofpoint"
+            },
+            "products": "https://www.proofpoint.com/us",
+            "services": "https://www.proofpoint.com/us/products/premium-services",
+            "advisories": "https://www.proofpoint.com/us/security-advisories"
+        }
+    }
+}

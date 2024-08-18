@@ -1,0 +1,14 @@
+{
+    "email": "cve-coordination@palantir.com",
+    "name": "Palantir Technologies",
+    "root": "cve@mitre.org",
+    "scope": {
+        "palantir": {
+            "open_source": {
+                "github": "palantir"
+            },
+            "products": "https://www.palantir.com/platforms/",
+            "advisories": "https://www.palantir.com/security-advisories/"
+        }
+    }
+}

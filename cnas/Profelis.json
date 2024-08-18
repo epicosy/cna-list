@@ -1,0 +1,14 @@
+{
+    "email": "cve@profelis.com.tr",
+    "name": "Profelis IT Consultancy",
+    "root": "cve@mitre.org",
+    "scope": {
+        "profelis": {
+            "open_source": {
+                "github": "Profelis-IT"
+            },
+            "products": "https://www.profelis.com.tr/",
+            "advisories": "https://www.profelis.com.tr/politikalar/bilgi-guvenligi-politikamiz/"
+        }
+    }
+}

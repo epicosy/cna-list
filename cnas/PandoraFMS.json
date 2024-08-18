@@ -1,0 +1,17 @@
+{
+    "email": "security@pandorafms.com",
+    "name": "Artica FMS",
+    "root": "cve-coordination@incibe.es",
+    "scope": {
+        "pandorafms": {
+            "aliases": [
+                "artica"
+            ],
+            "open_source": {
+                "github": "pandorafms"
+            },
+            "products": "https://pandorafms.com/en/product-overview/",
+            "advisories": "https://pandorafms.com/common-vulnerabilities-and-exposures/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "securityreport@pega.com",
+    "name": "Pegasystems Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "pega": {
+            "open_source": {
+                "github": "pegasystems"
+            },
+            "products": "https://www.pega.com/products",
+            "advisories": "https://www.pega.com/trust/security-bulletins"
+        }
+    }
+}
