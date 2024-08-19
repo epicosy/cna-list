@@ -1,0 +1,11 @@
+{
+    "email": "support@shopbeat.co.za",
+    "name": "Shop Beat Solutions (Pty) LTD",
+    "root": "cve@mitre.org",
+    "scope": {
+        "shopbeat": {
+            "products": "https://www.shopbeat.co.za/products.html",
+            "advisories": "https://www.shopbeat.co.za/security_advisory_location.html"
+        }
+    }
+}

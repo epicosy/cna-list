@@ -1,0 +1,14 @@
+{
+    "email": "product-security@silabs.com",
+    "name": "Silicon Labs",
+    "root": "cve@mitre.org",
+    "scope": {
+        "silabs": {
+            "open_source": {
+                "github": "SiliconLabs"
+            },
+            "products": "https://www.silabs.com/products",
+            "advisories": "https://www.silabs.com/security/security-vulnerability-disclosure-policy"
+        }
+    }
+}
