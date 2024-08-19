@@ -1,0 +1,14 @@
+{
+    "email": "security.tecno@tecno-mobile.com",
+    "name": "TECNO Mobile Limited",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tecno-mobile": {
+            "aliases": [
+                "tecno"
+            ],
+            "products": "https://www.tecno-mobile.com/home/",
+            "advisories": "https://security.tecno.com/SRC/blog"
+        }
+    }
+}

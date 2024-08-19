@@ -1,0 +1,14 @@
+{
+    "email": "psirt@teamviewer.com",
+    "name": "TeamViewer Germany GmbH",
+    "root": "cve@mitre.org",
+    "scope": {
+        "teamviewer": {
+            "open_source": {
+                "github": "teamviewer"
+            },
+            "products": "https://service.teamviewer.com/en-us/overview/a",
+            "advisories": "https://www.teamviewer.com/en/trust-center/security-bulletins/"
+        }
+    }
+}

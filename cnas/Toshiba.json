@@ -1,0 +1,14 @@
+{
+    "email": "hdq-toshiba-psirt@ml.toshiba.co.jp",
+    "name": "Toshiba Corporation",
+    "root": "vuls@jpcert.or.jp",
+    "scope": {
+        "toshiba": {
+            "open_source": {
+                "github": "toshiba"
+            },
+            "products": "https://www.global.toshiba/ww/products-solutions.html",
+            "advisories": "https://www.global.toshiba/ww/cybersecurity/corporate/psirt.html"
+        }
+    }
+}

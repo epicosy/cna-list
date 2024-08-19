@@ -1,0 +1,14 @@
+{
+    "email": "security@trendmicro.com",
+    "name": "Trend Micro, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "trendmicro": {
+            "open_source": {
+                "github": "trendmicro"
+            },
+            "products": "https://www.trendmicro.com/en_us/business/products.html",
+            "advisories": "https://success.trendmicro.com/vulnerability-response#report"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "vulnreport@tenable.com",
+    "name": "Tenable Network Security, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tenable": {
+            "open_source": {
+                "github": "tenable"
+            },
+            "products": "https://www.tenable.com/products",
+            "advisories": "https://www.tenable.com/security"
+        }
+    }
+}

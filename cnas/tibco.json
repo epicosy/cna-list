@@ -1,0 +1,28 @@
+{
+    "email": "security@tibco.com",
+    "name": "TIBCO Software Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tibco": {
+            "open_source": {
+                "github": "TIBCOSoftware"
+            },
+            "products": "https://www.tibco.com/products",
+            "advisories": "https://community.tibco.com/advisories/"
+        },
+        "spotfire": {
+            "open_source": {
+                "github": "spotfiresoftware"
+            },
+            "products": "https://www.spotfire.com/products",
+            "advisories": "https://community.spotfire.com/security-advisories/"
+        },
+        "jaspersoft": {
+            "open_source": {
+                "github": "Jaspersoft"
+            },
+            "products": "https://www.jaspersoft.com/products",
+            "advisories": "https://community.jaspersoft.com/advisories/"
+        }
+    }
+}
