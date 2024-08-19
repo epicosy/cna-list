@@ -1,0 +1,22 @@
+{
+    "email": "security@watchguard.com",
+    "name": "WatchGuard Technologies, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "watchguard": {
+            "open_source": {
+                "github": "watchguard"
+            },
+            "products": "https://www.watchguard.com/wgrd-products",
+            "advisories": "https://www.watchguard.com/wgrd-psirt/advisories"
+        },
+        "datablink": {
+            "products": "http://www.datablink.com/",
+            "advisories": "https://www.watchguard.com/wgrd-psirt/advisories"
+        },
+        "pandasecurity": {
+            "products": "https://www.pandasecurity.com/en/homeusers/",
+            "advisories": "https://info.pandasecurity.com/vulnerabilities/"
+        }
+    }
+}

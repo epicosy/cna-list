@@ -1,0 +1,14 @@
+{
+    "email": "browser-security@yandex-team.ru",
+    "name": "Yandex N.V.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "yandex": {
+            "open_source": {
+                "github": "yandex"
+            },
+            "products": "https://yandex.cloud/en/solutions",
+            "advisories": "https://yandex.cloud/en/docs/security/security-bulletins/"
+        }
+    }
+}

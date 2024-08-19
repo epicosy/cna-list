@@ -1,0 +1,14 @@
+{
+    "email": "secure@upkeeper.se",
+    "name": "upKeeper Solutions",
+    "root": "cve@mitre.org",
+    "scope": {
+        "upkeeper": {
+            "open_source": {
+                "github": "upkeeper"
+            },
+            "products": "https://upkeeper.se/en/upkeeper-explained/",
+            "advisories": "https://support.upkeeper.se/hc/en-us/articles/14170844051868-Security-Advisories"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "psirt@wdc.com",
+    "name": "Western Digital",
+    "root": "cve@mitre.org",
+    "scope": {
+        "westerndigital": {
+            "open_source": {
+                "github": "westerndigitalcorporation"
+            },
+            "products": "https://www.westerndigital.com/products",
+            "advisories": "https://www.westerndigital.com/support/productsecurity"
+        }
+    }
+}
