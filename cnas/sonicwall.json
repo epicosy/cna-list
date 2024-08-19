@@ -1,0 +1,14 @@
+{
+    "email": "PSIRT@sonicwall.com",
+    "name": "SonicWall, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "sonicwall": {
+            "open_source": {
+                "github": "sonicwall"
+            },
+            "products": "https://www.sonicwall.com/products-a-to-z",
+            "advisories": "https://psirt.global.sonicwall.com/vuln-list"
+        }
+    }
+}

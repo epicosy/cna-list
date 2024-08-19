@@ -1,0 +1,17 @@
+{
+    "email": "psirt@synaptics.com",
+    "name": "Synaptics, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "synaptics": {
+            "open_source": {
+                "github": "conexant"
+            },
+            "products": {
+                "touchpad": "https://www.synaptics.com/products/touchpad-family",
+                "biometrics": "https://www.synaptics.com/products/biometrics",
+                "dsps": "https://www.synaptics.com/products/far-field-voice-dsp"
+            }
+        }
+    }
+}

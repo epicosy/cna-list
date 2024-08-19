@@ -1,0 +1,14 @@
+{
+    "email": "security@synology.com",
+    "name": "Synology Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "synology": {
+            "open_source": {
+                "github": "synology-official"
+            },
+            "products": "https://www.synology.com/en-global/products",
+            "advisories": "https://www.synology.com/en-global/security/advisory"
+        }
+    }
+}

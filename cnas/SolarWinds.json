@@ -1,0 +1,14 @@
+{
+    "email": "psirt@solarwinds.com",
+    "name": "SolarWinds",
+    "root": "cve@mitre.org",
+    "scope": {
+        "solarwinds": {
+            "open_source": {
+                "github": "solarwinds"
+            },
+            "products": "https://www.solarwinds.com/downloads",
+            "advisories": "https://www.solarwinds.com/trust-center/security-advisories"
+        }
+    }
+}
