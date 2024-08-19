@@ -1,0 +1,14 @@
+{
+    "email": "security@zabbix.com",
+    "name": "Zabbix",
+    "root": "cve@mitre.org",
+    "scope": {
+        "zabbix": {
+            "open_source": {
+                "github": "zabbix"
+            },
+            "products": "https://www.zabbix.com",
+            "advisories": "https://support.zabbix.com/projects/ZBX/issues/"
+        }
+    }
+}

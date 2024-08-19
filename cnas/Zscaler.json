@@ -1,0 +1,14 @@
+{
+    "email": "cve@zscaler.com",
+    "name": "Zscaler, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "zscaler": {
+            "open_source": {
+                "github": "zscaler"
+            },
+            "products": "https://www.zscaler.com/products-and-solutions",
+            "advisories": "https://www.zscaler.com/security-advisories"
+        }
+    }
+}
