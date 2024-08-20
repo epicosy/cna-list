@@ -1,0 +1,14 @@
+{
+    "email": "security@dotcms.com",
+    "name": "dotCMS LLC",
+    "root": "cve@mitre.org",
+    "scope": {
+        "dotcms": {
+            "open_source": {
+                "github": "dotCMS"
+            },
+            "services": "https://www.dotcms.com/",
+            "advisories": "https://www.dotcms.com/docs/latest/known-security-issues"
+        }
+    }
+}

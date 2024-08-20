@@ -1,0 +1,16 @@
+{
+    "email": "ml-sec-cna@lycorp.co.jp",
+    "name": "LY Corporation",
+    "root": "vuls@jpcert.or.jp",
+    "scope": {
+        "linecorp": {
+            "aliases": [
+                "line"
+            ],
+            "open_source": {
+                "github": "line"
+            },
+            "advisories": "https://line.github.io/security-advisory-blog/advisory"
+        }
+    }
+}

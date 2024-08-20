@@ -1,0 +1,13 @@
+{
+    "email": "bugs@9front.org",
+    "name": "9front Systems",
+    "root": "cve@mitre.org",
+    "scope": {
+        "9front": {
+            "open_source": {
+                "github": "9front"
+            },
+            "advisories": "https://bugs.9front.org/"
+        }
+    }
+}

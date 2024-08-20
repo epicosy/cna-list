@@ -1,0 +1,14 @@
+{
+    "email": "security@temporal.io",
+    "name": "Temporal Technologies Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "temporal": {
+            "open_source": {
+                "github": "temporalio"
+            },
+            "advisories": "https://docs.temporal.io/temporal-technologies-inc-security",
+            "services": "https://cloud.temporal.io/login"
+        }
+    }
+}

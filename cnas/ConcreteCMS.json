@@ -1,0 +1,13 @@
+{
+    "email": "security@concretecms.org",
+    "name": "Concrete CMS",
+    "root": "cve@mitre.org",
+    "scope": {
+        "concretecms": {
+            "open_source": {
+                "github": "concretecms"
+            },
+            "advisories": "https://www.concretecms.org/about/project-news/security"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "email": "glibc-cna@sourceware.org",
+    "name": "GNU C Library",
+    "root": "RootCNA-Coordination@redhat.com",
+    "scope": {
+        "gnu": {
+            "open_source": {
+                "sourceware": "glibc"
+            },
+            "advisories": "https://sourceware.org/git/?p=glibc.git;a=tree;f=advisories;hb=HEAD"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "email": "disclosure@wrensecurity.org",
+    "name": "Wren Security",
+    "root": "cve@mitre.org",
+    "scope": {
+        "wrensecurity": {
+            "open_source": {
+                "github": "WrenSecurity"
+            },
+            "advisories": "https://wrensecurity.org/community/disclosure.html"
+        }
+    }
+}

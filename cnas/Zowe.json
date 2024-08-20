@@ -1,0 +1,19 @@
+{
+    "email": "zowe-security@lists.openmainframeproject.org",
+    "name": "Zowe",
+    "root": "cve@mitre.org",
+    "scope": {
+        "zowe": {
+            "open_source": {
+                "github": "zowe"
+            },
+            "advisories": "https://www.zowe.org/security"
+        },
+        "linuxfoundation": {
+            "open_source": {
+                "github": "linuxfoundation"
+            },
+            "advisories": "https://www.linuxfoundation.org/security"
+        }
+    }
+}
