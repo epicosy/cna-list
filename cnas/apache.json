@@ -1,0 +1,13 @@
+{
+    "email": "security@apache.org",
+    "name": "Apache Software Foundation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "apache": {
+            "open_source": {
+                "github": "apache"
+            },
+            "advisories": "https://security.apache.org/projects/"
+        }
+    }
+}

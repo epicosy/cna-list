@@ -1,0 +1,14 @@
+{
+    "email": "security@clickhouse.com",
+    "name": "ClickHouse, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "clickhouse": {
+            "open_source": {
+                "github": "ClickHouse"
+            },
+            "products": "https://clickhouse.com/",
+            "advisories": "https://clickhouse.com/docs/en/whats-new/security-changelog"
+        }
+    }
+}

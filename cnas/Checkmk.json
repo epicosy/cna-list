@@ -1,0 +1,14 @@
+{
+    "email": "security@checkmk.com",
+    "name": "Checkmk GmbH",
+    "root": "cve@mitre.org",
+    "scope": {
+        "checkmk": {
+            "open_source": {
+                "github": "Checkmk"
+            },
+            "products": "https://checkmk.com/product",
+            "advisories": "https://checkmk.com/werks"
+        }
+    }
+}

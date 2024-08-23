@@ -1,0 +1,19 @@
+{
+    "email": "security@ubuntu.com",
+    "name": "Canonical Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "canonical": {
+            "open_source": {
+                "github": "canonical"
+            },
+            "advisories": "https://ubuntu.com/security/cves"
+        },
+        "ubuntu": {
+            "open_source": {
+                "github": "ubuntu"
+            },
+            "advisories": "https://ubuntu.com/security/cves"
+        }
+    }
+}
