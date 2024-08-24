@@ -1,0 +1,14 @@
+{
+    "email": "security@drupal.org",
+    "name": "Drupal.org",
+    "root": "cve@mitre.org",
+    "scope": {
+        "drupal": {
+            "open_source": {
+                "github": "drupal",
+                "gitlab": "drupal"
+            },
+            "advisories": "https://www.drupal.org/security"
+        }
+    }
+}

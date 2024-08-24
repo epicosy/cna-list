@@ -1,0 +1,13 @@
+{
+    "email": "security@debian.org",
+    "name": "Debian GNU/Linux",
+    "root": "cve@mitre.org",
+    "scope": {
+        "debian": {
+            "open_source": {
+                "github": "Debian"
+            },
+            "advisories": "https://www.debian.org/security/#DSAS"
+        }
+    }
+}

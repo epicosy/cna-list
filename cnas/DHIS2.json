@@ -1,0 +1,14 @@
+{
+    "email": "security@dhis2.org",
+    "name": "The HISP Centre at the University of Oslo",
+    "root": "cve@mitre.org",
+    "scope": {
+        "dhis2": {
+            "open_source": {
+                "github": "dhis2"
+            },
+            "advisories": "https://dhis2.org/trust/",
+            "services": "https://dhis2.org/hosting/"
+        }
+    }
+}

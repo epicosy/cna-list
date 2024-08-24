@@ -1,0 +1,14 @@
+{
+    "email": "security@dremio.com",
+    "name": "Dremio Corporation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "dremio": {
+            "open_source": {
+                "github": "dremio"
+            },
+            "products": "https://www.dremio.com/solutions/",
+            "advisories": "https://docs.dremio.com/current/reference/bulletins/"
+        }
+    }
+}

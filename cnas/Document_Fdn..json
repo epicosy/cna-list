@@ -1,0 +1,13 @@
+{
+    "email": "security@documentfoundation.org",
+    "name": "Document Foundation, The",
+    "root": "RootCNA-Coordination@redhat.com",
+    "scope": {
+        "libreoffice": {
+            "open_source": {
+                "github": "LibreOffice"
+            },
+            "advisories": "https://www.libreoffice.org/about-us/security/advisories"
+        }
+    }
+}
