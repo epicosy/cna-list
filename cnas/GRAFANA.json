@@ -1,0 +1,14 @@
+{
+    "email": "security-team@grafana.com",
+    "name": "Grafana Labs",
+    "root": "cve@mitre.org",
+    "scope": {
+        "grafana": {
+            "open_source": {
+                "github": "grafana"
+            },
+            "products": "https://grafana.com/products/cloud/",
+            "advisories": "https://grafana.com/security/security-advisories/"
+        }
+    }
+}

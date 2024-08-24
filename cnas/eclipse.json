@@ -1,0 +1,13 @@
+{
+    "email": "security@eclipse.org",
+    "name": "Eclipse Foundation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "eclipse": {
+            "open_source": {
+                "github": "eclipse"
+            },
+            "advisories": "https://www.eclipse.org/security/known/"
+        }
+    }
+}

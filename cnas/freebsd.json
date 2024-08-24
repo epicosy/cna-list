@@ -1,0 +1,13 @@
+{
+    "email": "secteam@freebsd.org",
+    "name": "FreeBSD",
+    "root": "cve@mitre.org",
+    "scope": {
+        "freebsd": {
+            "open_source": {
+                "github": "freebsd"
+            },
+            "advisories": "https://www.freebsd.org/security/advisories/"
+        }
+    }
+}

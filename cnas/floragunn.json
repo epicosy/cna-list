@@ -1,0 +1,15 @@
+{
+    "email": "security@search-guard.com",
+    "name": "floragunn GmbH",
+    "root": "cve@mitre.org",
+    "scope": {
+        "search-guard": {
+            "open_source": {
+                "github": "floragunncom",
+                "gitlab": "floragunn"
+            },  
+            "services": "https://search-guard.com/licensing",
+            "advisories": "https://search-guard.com/cve-advisory/"
+        }
+    }
+}

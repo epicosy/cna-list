@@ -1,0 +1,17 @@
+{
+    "email": "patrick@puiterwijk.org",
+    "name": "Fedora Project",
+    "root": "RootCNA-Coordination@redhat.com",
+    "scope": {
+        "fedoraproject": {
+            "aliases": [
+                "fedora"
+            ],
+            "open_source": {
+                "github": "fedora-infra",
+                "fedora": "https://src.fedoraproject.org/"
+            },
+            "advisories": "https://bodhi.fedoraproject.org/updates/?type=security"
+        }
+    }
+}

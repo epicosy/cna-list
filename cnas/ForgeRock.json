@@ -1,0 +1,14 @@
+{
+    "email": "psirt@forgerock.com",
+    "name": "ForgeRock, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "forgerock": {
+            "open_source": {
+                "forgerock": "https://backstage.forgerock.com/downloads/"
+            },
+            "products": "https://backstage.forgerock.com/downloads/",
+            "advisories": "https://backstage.forgerock.com/knowledge/kb/book/b21824339"
+        }
+    }
+}
