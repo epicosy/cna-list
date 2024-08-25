@@ -1,0 +1,14 @@
+{
+    "email": "psirt@us.ibm.com",
+    "name": "IBM Corporation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "ibm": {
+            "open_source": {
+                "github": "IBM"
+            },
+            "products": "https://www.ibm.com/products",
+            "advisories": "https://www.ibm.com/support/pages/bulletin/"
+        }
+    }
+}

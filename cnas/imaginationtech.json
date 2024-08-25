@@ -1,0 +1,14 @@
+{
+    "email": "security@imgtec.com",
+    "name": "Imagination Technologies",
+    "root": "cve@mitre.org",
+    "scope": {
+        "imaginationtech": {
+            "open_source": {
+                "github": "imaginationtech"
+            },
+            "products": "https://www.imaginationtech.com/products/",
+            "advisories": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/"
+        }
+    }
+}

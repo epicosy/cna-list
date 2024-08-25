@@ -1,0 +1,14 @@
+{
+    "email": "productsecurity@jamf.com",
+    "name": "Jamf",
+    "root": "cve@mitre.org",
+    "scope": {
+        "jamf": {
+            "open_source": {
+                "github": "jamf"
+            },
+            "products": "https://www.jamf.com/products/",
+            "advisories": "https://learn.jamf.com/en-US/bundle/jamf-infrastructure-manager-ldap-proxy-install-guide/page/Release_History.html"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "cna@mongodb.com",
+    "name": "MongoDB, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "mongodb": {
+            "open_source": {
+                "github": "mongodb"
+            },
+            "products": "https://www.mongodb.com/products",
+            "advisories": "https://www.mongodb.com/company/contact/mongodb-vulnerability-disclosure-policy"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "email": "security@kubernetes.io",
+    "name": "Kubernetes",
+    "root": "cve@mitre.org",
+    "scope": {
+        "kubernetes": {
+            "open_source": {
+                "github": "kubernetes"
+            },
+            "advisories": "https://kubernetes.io/docs/reference/issues-security/official-cve-feed/"
+        }
+    }
+}

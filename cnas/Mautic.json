@@ -1,0 +1,21 @@
+{
+    "email": "security@mautic.org",
+    "name": "Mautic",
+    "root": "cve@mitre.org",
+    "scope": {
+        "mautic": {
+            "open_source": {
+                "github": "mautic"
+            },
+            "services": "https://dropsolid.io/extend-your-trial",
+            "advisories": "https://github.com/mautic/mautic/security/advisories"
+        },
+        "acquia": {
+            "open_source": {
+                "github": "acquia"
+            },
+            "products": "https://www.acquia.com/products",
+            "advisories": "https://security.acquia.com/"
+        }
+    }
+}

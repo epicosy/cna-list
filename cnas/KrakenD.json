@@ -1,0 +1,20 @@
+{
+    "email": "security@krakend.io",
+    "name": "KrakenD, S.L.",
+    "root": "cve-coordination@incibe.es",
+    "scope": {
+        "krakend": {
+            "open_source": {
+                "github": "krakend"
+            },
+            "services": "https://www.krakend.io/enterprise/",
+            "advisories": "https://www.krakend.io/categories/security/"
+        },
+        "luraproject": {
+            "open_source": {
+                "github": "luraproject"
+            },
+            "advisories": "https://github.com/luraproject/luraproject.org/security/advisories?state=published" 
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "email": "security@jetbrains.com",
+    "name": "JetBrains s.r.o.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "jetbrains": {
+            "open_source": {
+                "github": "JetBrains"
+            },
+            "products": "https://www.jetbrains.com/products/",
+            "advisories": "https://www.jetbrains.com/privacy-security/issues-fixed/"
+        }
+    }
+}
