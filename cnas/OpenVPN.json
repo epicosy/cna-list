@@ -1,0 +1,15 @@
+{
+    "email": "security@openvpn.net",
+    "name": "OpenVPN Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "openvpn": {
+            "open_source": {
+                "github": "OpenVPN"
+            },
+            "products": "https://openvpn.net/product-comparison/",
+            "advisories": "https://openvpn.net/security-advisories/"
+        }
+    }
+}
+

@@ -1,0 +1,15 @@
+{
+    "email": "security@perforce.com",
+    "name": "Perforce (formerly Puppet)",
+    "root": "cve@mitre.org",
+    "scope": {
+        "perforce": {
+            "open_source": {
+                "github": "perforce"
+            },
+            "products": "https://www.perforce.com/products",
+            "advisories": "https://portal.perforce.com/s/cve-dashboard"
+        }
+    }
+}
+

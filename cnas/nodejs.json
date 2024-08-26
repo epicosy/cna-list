@@ -1,0 +1,13 @@
+{
+    "email": "cve-request@iojs.org",
+    "name": "Node.js",
+    "root": "cve@mitre.org",
+    "scope": {
+        "nodejs": {
+            "open_source": {
+                "github": "nodejs"
+            },
+            "advisories": "https://nodejs.org/en/blog/vulnerability"
+        }
+    }
+}

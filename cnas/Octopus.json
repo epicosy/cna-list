@@ -1,0 +1,15 @@
+{
+    "email": "security@octopus.com",
+    "name": "Octopus Deploy",
+    "root": "cve@mitre.org",
+    "scope": {
+        "octopus": {
+            "open_source": {
+                "github": "OctopusDeploy"
+            },
+            "products": "https://octopus.com/features",
+            "advisories": "https://advisories.octopus.com/"
+        }
+    }
+}
+

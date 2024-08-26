@@ -1,0 +1,20 @@
+{
+    "email": "cna@python.org",
+    "name": "Python Software Foundation",
+    "root": "cve@mitre.org",
+    "scope": {
+        "python": {
+            "open_source": {
+                "github": "python"
+            },
+            "advisories": "https://mail.python.org/archives/list/security-announce@python.org/latest"
+        },
+        "pypi": {
+            "open_source": {
+                "github": "pypi"
+            },
+            "advisories": "https://github.com/pypa/advisory-database"
+        }
+    }
+}
+

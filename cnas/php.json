@@ -1,0 +1,14 @@
+{
+    "email": "security@php.net",
+    "name": "PHP Group",
+    "root": "cve@mitre.org",
+    "scope": {
+        "php": {
+            "open_source": {
+                "github": "php"
+            },
+            "advisories": "https://www.php.net/ChangeLog-8.php"
+        }
+    }
+}
+

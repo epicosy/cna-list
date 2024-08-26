@@ -1,0 +1,15 @@
+{
+    "email": "openeuler-security@openeuler.org",
+    "name": "openEuler",
+    "root": "cve@mitre.org",
+    "scope": {
+        "openeuler": {
+            "open_source": {
+                "github": "openeuler-mirror",
+                "gitee": "openeuler"
+            },
+            "advisories": "https://www.openeuler.org/en/security/security-bulletins/"
+        }
+    }
+}
+

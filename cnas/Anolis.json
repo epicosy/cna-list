@@ -1,0 +1,14 @@
+{
+    "email": "security@openanolis.org",
+    "name": "OpenAnolis",
+    "root": "cve@mitre.org",
+    "scope": {
+        "openanolis": {
+            "open_source": {
+                "github": "OpenAnolis"
+            },
+            "advisories": "https://anas.openanolis.cn/cves"
+        }
+    }
+}
+

@@ -1,0 +1,13 @@
+{
+    "email": "sep@nlnetlabs.nl",
+    "name": "NLnet Labs",
+    "root": "cve@mitre.org",
+    "scope": {
+        "nlnetlabs": {
+            "open_source": {
+                "github": "NLnetLabs"
+            },
+            "advisories": "https://www.nlnetlabs.nl/support/security-advisories/"
+        }
+    }
+}
