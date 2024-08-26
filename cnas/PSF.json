@@ -14,6 +14,12 @@
                 "github": "pypi"
             },
             "advisories": "https://github.com/pypa/advisory-database"
+        },
+        "pypa": {
+            "open_source": {
+                "github": "pypa"
+            },
+            "advisories": "https://github.com/pypa/advisory-database"
         }
     }
 }
