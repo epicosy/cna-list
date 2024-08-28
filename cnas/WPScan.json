@@ -1,0 +1,19 @@
+{
+    "email": "contact@wpscan.com",
+    "name": "WPScan",
+    "root": "cve@mitre.org",
+    "scope": {
+        "wordpress": {
+            "open_source": {
+                "github": "WordPress"
+            },
+            "advisories": "https://wpscan.com/wordpresses/"
+        },
+        "wpscan": {
+            "open_source": {
+                "github": "wpscanteam"
+            },
+            "advisories": "https://wpscan.com/wordpresses/"
+        }
+    }
+}

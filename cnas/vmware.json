@@ -1,0 +1,20 @@
+{
+    "email": "security@vmware.com",
+    "name": "VMware",
+    "root": "cve@mitre.org",
+    "scope": {
+        "vmware": {
+            "open_source": {
+                "github": "vmware"
+            },
+            "products": "https://www.vmware.com/solutions/cloud-partners",
+            "advisories": "https://www.broadcom.com/support/vmware-security-advisories"
+        },
+        "cloudfoundry": {
+            "open_source": {
+                "github": "cloudfoundry"
+            },
+            "advisories": "https://www.cloudfoundry.org/foundryblog/security-advisory/"
+        }
+    }
+}

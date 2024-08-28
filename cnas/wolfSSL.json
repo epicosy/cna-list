@@ -1,0 +1,14 @@
+{
+    "email": "facts@wolfssl.com",
+    "name": "wolfSSL Inc.",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "wolfssl": {
+            "open_source": {
+                "github": "wolfssl"
+            },
+            "products": "https://www.wolfssl.com/products/",
+            "advisories": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+        }
+    }
+}

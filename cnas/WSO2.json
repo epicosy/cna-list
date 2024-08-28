@@ -1,0 +1,21 @@
+{
+    "email": "security@wso2.com",
+    "name": "WSO2 LLC",
+    "root": "cve@mitre.org",
+    "scope": {
+        "wso2": {
+            "open_source": {
+                "github": "wso2"
+            },
+            "products": "https://wso2.com/",
+            "advisories": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/",
+            "services": "https://console.choreo.dev/login"
+        },
+        "ballerina": {
+            "open_source": {
+                "github": "ballerina-platform"
+            },
+            "advisories": "https://ballerina.io/security-policy/"
+        }
+    }
+}

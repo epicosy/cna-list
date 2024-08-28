@@ -1,0 +1,13 @@
+{
+    "email": "vulnerabilities@zephyrproject.org",
+    "name": "Zephyr Project",
+    "root": "cve@mitre.org",
+    "scope": {
+        "zephyrproject": {
+            "open_source": {
+                "github": "zephyrproject-rtos"
+            },
+            "advisories": "https://docs.zephyrproject.org/latest/security/vulnerabilities.html"
+        }
+    }
+}

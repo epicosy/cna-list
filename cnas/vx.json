@@ -1,0 +1,14 @@
+{
+    "email": "security@voting.works",
+    "name": "VotingWorks",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "votingworks": {
+            "open_source": {
+                "github": "votingworks"
+            },
+            "products": "https://www.voting.works/",
+            "advisories": "https://github.com/votingworks/vxsuite/security/advisories"
+        }
+    }
+}
