@@ -1,0 +1,15 @@
+{
+    "email": "security@opennms.com",
+    "name": "The OpenNMS Group",
+    "root": "cve@mitre.org",
+    "scope": {
+        "opennms": {
+            "open_source": {
+                "github": "OpenNMS"
+            },
+            "products": "https://www.opennms.com/",
+            "advisories": "https://www.opennms.com/en/blog/category/security/"
+        }
+    }
+}
+

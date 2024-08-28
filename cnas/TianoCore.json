@@ -1,0 +1,14 @@
+{
+    "email": "infosec-cna@edk2.groups.io",
+    "name": "TianoCore.org",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tianocore": {
+            "open_source": {
+                "github": "tianocore"
+            },
+            "advisories": "https://tianocore-docs.github.io/SecurityAdvisory/draft/"
+        }
+    }
+}
+

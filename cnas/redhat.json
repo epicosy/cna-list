@@ -1,0 +1,20 @@
+{
+    "email": "secalert@redhat.com",
+    "name": "Red Hat, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "redhat": {
+            "open_source": {
+                "github": "RedHatOfficial"
+            },
+            "products": "https://www.redhat.com/en/technologies/all-products",
+            "advisories": "https://access.redhat.com/security/security-updates/security-advisories"
+        },
+        "linux": "cve@kernel.org",
+        "gnu": "glibc-cna@sourceware.org",
+        "php": "security@php.net",
+        "apache": "security@apache.org",
+        "postgresql": "cna@postgresql.org",
+        "openssl": "openssl-security@openssl.org"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "email": "psirt@tigera.io",
+    "name": "Tigera, Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tigera": {
+            "open_source": {
+                "github": "tigera"
+            },
+            "products": "https://www.tigera.io/tigera-products/compare-products/",
+            "advisories": "https://www.tigera.io/security-bulletins/"
+        },
+        "projectcalico": {
+            "open_source": {
+                "github": "projectcalico"
+            },
+            "advisories": "https://www.tigera.io/security-bulletins/"
+        }
+    }
+}
+

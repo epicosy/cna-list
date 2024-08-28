@@ -1,0 +1,19 @@
+{
+    "email": "security@tcpdump.org",
+    "name": "Tcpdump Group",
+    "root": "cve@mitre.org",
+    "scope": {
+        "tcpdump": {
+            "open_source": {
+                "github": "the-tcpdump-group"
+            },
+            "advisories": "https://www.tcpdump.org/public-cve-list.txt"
+        },
+        "libpcap": {
+            "open_source": {
+                "github": "the-tcpdump-group"
+            },
+            "advisories": "https://www.tcpdump.org/public-cve-list.txt"
+        }
+    }
+}

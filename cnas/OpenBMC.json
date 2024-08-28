@@ -1,0 +1,14 @@
+{
+    "email": "openbmc-security@lists.ozlabs.org",
+    "name": "The OpenBMC Project",
+    "root": "cve@mitre.org",
+    "scope": {
+        "openbmc-project": {
+            "open_source": {
+                "github": "openbmc"
+            },
+            "advisories": "https://github.com/openbmc/openbmc/security/advisories"
+        }
+    }
+}
+

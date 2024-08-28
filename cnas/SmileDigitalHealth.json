@@ -1,0 +1,14 @@
+{
+    "email": "security@smiledigitalhealth.com",
+    "name": "Smile CDR Inc.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "smiledigitalhealth": {
+            "open_source": {
+                "github": "smilecdr"
+            },
+            "products": "https://www.smiledigitalhealth.com/",
+            "advisories": "https://www.smiledigitalhealth.com/legal/security-advisories"
+        }
+    }
+}
