@@ -1,0 +1,14 @@
+{
+    "email": "security@gitea.com",
+    "name": "Gitea Limited",
+    "root": "cve@mitre.org",
+    "scope": {
+        "gitea": {
+            "open_source": {
+                "github": "go-gitea"
+            },
+            "products": "https://about.gitea.com/",
+            "advisories": "https://about.gitea.com/security"
+        }
+    }
+}

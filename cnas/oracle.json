@@ -1,0 +1,15 @@
+{
+    "email": "secalert_us@oracle.com",
+    "name": "Oracle",
+    "root": "cve@mitre.org",
+    "scope": {
+        "oracle": {
+            "open_source": {
+                "github": "oracle"
+            },
+            "products": "https://www.oracle.com/products/",
+            "advisories": "https://www.oracle.com/security-alerts/",
+            "services": "https://www.oracle.com/cloud/"
+        }
+    }
+}

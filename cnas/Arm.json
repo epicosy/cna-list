@@ -1,0 +1,14 @@
+{
+    "email": "psirt@arm.com",
+    "name": "Arm Limited",
+    "root": "cve@mitre.org",
+    "scope": {
+        "arm": {
+            "open_source": {
+                "github": "ARM-software"
+            },
+            "products": "https://www.arm.com/products",
+            "advisories": "https://developer.arm.com/Arm%20Security%20Center"
+        }
+    }
+}

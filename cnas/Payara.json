@@ -1,0 +1,14 @@
+{
+    "email": "security@payara.fish",
+    "name": "Payara",
+    "root": "cve@mitre.org",
+    "scope": {
+        "payara": {
+            "open_source": {
+                "github": "payara"
+            },
+            "products": "https://www.payara.fish/products/",
+            "advisories": "https://docs.payara.fish/community/docs/Security/Security%20Fix%20List.html"
+        }
+    }
+}
