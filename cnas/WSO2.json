@@ -1,21 +1,15 @@
 {
-    "email": "security@wso2.com",
+    "id": "WSO2",
     "name": "WSO2 LLC",
     "root": "cve@mitre.org",
+    "email": "security@wso2.com",
     "scope": {
-        "wso2": {
-            "open_source": {
-                "github": "wso2"
-            },
-            "products": "https://wso2.com/",
-            "advisories": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/",
-            "services": "https://console.choreo.dev/login"
-        },
-        "ballerina": {
-            "open_source": {
-                "github": "ballerina-platform"
-            },
-            "advisories": "https://ballerina.io/security-policy/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "wso2",
+            "ballerina"
+        ]
+    },
+    "advisories": "https://security.docs.wso2.com/en/latest/security-announcements/"
 }

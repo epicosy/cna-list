@@ -1,14 +1,14 @@
 {
-    "email": "ca.psirt@broadcom.com",
+    "id": "ca",
     "name": "CA Technologies - A Broadcom Company",
     "root": "cve@mitre.org",
+    "email": "ca.psirt@broadcom.com",
     "scope": {
-        "broadcom": {
-            "open_source": {
-                "github": "CATechnologies"
-            },
-            "products": "https://www.broadcom.com/products/software",
-            "advisories": "https://support.broadcom.com/web/ecx/security-advisory"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "broadcom"
+        ]
+    },
+    "advisories": "https://support.broadcom.com/web/ecx/security-advisory"
 }

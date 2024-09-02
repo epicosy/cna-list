@@ -1,13 +1,14 @@
 {
-    "email": "alibaba-cna@list.alibaba-inc.com",
+    "id": "alibaba",
     "name": "Alibaba, Inc.",
     "root": "cve@mitre.org",
+    "email": "alibaba-cna@list.alibaba-inc.com",
     "scope": {
-        "alibaba": {
-            "open_source": {
-                "github": "alibaba"
-            },
-            "advisories": "https://security.alibaba.com/announcement.htm"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "alibaba"
+        ]
+    },
+    "advisories": "https://security.alibaba.com/announcement.htm"
 }

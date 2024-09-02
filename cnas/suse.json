@@ -1,33 +1,17 @@
 {
-    "email": "security@suse.de",
+    "id": "suse",
     "name": "SUSE",
     "root": "cve@mitre.org",
+    "email": "security@suse.de",
     "scope": {
-        "openSUSE": {
-            "open_source": {
-                "github": "openSUSE"
-            },
-            "advisories": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/"
-        },
-        "suse": {
-            "open_source": {
-                "github": "SUSE"
-            },
-            "products": "https://www.suse.com/products/",
-            "advisories": "https://www.suse.com/support/update/"
-        },
-        "rancher": {
-            "open_source": {
-                "github": "rancher"
-            },
-            "products": "https://www.rancher.com/products",
-            "advisories": "https://ranchermanager.docs.rancher.com/reference-guides/rancher-security/security-advisories-and-cves"
-        },
-        "k3s": {
-            "open_source": {
-                "github": "k3s-io"
-            },
-            "advisories": "https://docs.k3s.io/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "openSUSE",
+            "suse",
+            "rancher",
+            "k3s"
+        ]
+    },
+    "advisories": "https://www.suse.com/support/update/"
 }

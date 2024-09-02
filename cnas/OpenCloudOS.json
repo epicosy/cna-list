@@ -1,13 +1,14 @@
 {
-    "email": "security@opencloudos.tech",
+    "id": "OpenCloudOS",
     "name": "OpenCloudOS Community",
     "root": "cve@mitre.org",
+    "email": "security@opencloudos.tech",
     "scope": {
-        "opencloudos": {
-            "open_source": {
-                "github": "OpenCloudOS"
-            },
-            "advisories": "https://security.opencloudos.tech/cve/oc8.xml"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opencloudos"
+        ]
+    },
+    "advisories": "https://security.opencloudos.tech/cve/oc8.xml"
 }

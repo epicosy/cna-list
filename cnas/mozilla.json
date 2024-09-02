@@ -1,14 +1,14 @@
 {
-    "email": "security@mozilla.org",
+    "id": "mozilla",
     "name": "Mozilla Corporation",
     "root": "cve@mitre.org",
+    "email": "security@mozilla.org",
     "scope": {
-        "mozilla": {
-            "open_source": {
-                "github": "mozilla"
-            },
-            "products": "https://www.mozilla.org/en-US/products/",
-            "advisories": "https://www.mozilla.org/en-US/security/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mozilla"
+        ]
+    },
+    "advisories": "https://www.mozilla.org/en-US/security/advisories/"
 }

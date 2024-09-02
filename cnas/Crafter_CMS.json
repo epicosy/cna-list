@@ -1,13 +1,14 @@
 {
-    "email": "security@craftersoftware.com",
+    "id": "Crafter_CMS",
     "name": "Crafter CMS",
     "root": "cve@mitre.org",
+    "email": "security@craftersoftware.com",
     "scope": {
-        "craftercms": {
-            "open_source": {
-                "github": "craftercms"
-            },
-            "advisories": "https://docs.craftercms.org/en/4.0/security/advisory.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "craftercms"
+        ]
+    },
+    "advisories": "https://docs.craftercms.org/en/4.0/security/advisory.html"
 }

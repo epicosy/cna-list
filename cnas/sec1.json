@@ -1,11 +1,14 @@
 {
-    "email": "security@sec1.io",
+    "id": "sec1",
     "name": "Sec1",
     "root": "cve@mitre.org",
+    "email": "security@sec1.io",
     "scope": {
-        "sec1": {
-            "products": "https://sec1.io/",
-            "advisories": "https://sec1.io/sec1-security-advisories/"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "sec1"
+        ]
+    },
+    "advisories": "https://sec1.io/sec1-security-advisories/"
 }

@@ -1,15 +1,14 @@
 {
-    "email": "security@octopus.com",
+    "id": "Octopus",
     "name": "Octopus Deploy",
     "root": "cve@mitre.org",
+    "email": "security@octopus.com",
     "scope": {
-        "octopus": {
-            "open_source": {
-                "github": "OctopusDeploy"
-            },
-            "products": "https://octopus.com/features",
-            "advisories": "https://advisories.octopus.com/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "octopus"
+        ]
+    },
+    "advisories": "https://advisories.octopus.com/"
 }
-

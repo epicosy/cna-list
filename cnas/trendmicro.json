@@ -1,14 +1,14 @@
 {
-    "email": "security@trendmicro.com",
+    "id": "trendmicro",
     "name": "Trend Micro, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@trendmicro.com",
     "scope": {
-        "trendmicro": {
-            "open_source": {
-                "github": "trendmicro"
-            },
-            "products": "https://www.trendmicro.com/en_us/business/products.html",
-            "advisories": "https://success.trendmicro.com/vulnerability-response#report"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "trendmicro"
+        ]
+    },
+    "advisories": "https://success.trendmicro.com/vulnerability-response#report"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "security@papercut.com",
+    "id": "PaperCut",
     "name": "PaperCut Software International Pty Ltd",
     "root": "cve@mitre.org",
+    "email": "security@papercut.com",
     "scope": {
-        "papercut": {
-            "open_source": {
-                "github": "PaperCutSoftware"
-            },
-            "products": "https://www.papercut.com/products/",
-            "advisories": "https://www.papercut.com/kb/Main/CommonSecurityQuestions"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "papercut"
+        ]
+    },
+    "advisories": "https://www.papercut.com/kb/Main/CommonSecurityQuestions"
 }

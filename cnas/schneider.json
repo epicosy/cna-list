@@ -1,28 +1,16 @@
 {
-    "email": "cybersecurity@se.com",
+    "id": "schneider",
     "name": "Schneider Electric",
     "root": "cve@mitre.org",
+    "email": "cybersecurity@se.com",
     "scope": {
-        "schneider-electric": {
-            "aliases": [
-                "se"
-            ],
-            "open_source": {
-                "github": "SchneiderElectricBuildings"
-            },
-            "products": "https://www.se.com/us/en/all-products/",
-            "advisories": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
-        },
-        "aveva": {
-            "open_source": {
-                "github": "AVEVA"
-            },
-            "products": "https://www.aveva.com/en/products/",
-            "advisories": "https://www.aveva.com/en/support-and-success/cyber-security-updates/"
-        },
-        "apc": {
-            "products": "https://www.apc.com/us/en/all-products",
-            "advisories": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "schneider-electric",
+            "aveva",
+            "apc"
+        ]
+    },
+    "advisories": "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
 }

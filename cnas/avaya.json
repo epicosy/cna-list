@@ -1,14 +1,14 @@
 {
-    "email": "securityalerts@avaya.com",
+    "id": "avaya",
     "name": "Avaya Inc.",
     "root": "cve@mitre.org",
+    "email": "securityalerts@avaya.com",
     "scope": {
-        "avaya": {
-            "open_source": {
-                "github": "avaya"
-            },
-            "products": "https://www.avaya.com/en/",
-            "advisories": "https://support.avaya.com/support/en/helpcenter/securityAdvisory"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "avaya"
+        ]
+    },
+    "advisories": "https://support.avaya.com/support/en/helpcenter/securityAdvisory"
 }

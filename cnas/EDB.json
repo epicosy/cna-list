@@ -1,14 +1,14 @@
 {
-    "email": "disclosures@enterprisedb.com",
+    "id": "EDB",
     "name": "EnterpriseDB Corporation",
     "root": "cve@mitre.org",
+    "email": "disclosures@enterprisedb.com",
     "scope": {
-        "enterprisedb": {
-            "open_source": {
-                "github": "EnterpriseDB"
-            },
-            "products": "https://www.enterprisedb.com/products",
-            "advisories": "https://www.enterprisedb.com/docs/security/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "enterprisedb"
+        ]
+    },
+    "advisories": "https://www.enterprisedb.com/docs/security/advisories/"
 }

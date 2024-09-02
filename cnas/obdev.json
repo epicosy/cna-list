@@ -1,17 +1,14 @@
 {
-    "email": "office@obdev.at",
+    "id": "obdev",
     "name": "Objective Development Software GmbH",
     "root": "cve@mitre.org",
+    "email": "office@obdev.at",
     "scope": {
-        "obdev": {
-            "aliases": [
-                "objective_development"
-            ],
-            "open_source": {
-                "github": "obdev"
-            },
-            "products": "https://obdev.at/products/index.html",
-            "advisories": "https://obdev.at/cve/published-vulnerabilities.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "obdev"
+        ]
+    },
+    "advisories": "https://obdev.at/cve/published-vulnerabilities.html"
 }

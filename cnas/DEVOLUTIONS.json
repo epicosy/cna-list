@@ -1,14 +1,14 @@
 {
-    "email": "security@devolutions.net",
+    "id": "DEVOLUTIONS",
     "name": "Devolutions Inc.",
     "root": "cve@mitre.org",
+    "email": "security@devolutions.net",
     "scope": {
-        "devolutions": {
-            "open_source": {
-                "github": "Devolutions"
-            },
-            "products": "https://devolutions.net/",
-            "advisories": "https://devolutions.net/security/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "devolutions"
+        ]
+    },
+    "advisories": "https://devolutions.net/security/advisories/"
 }

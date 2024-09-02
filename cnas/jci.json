@@ -1,14 +1,14 @@
 {
-    "email": "productsecurity@jci.com",
+    "id": "jci",
     "name": "Johnson Controls",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "productsecurity@jci.com",
     "scope": {
-        "johnsoncontrols": {
-            "open_source": {
-                "github": "johnsoncontrols"
-            },
-            "products": "https://www.johnsoncontrols.com",
-            "advisories": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "johnsoncontrols"
+        ]
+    },
+    "advisories": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
 }

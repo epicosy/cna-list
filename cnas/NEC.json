@@ -1,11 +1,14 @@
 {
-    "email": "psirt-info@mlsig.jp.nec.com",
+    "id": "NEC",
     "name": "NEC Corporation",
     "root": "vuls@jpcert.or.jp",
+    "email": "psirt-info@mlsig.jp.nec.com",
     "scope": {
-        "nec": {
-            "products": "https://www.nec.com/en/global/prod/index.html",
-            "advisories": "https://jpn.nec.com/security-info/index.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "nec"
+        ]
+    },
+    "advisories": "https://jpn.nec.com/security-info/index.html"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "security@vaadin.com",
+    "id": "Vaadin",
     "name": "Vaadin Ltd.",
     "root": "cve@mitre.org",
+    "email": "security@vaadin.com",
     "scope": {
-        "vaadin": {
-            "open_source": {
-                "github": "vaadin"
-            },
-            "products": "https://vaadin.com/pricing",
-            "advisories": "https://vaadin.com/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "vaadin"
+        ]
+    },
+    "advisories": "https://vaadin.com/security"
 }

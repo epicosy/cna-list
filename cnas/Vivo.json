@@ -1,15 +1,14 @@
 {
-    "email": "security@vivo.com",
+    "id": "Vivo",
     "name": "Vivo Mobile Communication Co., Ltd.",
     "root": "cve@mitre.org",
+    "email": "security@vivo.com",
     "scope": {
-        "vivo": {
-            "open_source": {
-                "github": "vivo",
-                "vivo": "https://opensource.vivo.com/Project"
-            },
-            "products": "https://www.vivo.com/en/products",
-            "advisories": "https://www.vivo.com/en/activity/security-advisory"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "vivo"
+        ]
+    },
+    "advisories": "https://www.vivo.com/en/activity/security-advisory"
 }

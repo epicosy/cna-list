@@ -1,13 +1,14 @@
 {
-    "email": "security-officer@isc.org",
+    "id": "isc",
     "name": "Internet Systems Consortium (ISC)",
     "root": "cve@mitre.org",
+    "email": "security-officer@isc.org",
     "scope": {
-        "isc": {
-            "open_source": {
-                "github": "isc-projects"
-            },
-            "advisories": "https://kb.isc.org/docs/aa-01020"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "isc"
+        ]
+    },
+    "advisories": "https://kb.isc.org/docs/aa-01020"
 }

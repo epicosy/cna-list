@@ -1,14 +1,14 @@
 {
-    "email": "security@illumio.com",
+    "id": "Illumio",
     "name": "Illumio",
     "root": "cve@mitre.org",
+    "email": "security@illumio.com",
     "scope": {
-        "illumio": {
-            "open_source": {
-                "github": "illumio"
-            },
-            "products": "https://www.illumio.com/products",
-            "advisories": "https://docs.illumio.com/LandingPages/Categories/security-advisories.htm"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "illumio"
+        ]
+    },
+    "advisories": "https://docs.illumio.com/LandingPages/Categories/security-advisories.htm"
 }

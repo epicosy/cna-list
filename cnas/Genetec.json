@@ -1,15 +1,14 @@
 {
-    "email": "security@genetec.com",
+    "id": "Genetec",
     "name": "Genetec Inc.",
     "root": "cve@mitre.org",
+    "email": "security@genetec.com",
     "scope": {
-        "genetec": {
-            "open_source": {
-                "github": "Genetec"
-            },
-            "products": "https://www.genetec.com/products",
-            "services": "https://www.genetec.com/products/unified-security/security-center-saas",
-            "advisories": "https://resources.genetec.com/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "genetec"
+        ]
+    },
+    "advisories": "https://resources.genetec.com/security-advisories"
 }

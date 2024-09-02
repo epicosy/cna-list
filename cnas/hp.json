@@ -1,15 +1,14 @@
 {
-    "email": "hp-security-alert@hp.com",
+    "id": "hp",
     "name": "HP Inc.",
     "root": "cve@mitre.org",
+    "email": "hp-security-alert@hp.com",
     "scope": {
-        "hp": {
-            "open_source": {
-                "github": "HPInc"
-            },
-            "products": "https://www.hp.com/us-en/shop",
-            "advisories": "https://support.hp.com/us-en/security-bulletins"
-        },
-        "hpe": "security-alert@hpe.com"
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hp"
+        ]
+    },
+    "advisories": "https://support.hp.com/us-en/security-bulletins"
 }

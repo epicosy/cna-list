@@ -1,14 +1,14 @@
 {
-    "email": "responsibledisclosure@realpage.com",
+    "id": "RealPage",
     "name": "RealPage, Inc.",
     "root": "cve@mitre.org",
+    "email": "responsibledisclosure@realpage.com",
     "scope": {
-        "realpage": {
-            "open_source": {
-                "github": "Realpage"
-            },
-            "products": "https://www.realpage.com/",
-            "advisories": "https://www.realpage.com/support/security/responsible-disclosure/security-advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "realpage"
+        ]
+    },
+    "advisories": "https://www.realpage.com/support/security/responsible-disclosure/security-advisories/"
 }

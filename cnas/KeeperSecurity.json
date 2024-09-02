@@ -1,14 +1,14 @@
 {
-    "email": "security@keepersecurity.com",
+    "id": "KeeperSecurity",
     "name": "Keeper Security, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@keepersecurity.com",
     "scope": {
-        "keepersecurity": {
-            "open_source": {
-                "github": "Keeper-Security"
-            },
-            "products": "https://keepersecurity.com",
-            "advisories": "https://docs.keeper.io/release-notes/keeper-security/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "keepersecurity"
+        ]
+    },
+    "advisories": "https://docs.keeper.io/release-notes/keeper-security/security-advisories"
 }

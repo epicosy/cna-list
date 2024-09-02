@@ -1,13 +1,15 @@
 {
-    "email": "cna@postgresql.org",
+    "id": "PostgresSQL",
     "name": "PostgreSQL",
     "root": "RootCNA-Coordination@redhat.com",
+    "email": "cna@postgresql.org",
     "scope": {
-        "postgresql": {
-            "open_source": {
-                "github": "postgres"
-            },
-            "advisories": "https://www.postgresql.org/support/security/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "postgresql",
+            "pgadmin"
+        ]
+    },
+    "advisories": "https://www.postgresql.org/support/security/"
 }

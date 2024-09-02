@@ -1,14 +1,14 @@
 {
-    "email": "vulnreport@tenable.com",
+    "id": "tenable",
     "name": "Tenable Network Security, Inc.",
     "root": "cve@mitre.org",
+    "email": "vulnreport@tenable.com",
     "scope": {
-        "tenable": {
-            "open_source": {
-                "github": "tenable"
-            },
-            "products": "https://www.tenable.com/products",
-            "advisories": "https://www.tenable.com/security"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "tenable"
+        ]
+    },
+    "advisories": "https://www.tenable.com/security"
 }

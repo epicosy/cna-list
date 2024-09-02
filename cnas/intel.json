@@ -1,14 +1,14 @@
 {
-    "email": "secure@intel.com",
+    "id": "intel",
     "name": "Intel Corporation",
     "root": "cve@mitre.org",
+    "email": "secure@intel.com",
     "scope": {
-        "intel": {
-            "open_source": {
-                "github": "intel"
-            },
-            "products": "https://www.intel.com/content/www/us/en/products/overview.html",
-            "advisories": "https://www.intel.com/content/www/us/en/security-center/default.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "intel"
+        ]
+    },
+    "advisories": "https://www.intel.com/content/www/us/en/security-center/default.html"
 }

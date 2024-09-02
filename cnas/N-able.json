@@ -1,14 +1,14 @@
 {
-    "email": "psirt@n-able.com",
+    "id": "N-able",
     "name": "N-able",
     "root": "cve@mitre.org",
+    "email": "psirt@n-able.com",
     "scope": {
-        "n-able": {
-            "open_source": {
-                "github": "nable-org"
-            },
-            "products": "https://www.n-able.com/products",
-            "advisories": "https://me.n-able.com/s/global-search/%40uri#t=All&sort=relevancy&f:@repositorytype=[Security_Advisory]"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "n-able"
+        ]
+    },
+    "advisories": "https://me.n-able.com/s/global-search/%40uri#t=All&sort=relevancy&f:@repositorytype=[Security_Advisory]"
 }

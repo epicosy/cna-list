@@ -1,14 +1,14 @@
 {
-    "email": "secure@ea.com",
+    "id": "EA",
     "name": "Electronic Arts, Inc.",
     "root": "cve@mitre.org",
+    "email": "secure@ea.com",
     "scope": {
-        "ea": {
-            "open_source": {
-                "github": "electronicarts"
-            },
-            "products": "https://www.ea.com/games/library",
-            "advisories": "https://www.ea.com/security/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ea"
+        ]
+    },
+    "advisories": "https://www.ea.com/security/advisories"
 }

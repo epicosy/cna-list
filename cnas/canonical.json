@@ -1,19 +1,15 @@
 {
-    "email": "security@ubuntu.com",
+    "id": "canonical",
     "name": "Canonical Ltd.",
     "root": "cve@mitre.org",
+    "email": "security@ubuntu.com",
     "scope": {
-        "canonical": {
-            "open_source": {
-                "github": "canonical"
-            },
-            "advisories": "https://ubuntu.com/security/cves"
-        },
-        "ubuntu": {
-            "open_source": {
-                "github": "ubuntu"
-            },
-            "advisories": "https://ubuntu.com/security/cves"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "canonical",
+            "ubuntu"
+        ]
+    },
+    "advisories": "https://usn.ubuntu.com/"
 }

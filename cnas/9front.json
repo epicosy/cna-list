@@ -1,13 +1,14 @@
 {
-    "email": "bugs@9front.org",
+    "id": "9front",
     "name": "9front Systems",
     "root": "cve@mitre.org",
+    "email": "bugs@9front.org",
     "scope": {
-        "9front": {
-            "open_source": {
-                "github": "9front"
-            },
-            "advisories": "https://bugs.9front.org/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "9front"
+        ]
+    },
+    "advisories": "https://bugs.9front.org/"
 }

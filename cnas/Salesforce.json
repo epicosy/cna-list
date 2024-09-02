@@ -1,28 +1,16 @@
 {
-    "email": "security@salesforce.com",
+    "id": "Salesforce",
     "name": "Salesforce.com, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@salesforce.com",
     "scope": {
-        "salesforce": {
-            "open_source": {
-                "github": "salesforce"
-            },
-            "products": "https://www.salesforce.com/products/",
-            "advisories": "https://security.salesforce.com/security-advisories"
-        },
-        "tableau": {
-            "open_source": {
-                "github": "tableau"
-            },
-            "products": "https://www.tableau.com",
-            "advisories": "https://security.salesforce.com/security-advisories"
-        },
-        "mulesoft": {
-            "open_source": {
-                "github": "mulesoft"
-            },
-            "products": "https://www.mulesoft.com",
-            "advisories": "https://security.salesforce.com/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "salesforce",
+            "tableau",
+            "mulesoft"
+        ]
+    },
+    "advisories": "https://trust.salesforce.com/en/security/security-advisories/"
 }

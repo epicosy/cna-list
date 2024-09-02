@@ -1,15 +1,14 @@
 {
-    "email": "cybersecurity@hitachienergy.com",
+    "id": "Hitachi_Energy",
     "name": "Hitachi Energy",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "cybersecurity@hitachienergy.com",
     "scope": {
-        "hitachienergy": {
-            "open_source": {
-                "github": "hitachienergy"
-            },
-            "products": "https://www.hitachienergy.com/products-and-solutions",
-            "advisories": "https://www.hitachienergy.com/products-and-solutions/cybersecurity/alerts-and-notifications"
-        },
-        "hitachi": "hirt@hitachi.co.jp"
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hitachienergy"
+        ]
+    },
+    "advisories": "https://www.hitachienergy.com/products-and-solutions/cybersecurity/alerts-and-notifications"
 }

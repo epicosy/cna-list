@@ -1,13 +1,14 @@
 {
-    "email": "security@golang.org",
+    "id": "Go",
     "name": "Go Project",
     "root": "alphabet-cna@google.com",
+    "email": "security@golang.org",
     "scope": {
-        "golang": {
-            "open_source": {
-                "github": "golang"
-            },
-            "advisories": "https://pkg.go.dev/vuln/list"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "golang"
+        ]
+    },
+    "advisories": "https://pkg.go.dev/vuln/list"
 }

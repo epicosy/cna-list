@@ -1,11 +1,14 @@
 {
-    "email": "productsecurity@leica-microsystems.com",
+    "id": "LMS",
     "name": "Leica Microsystems",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "productsecurity@leica-microsystems.com",
     "scope": {
-        "leica": {
-            "products": "https://www.leica-microsystems.com/products/",
-            "advisories": "https://www.leica-microsystems.com/company/product-security/product-security-updates/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "leica"
+        ]
+    },
+    "advisories": "https://www.leica-microsystems.com/company/product-security/product-security-updates/"
 }

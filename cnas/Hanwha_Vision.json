@@ -1,14 +1,14 @@
 {
-    "email": "secure.cctv@hanwha.com",
+    "id": "Hanwha_Vision",
     "name": "Hanwha Vision Co., Ltd.",
     "root": "cve@mitre.org",
+    "email": "secure.cctv@hanwha.com",
     "scope": {
-        "hanwha": {
-            "open_source": {
-                "github": "hanwhavision"
-            },
-            "products": "https://www.hanwhavision.com/en/solutions/",
-            "advisories": "https://www.hanwhavision.com/en/support/cybersecurity/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hanwha"
+        ]
+    },
+    "advisories": "https://www.hanwhavision.com/en/support/cybersecurity/"
 }

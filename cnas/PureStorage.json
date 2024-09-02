@@ -1,14 +1,14 @@
 {
-    "email": "psirt@purestorage.com",
+    "id": "PureStorage",
     "name": "Pure Storage, Inc.",
     "root": "cve@mitre.org",
+    "email": "psirt@purestorage.com",
     "scope": {
-        "purestorage": {
-            "open_source": {
-                "github": "purestorage"
-            },
-            "products": "https://www.purestorage.com/products.html",
-            "advisories": "https://support.purestorage.com/bundle/m_security_bulletins/page/Pure_Security/topics/concept/c_security_bulletins.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "purestorage"
+        ]
+    },
+    "advisories": "https://support.purestorage.com/bundle/m_security_bulletins/page/Pure_Security/topics/concept/c_security_bulletins.html"
 }

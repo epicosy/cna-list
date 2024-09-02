@@ -1,21 +1,15 @@
 {
-    "email": "security-reports@zoom.us",
+    "id": "Zoom",
     "name": "Zoom Video Communications, Inc.",
     "root": "cve@mitre.org",
+    "email": "security-reports@zoom.us",
     "scope": {
-        "zoom": {
-            "open_source": {
-                "github": "zoom"
-            },
-            "products": "https://zoom.com/en/products",
-            "advisories": "https://zoom.us/trust/security/security-bulletin"
-        },
-        "keybase": {
-            "open_source": {
-                "github": "keybase"
-            },
-            "products": "https://keybase.io",
-            "advisories": "https://keybase.io/docs/secadv"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "zoom",
+            "keybase"
+        ]
+    },
+    "advisories": "https://zoom.us/trust/security/security-bulletin"
 }

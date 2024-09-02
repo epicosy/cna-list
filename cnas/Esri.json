@@ -1,14 +1,14 @@
 {
-    "email": "psirt@esri.com",
+    "id": "Esri",
     "name": "Environmental Systems Research Institute, Inc.",
     "root": "cve@mitre.org",
+    "email": "psirt@esri.com",
     "scope": {
-        "esri": {
-            "open_source": {
-                "github": "Esri"
-            },
-            "products": "https://www.esri.com/en-us/home",
-            "advisories": "https://trust.arcgis.com/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "esri"
+        ]
+    },
+    "advisories": "https://trust.arcgis.com/"
 }

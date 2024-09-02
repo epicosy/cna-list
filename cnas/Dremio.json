@@ -1,14 +1,14 @@
 {
-    "email": "security@dremio.com",
+    "id": "Dremio",
     "name": "Dremio Corporation",
     "root": "cve@mitre.org",
+    "email": "security@dremio.com",
     "scope": {
-        "dremio": {
-            "open_source": {
-                "github": "dremio"
-            },
-            "products": "https://www.dremio.com/solutions/",
-            "advisories": "https://docs.dremio.com/current/reference/bulletins/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "dremio"
+        ]
+    },
+    "advisories": "https://docs.dremio.com/current/reference/bulletins/"
 }

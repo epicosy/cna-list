@@ -1,18 +1,14 @@
 {
-    "email": "psirt@fortinet.com",
+    "id": "fortinet",
     "name": "Fortinet, Inc.",
     "root": "cve@mitre.org",
+    "email": "psirt@fortinet.com",
     "scope": {
-        "fortinet": {
-            "aliases": [
-                "forticlient",
-                "fortiguard"
-            ],
-            "open_source": {
-                "github": "fortinet"
-            },
-            "products": "https://www.fortinet.com/products",
-            "advisories": "https://www.fortiguard.com/psirt"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "fortinet"
+        ]
+    },
+    "advisories": "https://www.fortiguard.com/psirt"
 }

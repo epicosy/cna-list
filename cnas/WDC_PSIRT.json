@@ -1,14 +1,15 @@
 {
-    "email": "psirt@wdc.com",
+    "id": "WDC_PSIRT",
     "name": "Western Digital",
     "root": "cve@mitre.org",
+    "email": "psirt@wdc.com",
     "scope": {
-        "westerndigital": {
-            "open_source": {
-                "github": "westerndigitalcorporation"
-            },
-            "products": "https://www.westerndigital.com/products",
-            "advisories": "https://www.westerndigital.com/support/productsecurity"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "westerndigital",
+            "sandisk"
+        ]
+    },
+    "advisories": "https://www.westerndigital.com/support/productsecurity"
 }

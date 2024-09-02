@@ -1,14 +1,14 @@
 {
-    "email": "security@elastic.co",
+    "id": "elastic",
     "name": "Elastic",
     "root": "cve@mitre.org",
+    "email": "security@elastic.co",
     "scope": {
-        "elastic": {
-            "open_source": {
-                "github": "elastic"
-            },
-            "products": "https://www.elastic.co/platform",
-            "advisories": "https://www.elastic.co/community/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "elastic"
+        ]
+    },
+    "advisories": "https://www.elastic.co/community/security"
 }

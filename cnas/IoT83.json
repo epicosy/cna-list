@@ -1,11 +1,14 @@
 {
-    "email": "security@iot83.com",
+    "id": "IoT83",
     "name": "IoT83 Ltd",
     "root": "cve@mitre.org",
+    "email": "security@iot83.com",
     "scope": {
-        "iot83": {
-            "products": "https://www.iot83.com/",
-            "advisories": "https://www.iot83.com/security/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "iot83"
+        ]
+    },
+    "advisories": "https://www.iot83.com/security/"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "Mitsubishielectric.Psirt@yd.MitsubishiElectric.co.jp",
+    "id": "Mitsubishi",
     "name": "Mitsubishi Electric Corporation",
     "root": "vuls@jpcert.or.jp",
+    "email": "Mitsubishielectric.Psirt@yd.MitsubishiElectric.co.jp",
     "scope": {
-        "mitsubishielectric": {
-            "aliases": [
-                "mitsubishi"
-            ],
-            "products": "https://www.mitsubishielectric.com/en/products-solutions/index.html",
-            "advisories": "https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mitsubishielectric"
+        ]
+    },
+    "advisories": "https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html"
 }

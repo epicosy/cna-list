@@ -1,14 +1,14 @@
 {
-    "email": "security@sierrawireless.com",
+    "id": "SWI",
     "name": "Sierra Wireless Inc.",
     "root": "cve@mitre.org",
+    "email": "security@sierrawireless.com",
     "scope": {
-        "sierrawireless": {
-            "open_source": {
-                "github": "SierraWireless"
-            },
-            "products": "https://www.semtech.com/products/wireless-rf",
-            "advisories": "https://www.sierrawireless.com/company/iot-device-security/security-bulletins/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "sierrawireless"
+        ]
+    },
+    "advisories": "https://www.sierrawireless.com/company/iot-device-security/security-bulletins/"
 }

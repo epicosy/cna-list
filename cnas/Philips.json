@@ -1,14 +1,14 @@
 {
-    "email": "productsecurity@philips.com",
+    "id": "Philips",
     "name": "Philips",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "productsecurity@philips.com",
     "scope": {
-        "philips": {
-            "open_source": {
-                "github": "philips-software"
-            },
-            "products": "https://www.usa.philips.com/",
-            "advisories": "https://www.philips.com/a-w/security/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "philips"
+        ]
+    },
+    "advisories": "https://www.philips.com/a-w/security/security-advisories"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "secure@microsoft.com",
+    "id": "microsoft",
     "name": "Microsoft Corporation",
     "root": "cve@mitre.org",
+    "email": "secure@microsoft.com",
     "scope": {
-        "microsoft": {
-            "open_source": {
-                "github": "microsoft"
-            },
-            "products": "https://www.microsoft.com/en-us",
-            "advisories": "https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "microsoft"
+        ]
+    },
+    "advisories": "https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories"
 }

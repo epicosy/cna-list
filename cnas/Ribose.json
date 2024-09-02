@@ -1,33 +1,18 @@
 {
-    "email": "cve-coordination@ribose.com",
+    "id": "Ribose",
     "name": "Ribose Limited",
     "root": "cve@mitre.org",
+    "email": "cve-coordination@ribose.com",
     "scope": {
-        "ribose": {
-            "open_source": {
-                "github": "riboseinc"
-            },
-            "advisories": "https://cve.ribose.com/advisories/"
-        },
-        "metanorma": {
-            "open_source": { 
-                "github": "metanorma"
-            }
-        },
-        "cryptode": {
-            "open_source": { 
-                "github": "cryptode"
-            }
-        },
-        "relaton": {
-            "open_source": { 
-                "github": "relaton"
-            }
-        },
-        "rnpgp": {
-            "open_source": { 
-                "github": "rnpgp"
-            }
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ribose",
+            "metanorma",
+            "cryptode",
+            "relaton",
+            "rnpgp"
+        ]
+    },
+    "advisories": "https://open.ribose.com/advisories/"
 }

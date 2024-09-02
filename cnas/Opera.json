@@ -1,15 +1,14 @@
 {
-    "email": "security@opera.com",
+    "id": "Opera",
     "name": "Opera",
     "root": "cve@mitre.org",
+    "email": "security@opera.com",
     "scope": {
-        "opera": {
-            "open_source": {
-                "github": "operasoftware"
-            },
-            "products": "https://www.opera.com/browsers/opera",
-            "advisories": "https://security.opera.com/en/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opera"
+        ]
+    },
+    "advisories": "https://security.opera.com/en/advisories/"
 }
-

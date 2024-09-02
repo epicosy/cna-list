@@ -1,21 +1,15 @@
 {
-    "email": "psirt@tigera.io",
+    "id": "Tigera",
     "name": "Tigera, Inc.",
     "root": "cve@mitre.org",
+    "email": "psirt@tigera.io",
     "scope": {
-        "tigera": {
-            "open_source": {
-                "github": "tigera"
-            },
-            "products": "https://www.tigera.io/tigera-products/compare-products/",
-            "advisories": "https://www.tigera.io/security-bulletins/"
-        },
-        "projectcalico": {
-            "open_source": {
-                "github": "projectcalico"
-            },
-            "advisories": "https://www.tigera.io/security-bulletins/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "tigera",
+            "projectcalico"
+        ]
+    },
+    "advisories": "https://www.projectcalico.org/security-bulletins/"
 }
-

@@ -1,14 +1,14 @@
 {
-    "email": "hdq-toshiba-psirt@ml.toshiba.co.jp",
+    "id": "Toshiba",
     "name": "Toshiba Corporation",
     "root": "vuls@jpcert.or.jp",
+    "email": "hdq-toshiba-psirt@ml.toshiba.co.jp",
     "scope": {
-        "toshiba": {
-            "open_source": {
-                "github": "toshiba"
-            },
-            "products": "https://www.global.toshiba/ww/products-solutions.html",
-            "advisories": "https://www.global.toshiba/ww/cybersecurity/corporate/psirt.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "toshiba"
+        ]
+    },
+    "advisories": "https://www.global.toshiba/ww/cybersecurity/corporate/psirt.html"
 }

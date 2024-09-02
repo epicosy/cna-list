@@ -1,14 +1,14 @@
 {
-    "email": "security@42gears.com",
+    "id": "42Gears",
     "name": "42Gears Mobility Systems Pvt Ltd",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "security@42gears.com",
     "scope": {
-        "42gears": {
-            "open_source": {
-                "github": "42Gears"
-            },
-            "products": "https://www.42gears.com/products/",
-            "advisories": "https://www.42gears.com/trust-center/information-security/security-advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "42gears"
+        ]
+    },
+    "advisories": "https://www.42gears.com/trust-center/information-security/security-advisories/"
 }

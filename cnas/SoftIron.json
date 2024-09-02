@@ -1,14 +1,14 @@
 {
-    "email": "cve-coordination@softiron.com",
+    "id": "SoftIron",
     "name": "SoftIron",
     "root": "cve@mitre.org",
+    "email": "cve-coordination@softiron.com",
     "scope": {
-        "softiron": {
-            "open_source": {
-                "github": "SoftIron"
-            },
-            "products": "https://www.softiron.com/hypercloud",
-            "advisories": "https://docs.softiron.cloud/advisory/advisory/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "softiron"
+        ]
+    },
+    "advisories": "https://docs.softiron.cloud/advisory/advisory/"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "product.security@lge.com",
+    "id": "LGE",
     "name": "LG Electronics",
     "root": "cve@mitre.org",
+    "email": "product.security@lge.com",
     "scope": {
-        "lg": {
-            "open_source": {
-                "github": "LGE-OSS"
-            },
-            "products": "https://www.lg.com/us",
-            "advisories": "https://lgsecurity.lge.com/bulletins"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "lg"
+        ]
+    },
+    "advisories": "https://lgsecurity.lge.com/bulletins"
 }

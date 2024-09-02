@@ -1,11 +1,14 @@
 {
-    "email": "responsible.disclosure@ivanti.com",
+    "id": "ivanti",
     "name": "Ivanti",
     "root": "cve@mitre.org",
+    "email": "responsible.disclosure@ivanti.com",
     "scope": {
-        "ivanti": {
-            "products": "https://www.ivanti.com/products",
-            "advisories": "https://www.ivanti.com/blog/topics/security-advisory"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ivanti"
+        ]
+    },
+    "advisories": "https://www.ivanti.com/blog/topics/security-advisory"
 }

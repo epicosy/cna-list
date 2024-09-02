@@ -1,13 +1,14 @@
 {
-    "email": "security@xen.org",
+    "id": "XEN",
     "name": "Xen Project",
     "root": "cve@mitre.org",
+    "email": "security@xen.org",
     "scope": {
-        "xen": {
-            "open_source": {
-                "github": "xen-project"
-            },
-            "advisories": "https://xenbits.xen.org/xsa/"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "xen"
+        ]
+    },
+    "advisories": "https://xenbits.xen.org/xsa/"
 }

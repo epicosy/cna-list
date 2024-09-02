@@ -1,14 +1,14 @@
 {
-    "email": "psirt@amd.com",
+    "id": "AMD",
     "name": "Advanced Micro Devices Inc.",
     "root": "cve@mitre.org",
+    "email": "psirt@amd.com",
     "scope": {
-        "amd": {
-            "open_source": {
-                "github": "amd"
-            },
-            "products": "https://www.amd.com/en.html",
-            "advisories": "https://www.amd.com/en/resources/product-security.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "amd"
+        ]
+    },
+    "advisories": "https://www.amd.com/en/resources/product-security.html"
 }

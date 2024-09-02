@@ -1,11 +1,14 @@
 {
-    "email": "security@qnap.com",
+    "id": "qnap",
     "name": "QNAP Systems, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@qnap.com",
     "scope": {
-        "qnap": {
-            "products": "https://www.qnap.com/en-us/product/",
-            "advisories": "https://www.qnap.com/en/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "qnap"
+        ]
+    },
+    "advisories": "https://www.qnap.com/en/security-advisories"
 }

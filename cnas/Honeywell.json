@@ -1,11 +1,14 @@
 {
-    "email": "psirt@honeywell.com",
+    "id": "Honeywell",
     "name": "Honeywell International Inc.",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "psirt@honeywell.com",
     "scope": {
-        "honeywell": {
-            "products": "https://www.honeywell.com/us/en",
-            "advisories": "https://www.honeywell.com/us/en/support/productivity/cyber-security-notifications"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "honeywell"
+        ]
+    },
+    "advisories": "https://www.honeywell.com/us/en/support/productivity/cyber-security-notifications"
 }

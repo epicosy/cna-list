@@ -1,14 +1,14 @@
 {
-    "email": "prodsec@splunk.com",
+    "id": "Splunk",
     "name": "Splunk Inc.",
     "root": "cve@mitre.org",
+    "email": "prodsec@splunk.com",
     "scope": {
-        "splunk": {
-            "open_source": {
-                "github": "splunk"
-            },
-            "products": "https://www.splunk.com/en_us/products.html",
-            "advisories": "https://advisory.splunk.com/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "splunk"
+        ]
+    },
+    "advisories": "https://advisory.splunk.com/advisories"
 }

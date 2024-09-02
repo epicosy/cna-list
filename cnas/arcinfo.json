@@ -1,11 +1,14 @@
 {
-    "email": "secure@arcinfo.com",
+    "id": "arcinfo",
     "name": "ARC Informatique",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "secure@arcinfo.com",
     "scope": {
-        "arcinfo": {
-            "products": "https://www.pcvuesolutions.com/",
-            "advisories": "https://www.pcvuesolutions.com/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "arcinfo"
+        ]
+    },
+    "advisories": "https://www.pcvuesolutions.com/security"
 }

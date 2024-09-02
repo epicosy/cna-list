@@ -1,14 +1,14 @@
 {
-    "email": "psirt@amperecomputing.com",
+    "id": "Ampere",
     "name": "Ampere Computing",
     "root": "cve@mitre.org",
+    "email": "psirt@amperecomputing.com",
     "scope": {
-        "amperecomputing": {
-            "open_source": {
-                "github": "AmpereComputing"
-            },
-            "products": "https://amperecomputing.com/products/processors",
-            "advisories": "https://amperecomputing.com/products/product-security.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "amperecomputing"
+        ]
+    },
+    "advisories": "https://amperecomputing.com/products/product-security.html"
 }

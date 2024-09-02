@@ -1,14 +1,14 @@
 {
-    "email": "security@forescout.com",
+    "id": "Forescout",
     "name": "Forescout Technologies",
     "root": "cve@mitre.org",
+    "email": "security@forescout.com",
     "scope": {
-        "forescout": {
-            "open_source": {
-                "github": "Forescout"
-            },
-            "products": "https://www.forescout.com/products/",
-            "advisories": "https://docs.forescout.com/bundle/vulnerabilities/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "forescout"
+        ]
+    },
+    "advisories": "https://docs.forescout.com/bundle/vulnerabilities/"
 }

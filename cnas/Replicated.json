@@ -1,14 +1,14 @@
 {
-    "email": "security@replicated.com",
+    "id": "Replicated",
     "name": "Replicated, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@replicated.com",
     "scope": {
-        "replicated": {
-            "open_source": {
-                "github": "replicatedhq"
-            },
-            "products": "https://www.replicated.com/replicated-platform-overview",
-            "advisories": "https://www.replicated.com/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "replicated"
+        ]
+    },
+    "advisories": "https://www.replicated.com/advisories/"
 }

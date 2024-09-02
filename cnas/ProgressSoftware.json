@@ -1,28 +1,16 @@
 {
-    "email": "security@progress.com",
+    "id": "ProgressSoftware",
     "name": "Progress Software Corporation",
     "root": "cve@mitre.org",
+    "email": "security@progress.com",
     "scope": {
-        "progress": {
-            "open_source": {
-                "github": "progress"
-            },
-            "products": "https://www.progress.com/products",
-            "advisories": "https://www.progress.com/security"
-        },
-        "chef": {
-            "open_source": {
-                "github": "chef"
-            },
-            "products": "https://www.chef.io/products",
-            "advisories": "https://www.chef.io/security/"
-        },
-        "telerik": {
-            "open_source": {
-                "github": "telerik"
-            },
-            "products": "https://www.telerik.com/all-products",
-            "advisories": "https://docs.telerik.com/report-server/knowledge-base"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "progress",
+            "chef",
+            "telerik"
+        ]
+    },
+    "advisories": "https://community.progress.com/s/"
 }

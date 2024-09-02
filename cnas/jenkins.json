@@ -1,13 +1,14 @@
 {
-    "email": "jenkinsci-cert@googlegroups.com",
+    "id": "jenkins",
     "name": "Jenkins Project",
     "root": "cve@mitre.org",
+    "email": "jenkinsci-cert@googlegroups.com",
     "scope": {
-        "jenkins": {
-            "open_source": {
-                "github": "jenkinsci"
-            },
-            "advisories": "https://www.jenkins.io/security/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "jenkins"
+        ]
+    },
+    "advisories": "https://www.jenkins.io/security/advisories/"
 }

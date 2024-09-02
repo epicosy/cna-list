@@ -1,18 +1,14 @@
 {
-    "email": "psirt@hcl.com",
+    "id": "HCL",
     "name": "HCL Software",
     "root": "cve@mitre.org",
+    "email": "psirt@hcl.com",
     "scope": {
-        "hcltech": {
-            "aliases": [
-                "hcl",
-                "hcltechsw"
-            ],
-            "open_source": {
-                "github": "HCL-TECH-SOFTWARE"
-            },
-            "products": "https://www.hcl-software.com/products",
-            "advisories": "https://www.hcl-software.com/resources/psirt"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hcltech"
+        ]
+    },
+    "advisories": "https://www.hcl-software.com/resources/psirt"
 }

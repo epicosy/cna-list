@@ -1,28 +1,16 @@
 {
-    "email": "productcert@siemens.com",
+    "id": "Siemens",
     "name": "Siemens",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "productcert@siemens.com",
     "scope": {
-        "siemens": {
-            "open_source": {
-                "github": "siemens"
-            },
-            "products": "https://www.siemens.com/global/en/products.html",
-            "advisories": "https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications"
-        },
-        "mendix": {
-            "open_source": {
-                "github": "mendix"
-            },
-            "products": "https://www.mendix.com/",
-            "advisories": "https://docs.mendix.com/releasenotes/security-advisories/"
-        },
-        "siemens-healthineers": {
-            "open_source": {
-                "github": "siemens-healthineers"
-            },
-            "products": "https://www.siemens-healthineers.com/products-services",
-            "advisories": "https://www.siemens-healthineers.com/support-documentation/cybersecurity"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "siemens",
+            "mendix",
+            "siemens-healthineers"
+        ]
+    },
+    "advisories": "https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications"
 }

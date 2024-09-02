@@ -1,14 +1,14 @@
 {
-    "email": "secure@beyondtrust.com",
+    "id": "BT",
     "name": "BeyondTrust Inc.",
     "root": "cve@mitre.org",
+    "email": "secure@beyondtrust.com",
     "scope": {
-        "beyondtrust": {
-            "open_source": {
-                "github": "BeyondTrust"
-            },
-            "products": "https://www.beyondtrust.com/products/",
-            "advisories": "https://www.beyondtrust.com/trust-center/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "beyondtrust"
+        ]
+    },
+    "advisories": "https://www.beyondtrust.com/trust-center/security-advisories"
 }

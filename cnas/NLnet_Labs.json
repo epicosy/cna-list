@@ -1,13 +1,14 @@
 {
-    "email": "sep@nlnetlabs.nl",
+    "id": "NLnet_Labs",
     "name": "NLnet Labs",
     "root": "cve@mitre.org",
+    "email": "sep@nlnetlabs.nl",
     "scope": {
-        "nlnetlabs": {
-            "open_source": {
-                "github": "NLnetLabs"
-            },
-            "advisories": "https://www.nlnetlabs.nl/support/security-advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "nlnetlabs"
+        ]
+    },
+    "advisories": "https://www.nlnetlabs.nl/support/security-advisories/"
 }

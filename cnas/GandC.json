@@ -1,14 +1,14 @@
 {
-    "email": "xpdf@xpdfreader.com",
+    "id": "GandC",
     "name": "Glyph & Cog, LLC",
     "root": "RootCNA-Coordination@redhat.com",
+    "email": "xpdf@xpdfreader.com",
     "scope": {
-        "xpdfreader": {
-            "open_source": {
-                "xpdfreader": "https://www.xpdfreader.com/download.html"
-            },
-            "products": "https://www.glyphandcog.com/products.html",
-            "advisories": "https://www.xpdfreader.com/security-fixes.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "xpdfreader"
+        ]
+    },
+    "advisories": "https://www.xpdfreader.com/security-fixes.html"
 }

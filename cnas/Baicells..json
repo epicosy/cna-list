@@ -1,11 +1,14 @@
 {
-    "email": "security@baicells.com",
+    "id": "Baicells.",
     "name": "Baicells Technologies Co., Ltd.",
     "root": "cve@mitre.org",
+    "email": "security@baicells.com",
     "scope": {
-        "baicells": {
-            "products": "https://baicells.zendesk.com/hc/en-us/categories/204105328-Product-Firmware-and-Documentation",
-            "advisories": "https://baicells.zendesk.com/hc/en-us/sections/206436107-Security-Vulnerability-Notices"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "baicells"
+        ]
+    },
+    "advisories": "https://baicells.zendesk.com/hc/en-us/sections/206436107-Security-Vulnerability-Notices"
 }

@@ -1,11 +1,14 @@
 {
-    "email": "security@zyxel.com.tw",
+    "id": "Zyxel",
     "name": "Zyxel Corporation",
     "root": "cve@mitre.org",
+    "email": "security@zyxel.com.tw",
     "scope": {
-        "zyxel": {
-            "products": "https://www.zyxel.com/global/en/products",
-            "advisories": "https://www.zyxel.com/global/en/support/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "zyxel"
+        ]
+    },
+    "advisories": "https://www.zyxel.com/global/en/support/security-advisories"
 }

@@ -1,21 +1,15 @@
 {
-    "email": "security@mautic.org",
+    "id": "Mautic",
     "name": "Mautic",
     "root": "cve@mitre.org",
+    "email": "security@mautic.org",
     "scope": {
-        "mautic": {
-            "open_source": {
-                "github": "mautic"
-            },
-            "services": "https://dropsolid.io/extend-your-trial",
-            "advisories": "https://github.com/mautic/mautic/security/advisories"
-        },
-        "acquia": {
-            "open_source": {
-                "github": "acquia"
-            },
-            "products": "https://www.acquia.com/products",
-            "advisories": "https://security.acquia.com/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mautic",
+            "acquia"
+        ]
+    },
+    "advisories": "https://github.com/mautic/mautic/security/advisories"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "psirt@zte.com.cn",
+    "id": "ZTE",
     "name": "ZTE Corporation",
     "root": "cve@mitre.org",
+    "email": "psirt@zte.com.cn",
     "scope": {
-        "zte": {
-            "open_source": {
-                "github": "zte-opensource"
-            },
-            "products": "https://www.zte.com.cn/global/index.html",
-            "advisories": "https://support.zte.com.cn/support/news/LoopholeInfoList.aspx?classId=972&_langType=en"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "zte"
+        ]
+    },
+    "advisories": "https://support.zte.com.cn/support/news/LoopholeInfoList.aspx?classId=972&_langType=en"
 }

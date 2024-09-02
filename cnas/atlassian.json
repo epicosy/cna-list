@@ -1,14 +1,14 @@
 {
-    "email": "security@atlassian.com",
+    "id": "atlassian",
     "name": "Atlassian",
     "root": "cve@mitre.org",
+    "email": "security@atlassian.com",
     "scope": {
-        "atlassian": {
-            "open_source": {
-                "github": "atlassian"
-            },
-            "products": "https://www.atlassian.com/software",
-            "advisories": "https://www.atlassian.com/trust/security/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "atlassian"
+        ]
+    },
+    "advisories": "https://www.atlassian.com/trust/security/advisories"
 }

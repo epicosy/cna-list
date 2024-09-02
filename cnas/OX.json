@@ -1,28 +1,16 @@
 {
-    "email": "security@open-xchange.com",
+    "id": "OX",
     "name": "Open-Xchange",
     "root": "cve@mitre.org",
+    "email": "security@open-xchange.com",
     "scope": {
-        "open-xchange": {
-            "open_source": {
-                "github": "open-xchange"
-            },
-            "products": "https://www.open-xchange.com/",
-            "advisories": "https://documentation.open-xchange.com/appsuite/security/advisories/"
-        },
-        "powerdns": {
-            "open_source": {
-                "github": "PowerDNS"
-            },
-            "products": "https://www.powerdns.com/",
-            "advisories": "https://doc.powerdns.com/authoritative/security-advisories/"
-        },
-        "dovecot": {
-            "open_source": {
-                "github": "dovecot"
-            },
-            "products": "https://www.dovecot.org/",
-            "advisories": "https://www.dovecot.org/security/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "open-xchange",
+            "powerdns",
+            "dovecot"
+        ]
+    },
+    "advisories": "https://documentation.open-xchange.com/appsuite/security/advisories/"
 }

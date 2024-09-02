@@ -1,14 +1,14 @@
 {
-    "email": "product-security@qualcomm.com",
+    "id": "qualcomm",
     "name": "Qualcomm, Inc.",
     "root": "cve@mitre.org",
+    "email": "product-security@qualcomm.com",
     "scope": {
-        "qualcomm": {
-            "open_source": {
-                "github": "qualcomm"
-            },
-            "products": "https://www.qualcomm.com/products",
-            "advisories": "https://www.qualcomm.com/company/product-security/bulletins"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "qualcomm"
+        ]
+    },
+    "advisories": "https://www.qualcomm.com/company/product-security/bulletins"
 }

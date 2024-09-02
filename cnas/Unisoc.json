@@ -1,14 +1,14 @@
 {
-    "email": "security@unisoc.com",
+    "id": "Unisoc",
     "name": "Unisoc Technologies Co., Ltd.",
     "root": "cve@mitre.org",
+    "email": "security@unisoc.com",
     "scope": {
-        "unisoc": {
-            "open_source": {
-                "github": "unisoc"
-            },
-            "products": "https://www.unisoc.com/en_us/prod/52",
-            "advisories": "https://www.unisoc.com/en_us/secy/announcement"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "unisoc"
+        ]
+    },
+    "advisories": "https://www.unisoc.com/en_us/secy/announcement"
 }

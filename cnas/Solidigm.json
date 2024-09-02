@@ -1,14 +1,14 @@
 {
-    "email": "Security@Solidigm.com",
+    "id": "Solidigm",
     "name": "Solidigm",
     "root": "cve@mitre.org",
+    "email": "Security@Solidigm.com",
     "scope": {
-        "solidigm": {
-            "open_source": {
-                "github": "solidigm"
-            },
-            "products": "https://www.solidigm.com",
-            "advisories": "https://www.solidigm.com/support-page/support-security.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "solidigm"
+        ]
+    },
+    "advisories": "https://www.solidigm.com/support-page/support-security.html"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "security.vulnerabilities@algosec.com",
+    "id": "AlgoSec",
     "name": "AlgoSec",
     "root": "cve@mitre.org",
+    "email": "security.vulnerabilities@algosec.com",
     "scope": {
-        "algosec": {
-            "open_source": {
-                "github": "algosec"
-            },
-            "products": "https://www.algosec.com/products/",
-            "advisories": "https://www.algosec.com/resources/algosec-security-center"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "algosec"
+        ]
+    },
+    "advisories": "https://www.algosec.com/resources/algosec-security-center"
 }

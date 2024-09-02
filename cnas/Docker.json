@@ -1,21 +1,14 @@
 {
-    "email": "security@docker.com",
+    "id": "Docker",
     "name": "Docker",
     "root": "cve@mitre.org",
+    "email": "security@docker.com",
     "scope": {
-        "docker": {
-            "open_source": {
-                "github": "docker"
-            },
-            "products": {
-                "desktop": {
-                    "advisories": "https://docs.docker.com/desktop/release-notes/#security"
-                },
-                "engine": {
-                    "advisories": "https://docs.docker.com/engine/release-notes/27.1/#security"
-                }
-            },
-            "advisories": "https://docs.docker.com/security/security-announcements/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "docker"
+        ]
+    },
+    "advisories": "https://docs.docker.com/security/security-announcements/"
 }

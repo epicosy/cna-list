@@ -1,14 +1,14 @@
 {
-    "email": "scy@openharmony.io",
+    "id": "OpenHarmony",
     "name": "OpenHarmony",
     "root": "cve@mitre.org",
+    "email": "scy@openharmony.io",
     "scope": {
-        "openharmony": {
-            "open_source": {
-                "github": "openharmony",
-                "gitee": "openharmony"
-            },
-            "advisories": "https://gitee.com/openharmony/security/tree/master/en/security-disclosure"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "openharmony"
+        ]
+    },
+    "advisories": "https://gitee.com/openharmony/security/tree/master/en/security-disclosure"
 }

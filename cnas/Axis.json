@@ -1,14 +1,14 @@
 {
-    "email": "product-security@axis.com",
+    "id": "Axis",
     "name": "Axis Communications AB",
     "root": "cve@mitre.org",
+    "email": "product-security@axis.com",
     "scope": {
-        "axis": {
-            "open_source": {
-                "github": "AxisCommunications"
-            },
-            "products": "https://www.axis.com/en-us/products",
-            "advisories": "https://www.axis.com/support/cybersecurity/vulnerability-management"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "axis"
+        ]
+    },
+    "advisories": "https://www.axis.com/support/cybersecurity/vulnerability-management"
 }

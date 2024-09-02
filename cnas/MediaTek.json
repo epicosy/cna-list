@@ -1,14 +1,14 @@
 {
-    "email": "security@mediatek.com",
+    "id": "MediaTek",
     "name": "MediaTek Inc.",
     "root": "cve@mitre.org",
+    "email": "security@mediatek.com",
     "scope": {
-        "mediatek": {
-            "open_source": {
-                "github": "MediaTek-Labs"
-            },
-            "products": "https://www.mediatek.com",
-            "advisories": "https://corp.mediatek.com/product-security-bulletin"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mediatek"
+        ]
+    },
+    "advisories": "https://corp.mediatek.com/product-security-bulletin"
 }

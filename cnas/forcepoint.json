@@ -1,14 +1,14 @@
 {
-    "email": "psirt@forcepoint.com",
+    "id": "forcepoint",
     "name": "Forcepoint",
     "root": "cve@mitre.org",
+    "email": "psirt@forcepoint.com",
     "scope": {
-        "forcepoint": {
-            "open_source": {
-                "github": "forcepoint"
-            },
-            "products": "https://www.forcepoint.com/products",
-            "advisories": "https://support.forcepoint.com/s/knowledge-base#t=All&sort=relevancy&f:@sfrecordtypename=[Security%20Advisory]"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "forcepoint"
+        ]
+    },
+    "advisories": "https://support.forcepoint.com/s/knowledge-base#t=All&sort=relevancy&f:@sfrecordtypename=[Security%20Advisory]"
 }

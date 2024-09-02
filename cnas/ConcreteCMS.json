@@ -1,13 +1,14 @@
 {
-    "email": "security@concretecms.org",
+    "id": "ConcreteCMS",
     "name": "Concrete CMS",
     "root": "cve@mitre.org",
+    "email": "security@concretecms.org",
     "scope": {
-        "concretecms": {
-            "open_source": {
-                "github": "concretecms"
-            },
-            "advisories": "https://www.concretecms.org/about/project-news/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "concretecms"
+        ]
+    },
+    "advisories": "https://www.concretecms.org/about/project-news/security"
 }

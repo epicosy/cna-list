@@ -1,13 +1,14 @@
 {
-    "email": "security@joomla.org",
+    "id": "Joomla",
     "name": "Joomla! Project",
     "root": "cve@mitre.org",
+    "email": "security@joomla.org",
     "scope": {
-        "joomla": {
-            "open_source": {
-                "github": "joomla"
-            },
-            "advisories": "https://developer.joomla.org/security-centre.html"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "joomla"
+        ]
+    },
+    "advisories": "https://developer.joomla.org/security-centre.html"
 }

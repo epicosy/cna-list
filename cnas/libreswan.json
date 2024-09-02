@@ -1,13 +1,14 @@
 {
-    "email": "security@libreswan.org",
+    "id": "libreswan",
     "name": "Libreswan Project",
     "root": "cve@mitre.org",
+    "email": "security@libreswan.org",
     "scope": {
-        "libreswan": {
-            "open_source": {
-                "github": "libreswan"
-            },
-            "advisories": "https://libreswan.org/security/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "libreswan"
+        ]
+    },
+    "advisories": "https://libreswan.org/security/"
 }

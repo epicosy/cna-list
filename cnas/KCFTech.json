@@ -1,15 +1,14 @@
 {
-    "email": "security@kcftech.com",
+    "id": "KCFTech",
     "name": "KCF Technologies, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@kcftech.com",
     "scope": {
-        "kcftech": {
-            "open_source": {
-                "github": "KCFTech"
-            },
-            "products": "https://www.kcftech.com",
-            "services": "https://sd.kcftech.com/",
-            "advisories": "https://status.kcftech.com/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "kcftech"
+        ]
+    },
+    "advisories": "https://status.kcftech.com/"
 }

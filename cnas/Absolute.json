@@ -1,14 +1,14 @@
 {
-    "email": "securityresponse@absolute.com",
+    "id": "Absolute",
     "name": "Absolute Software",
     "root": "cve@mitre.org",
+    "email": "securityresponse@absolute.com",
     "scope": {
-        "absolute": {
-            "open_source": {
-                "github": "AbsoluteSoftware"
-            },
-            "products": "https://www.absolute.com/platform/compare-absolute-products/",
-            "advisories": "https://www.absolute.com/platform/security-information/vulnerability-archive/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "absolute"
+        ]
+    },
+    "advisories": "https://www.absolute.com/platform/security-information/vulnerability-archive/"
 }

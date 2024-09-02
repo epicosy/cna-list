@@ -1,13 +1,14 @@
 {
-    "email": "secteam@freebsd.org",
+    "id": "freebsd",
     "name": "FreeBSD",
     "root": "cve@mitre.org",
+    "email": "secteam@freebsd.org",
     "scope": {
-        "freebsd": {
-            "open_source": {
-                "github": "freebsd"
-            },
-            "advisories": "https://www.freebsd.org/security/advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "freebsd"
+        ]
+    },
+    "advisories": "https://www.freebsd.org/security/advisories/"
 }

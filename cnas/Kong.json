@@ -1,14 +1,14 @@
 {
-    "email": "vulnerability@konghq.com",
+    "id": "Kong",
     "name": "Kong Inc.",
     "root": "cve@mitre.org",
+    "email": "vulnerability@konghq.com",
     "scope": {
-        "konghq": {
-            "open_source": {
-                "github": "Kong"
-            },
-            "products": "https://konghq.com/",
-            "advisories": "https://konghq.com/compliance/psa"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "konghq"
+        ]
+    },
+    "advisories": "https://konghq.com/compliance/psa"
 }

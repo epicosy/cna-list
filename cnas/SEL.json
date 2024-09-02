@@ -1,14 +1,14 @@
 {
-    "email": "security@selinc.com",
+    "id": "SEL",
     "name": "Schweitzer Engineering Laboratories, Inc.",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "security@selinc.com",
     "scope": {
-        "selinc": {
-            "open_source": {
-                "github": "schweitzer-engineering-laboratories"
-            },
-            "products": "https://selinc.com/products/",
-            "advisories": "https://selinc.com/support/security-notifications/external-reports/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "selinc"
+        ]
+    },
+    "advisories": "https://selinc.com/support/security-notifications/external-reports/"
 }

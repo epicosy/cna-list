@@ -1,21 +1,15 @@
 {
-    "email": "security-alert@sophos.com",
+    "id": "Sophos",
     "name": "Sophos Limited",
     "root": "cve@mitre.org",
+    "email": "security-alert@sophos.com",
     "scope": {
-        "sophos": {
-            "open_source": {
-                "github": "sophos"
-            },
-            "products": "https://www.sophos.com/en-us/products",
-            "advisories": "https://www.sophos.com/en-us/security-advisories"
-        },
-        "capsule8": {
-            "open_source": {
-                "github": "Capsule8"
-            },
-            "products": "https://www.sophos.com/en-us/products/cloud-native-security",
-            "advisories": "https://www.sophos.com/en-us/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "sophos",
+            "capsule8"
+        ]
+    },
+    "advisories": "https://community.sophos.com/b/security-blog/"
 }

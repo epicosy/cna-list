@@ -1,13 +1,14 @@
 {
-    "email": "security@debian.org",
+    "id": "debian",
     "name": "Debian GNU/Linux",
     "root": "cve@mitre.org",
+    "email": "security@debian.org",
     "scope": {
-        "debian": {
-            "open_source": {
-                "github": "Debian"
-            },
-            "advisories": "https://www.debian.org/security/#DSAS"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "debian"
+        ]
+    },
+    "advisories": "https://www.debian.org/security/#DSAS"
 }

@@ -1,21 +1,15 @@
 {
-    "email": "psirt@bosch.com",
+    "id": "bosch",
     "name": "Robert Bosch GmbH",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "psirt@bosch.com",
     "scope": {
-        "bosch": {
-            "open_source": {
-                "github": "bosch"
-            },
-            "products": "https://www.bosch.com/products-and-services/",
-            "advisories": "https://psirt.bosch.com/security-advisories/"
-        },
-        "boschrexroth": {
-            "open_source": {
-                "github": "boschrexroth"
-            },
-            "products": "https://www.boschrexroth.com/en/dc/technology/",
-            "advisories": "https://www.boschrexroth.com/en/dc/product-security/security-advisories/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "bosch",
+            "boschrexroth"
+        ]
+    },
+    "advisories": "https://psirt.bosch.com/security-advisories/"
 }

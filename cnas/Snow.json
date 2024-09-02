@@ -1,14 +1,14 @@
 {
-    "email": "security@snowsoftware.com",
+    "id": "Snow",
     "name": "Snow Software",
     "root": "cve@mitre.org",
+    "email": "security@snowsoftware.com",
     "scope": {
-        "snowsoftware": {
-            "open_source": {
-                "github": "SnowSoftware"
-            },
-            "products": "https://www.flexera.com/products/snow",
-            "advisories": "https://community.snowsoftware.com/s/group/0F91r000000QUhPCAW/news-updates"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "snowsoftware"
+        ]
+    },
+    "advisories": "https://community.snowsoftware.com/s/group/0F91r000000QUhPCAW/news-updates"
 }

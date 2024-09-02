@@ -1,14 +1,14 @@
 {
-    "email": "security@voting.works",
+    "id": "vx",
     "name": "VotingWorks",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "security@voting.works",
     "scope": {
-        "votingworks": {
-            "open_source": {
-                "github": "votingworks"
-            },
-            "products": "https://www.voting.works/",
-            "advisories": "https://github.com/votingworks/vxsuite/security/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "votingworks"
+        ]
+    },
+    "advisories": "https://github.com/votingworks/vxsuite/security/advisories"
 }

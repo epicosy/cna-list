@@ -1,20 +1,15 @@
 {
-    "email": "security-report@netflix.com",
+    "id": "netflix",
     "name": "Netflix, Inc.",
     "root": "cve@mitre.org",
+    "email": "security-report@netflix.com",
     "scope": {
-        "netflix": {
-            "open_source": {
-                "github": "Netflix"
-            },
-            "products": "https://www.netflix.com/app",
-            "advisories": "https://github.com/Netflix/security-bulletins"
-        },
-        "spinnaker": {
-            "open_source": {
-                "github": "spinnaker"
-            },
-            "advisories": "https://github.com/spinnaker/spinnaker.github.io/security/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "netflix",
+            "spinnaker"
+        ]
+    },
+    "advisories": "https://github.com/Netflix/security-bulletins"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "support@crestron.com",
+    "id": "Crestron",
     "name": "Crestron Electronics, Inc.",
     "root": "cve@mitre.org",
+    "email": "support@crestron.com",
     "scope": {
-        "crestron": {
-            "open_source": {
-                "github": "Crestron"
-            },
-            "products": "https://www.crestron.com/Products",
-            "advisories": "https://www.crestron.com/Security/Security_Advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "crestron"
+        ]
+    },
+    "advisories": "https://www.crestron.com/Security/Security_Advisories"
 }

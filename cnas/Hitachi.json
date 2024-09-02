@@ -1,14 +1,14 @@
 {
-    "email": "hirt@hitachi.co.jp",
+    "id": "Hitachi",
     "name": "Hitachi, Ltd.",
     "root": "vuls@jpcert.or.jp",
+    "email": "hirt@hitachi.co.jp",
     "scope": {
-        "hitachi": {
-            "open_source": {
-                "github": "Hitachi"
-            },
-            "products": "https://www.hitachi.com/businesses/index.html",
-            "advisories": "https://www.hitachi.com/products/it/software/security/index.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hitachi"
+        ]
+    },
+    "advisories": "https://www.hitachi.com/products/it/software/security/index.html"
 }

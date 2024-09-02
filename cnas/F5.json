@@ -1,20 +1,15 @@
 {
-    "email": "f5sirt@f5.com",
+    "id": "F5",
     "name": "F5, Inc.",
     "root": "cve@mitre.org",
+    "email": "f5sirt@f5.com",
     "scope": {
-        "f5": {
-            "open_source": {
-                "github": "F5Networks"
-            },  
-            "products": "https://www.f5.com/products",
-            "advisories": "https://my.f5.com/manage/s/tech-documents"
-        },
-        "nginx": {
-            "open_source": {
-                "github": "nginx"
-            },
-            "advisories": "https://nginx.org/en/security_advisories.html"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "f5",
+            "nginx"
+        ]
+    },
+    "advisories": "https://support.f5.com/csp/knowledge-center/security"
 }

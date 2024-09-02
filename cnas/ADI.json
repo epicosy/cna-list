@@ -1,14 +1,14 @@
 {
-    "email": "securityalert@analog.com",
+    "id": "ADI",
     "name": "Analog Devices, Inc.",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "securityalert@analog.com",
     "scope": {
-        "analogdevices": {
-            "open_source": {
-                "github": "analogdevicesinc"
-            },
-            "products": "https://www.analog.com/en/product-category.html",
-            "advisories": "https://www.analog.com/en/support/technical-support/product-security-response-center.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "analogdevices"
+        ]
+    },
+    "advisories": "https://www.analog.com/en/support/technical-support/product-security-response-center.html"
 }

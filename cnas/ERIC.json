@@ -1,14 +1,14 @@
 {
-    "email": "psirt@ericsson.com",
+    "id": "ERIC",
     "name": "Ericsson",
     "root": "cve@mitre.org",
+    "email": "psirt@ericsson.com",
     "scope": {
-        "ericsson": {
-            "open_source": {
-                "github": "Ericsson"
-            },
-            "products": "https://www.ericsson.com/en/products",
-            "advisories": "https://www.ericsson.com/en/about-us/security/security-bulletins"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ericsson"
+        ]
+    },
+    "advisories": "https://www.ericsson.com/en/about-us/security/security-bulletins"
 }

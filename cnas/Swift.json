@@ -1,13 +1,14 @@
 {
-    "email": "cve@forums.swift.org",
+    "id": "Swift",
     "name": "Swift Project",
     "root": "cve@mitre.org",
+    "email": "cve@forums.swift.org",
     "scope": {
-        "apple": {
-            "open_source": {
-                "github": "apple"
-            },
-            "advisories": "https://www.swift.org/support/security.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "apple"
+        ]
+    },
+    "advisories": "https://www.swift.org/support/security.html"
 }

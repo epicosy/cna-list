@@ -1,14 +1,14 @@
 {
-    "email": "security@acronis.com",
+    "id": "Acronis",
     "name": "Acronis International GmbH",
     "root": "cve@mitre.org",
+    "email": "security@acronis.com",
     "scope": {
-        "acronis": {
-            "open_source": {
-                "github": "acronis"
-            },
-            "products": "https://www.acronis.com/en-us/products/",
-            "advisories": "https://security-advisory.acronis.com/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "acronis"
+        ]
+    },
+    "advisories": "https://security-advisory.acronis.com/advisories"
 }

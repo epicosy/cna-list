@@ -1,11 +1,14 @@
 {
-    "email": "cna@zigor.com",
+    "id": "ZGR",
     "name": "ZGR",
     "root": "cve-coordination@incibe.es",
+    "email": "cna@zigor.com",
     "scope": {
-        "zigor": {
-            "products": "https://zigor.com/en/products/",
-            "advisories": "https://zigor.com/en/vulnerability-disclosure-policy/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "zigor"
+        ]
+    },
+    "advisories": "https://zigor.com/en/vulnerability-disclosure-policy/"
 }

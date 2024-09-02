@@ -1,13 +1,14 @@
 {
-    "email": "securities@opengauss.org",
+    "id": "openGauss",
     "name": "openGauss Community",
     "root": "cve@mitre.org",
+    "email": "securities@opengauss.org",
     "scope": {
-        "huawei": {
-            "open_source": {
-                "gitee": "opengauss"
-            },
-            "advisories": "https://gitee.com/opengauss/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "huawei"
+        ]
+    },
+    "advisories": "https://gitee.com/opengauss/security"
 }

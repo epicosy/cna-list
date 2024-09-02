@@ -1,15 +1,14 @@
 {
-    "email": "security@yugabyte.com",
+    "id": "Yugabyte",
     "name": "Yugabyte, Inc.",
     "root": "cve@mitre.org",
+    "email": "security@yugabyte.com",
     "scope": {
-        "yugabyte": {
-            "open_source": {
-                "github": "yugabyte"
-            },
-            "products": "https://www.yugabyte.com",
-            "services": "https://cloud.yugabyte.com",
-            "advisories": "https://docs.yugabyte.com/preview/secure/vulnerability-disclosure-policy/#security-tracker-cve-list"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "yugabyte"
+        ]
+    },
+    "advisories": "https://docs.yugabyte.com/preview/secure/vulnerability-disclosure-policy/#security-tracker-cve-list"
 }

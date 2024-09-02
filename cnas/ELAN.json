@@ -1,17 +1,14 @@
 {
-    "email": "psirt@emc.com.tw",
+    "id": "ELAN",
     "name": "ELAN Microelectronics Corp.",
     "root": "cve@mitre.org",
+    "email": "psirt@emc.com.tw",
     "scope": {
-        "emc": {
-            "products": {
-                "touchpad": {
-                    "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/TouchpadSolutions"
-                },
-                "biometric": {
-                    "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/BiometricSolutions"
-                }
-            }
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "emc"
+        ]
+    },
+    "advisories": "https://www.emc.com.tw/emc/en/vulnerability-disclosure-policy"
 }

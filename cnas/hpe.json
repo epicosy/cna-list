@@ -1,25 +1,15 @@
 {
-    "email": "security-alert@hpe.com",
+    "id": "hpe",
     "name": "Hewlett Packard Enterprise (HPE)",
     "root": "cve@mitre.org",
+    "email": "security-alert@hpe.com",
     "scope": {
-        "hpe": {
-            "open_source": {
-                "github": "hewlettpackard"
-            },
-            "products": "https://www.hpe.com/us/en/products.html",
-            "advisories": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/"
-        },
-        "arubanetworks": {
-            "aliases": [
-                "aruba"
-            ],
-            "open_source": {
-                "github": "aruba"
-            },
-            "products": "https://www.arubanetworks.com/resource/aruba-product-and-solutions-brochure/",
-            "advisories": "https://csaf.arubanetworks.com/"
-        },
-        "hp": "hp-security-alert@hp.com"
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hpe",
+            "arubanetworks"
+        ]
+    },
+    "advisories": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/"
 }

@@ -1,14 +1,14 @@
 {
-    "email": "GEHealthcareCVD@ge.com",
+    "id": "GE_Healthcare",
     "name": "GE Healthcare",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "GEHealthcareCVD@ge.com",
     "scope": {
-        "gehealthcare": {
-            "open_source": {
-                "github": "GEHealthcare"
-            },
-            "products": "https://www.gehealthcare.com/products",
-            "advisories": "https://www.gehealthcare.com/services/lifecycle-management/product-security-portal/security"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "gehealthcare"
+        ]
+    },
+    "advisories": "https://www.gehealthcare.com/services/lifecycle-management/product-security-portal/security"
 }

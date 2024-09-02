@@ -1,14 +1,14 @@
 {
-    "email": "product-security@silabs.com",
+    "id": "Silabs",
     "name": "Silicon Labs",
     "root": "cve@mitre.org",
+    "email": "product-security@silabs.com",
     "scope": {
-        "silabs": {
-            "open_source": {
-                "github": "SiliconLabs"
-            },
-            "products": "https://www.silabs.com/products",
-            "advisories": "https://www.silabs.com/security/security-vulnerability-disclosure-policy"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "silabs"
+        ]
+    },
+    "advisories": "https://www.silabs.com/security/security-vulnerability-disclosure-policy"
 }

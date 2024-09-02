@@ -1,14 +1,14 @@
 {
-    "email": "security@mimsoftware.com",
+    "id": "MIM",
     "name": "MIM Software Inc.",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "security@mimsoftware.com",
     "scope": {
-        "mimsoftware": {
-            "open_source": {
-                "github": "MIMSoftware"
-            },
-            "products": "https://www.mimsoftware.com/",
-            "advisories": "https://www.mimsoftware.com/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "mimsoftware"
+        ]
+    },
+    "advisories": "https://www.mimsoftware.com/security-advisories"
 }

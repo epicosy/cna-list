@@ -1,13 +1,14 @@
 {
-    "email": "security-cna@dfinity.org",
+    "id": "Dfinity",
     "name": "DFINITY Foundation",
     "root": "cve@mitre.org",
+    "email": "security-cna@dfinity.org",
     "scope": {
-        "dfinity": {
-            "open_source": {
-                "github": "dfinity"
-            },
-            "advisories": "https://internetcomputer.org/security-advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "dfinity"
+        ]
+    },
+    "advisories": "https://internetcomputer.org/security-advisories"
 }

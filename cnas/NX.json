@@ -1,14 +1,14 @@
 {
-    "email": "security@networkoptix.com",
+    "id": "NX",
     "name": "Network Optix",
     "root": "cve@mitre.org",
+    "email": "security@networkoptix.com",
     "scope": {
-        "networkoptix": {
-            "open_source": {
-                "github": "networkoptix"
-            },
-            "products": "https://www.networkoptix.com/",
-            "advisories": "https://networkoptix.atlassian.net/wiki/spaces/CHS/blogs"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "networkoptix"
+        ]
+    },
+    "advisories": "https://networkoptix.atlassian.net/wiki/spaces/CHS/blogs"
 }

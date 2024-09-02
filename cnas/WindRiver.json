@@ -1,14 +1,14 @@
 {
-    "email": "PSIRT@windriver.com",
+    "id": "WindRiver",
     "name": "Wind River Systems, Inc.",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "PSIRT@windriver.com",
     "scope": {
-        "windriver": {
-            "open_source": {
-                "github": "Wind-River"
-            },
-            "products": "https://www.windriver.com/",
-            "advisories": "https://www.windriver.com/security/vulnerability-responses"
-        }
-    }
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "windriver"
+        ]
+    },
+    "advisories": "https://www.windriver.com/security/vulnerability-responses"
 }

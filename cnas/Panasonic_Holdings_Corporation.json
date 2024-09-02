@@ -1,11 +1,14 @@
 {
-    "email": "product-security@gg.jp.panasonic.com",
+    "id": "Panasonic_Holdings_Corporation",
     "name": "Panasonic Holdings Corporation",
     "root": "vuls@jpcert.or.jp",
+    "email": "product-security@gg.jp.panasonic.com",
     "scope": {
-        "panasonic": {
-            "products": "https://holdings.panasonic/global/corporate/about/business-segments.html",
-            "advisories": "https://www.panasonic.com/global/corporate/product-security/sec/psirt/advisories.html"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "panasonic"
+        ]
+    },
+    "advisories": "https://www.panasonic.com/global/corporate/product-security/sec/psirt/advisories.html"
 }

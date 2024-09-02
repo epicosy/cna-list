@@ -1,14 +1,14 @@
 {
-    "email": "security@strongdm.com",
+    "id": "StrongDM",
     "name": "StrongDM",
     "root": "cve@mitre.org",
+    "email": "security@strongdm.com",
     "scope": {
-        "strongdm": {
-            "open_source": {
-                "github": "strongdm"
-            },
-            "products": "https://www.strongdm.com",
-            "advisories": "https://www.strongdm.com/security/advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "strongdm"
+        ]
+    },
+    "advisories": "https://www.strongdm.com/security/advisories"
 }

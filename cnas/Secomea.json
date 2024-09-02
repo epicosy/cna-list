@@ -1,14 +1,14 @@
 {
-    "email": "vulnerabilityreporting@secomea.com",
+    "id": "Secomea",
     "name": "Secomea A/S",
     "root": "ics-cert@hq.dhs.gov",
+    "email": "vulnerabilityreporting@secomea.com",
     "scope": {
-        "secomea": {
-            "open_source": {
-                "github": "secomea-dev"
-            },
-            "products": "https://www.secomea.com/",
-            "advisories": "https://www.secomea.com/cybersecurity-advisory/"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "secomea"
+        ]
+    },
+    "advisories": "https://www.secomea.com/cybersecurity-advisory/"
 }

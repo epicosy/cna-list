@@ -1,13 +1,14 @@
 {
-    "email": "security-advisories@github.com",
+    "id": "GitHub_M",
     "name": "GitHub, Inc.",
     "root": "cve@mitre.org",
+    "email": "security-advisories@github.com",
     "scope": {
-        "github": {
-            "open_source": {
-                "github": "github"
-            },
-            "advisories": "https://github.com/advisories"
-        }
-    }
+        "external": true,
+        "third_party": true,
+        "organizations": [
+            "github"
+        ]
+    },
+    "advisories": "https://github.com/advisories"
 }

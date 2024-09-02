@@ -1,14 +1,14 @@
 {
-    "email": "psirt@sick.de",
+    "id": "SICK_AG",
     "name": "SICK AG",
     "root": "cve@mitre.org",
+    "email": "psirt@sick.de",
     "scope": {
-        "sick": {
-            "open_source": {
-                "github": "SICKAG"
-            },
-            "products": "https://www.sick.com/us/en/products-and-solutions/c/g568268",
-            "advisories": "https://www.sick.com/us/en/service-and-support/the-sick-product-security-incident-response-team-sick-psirt/w/psirt/#advisories"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "sick"
+        ]
+    },
+    "advisories": "https://www.sick.com/us/en/service-and-support/the-sick-product-security-incident-response-team-sick-psirt/w/psirt/#advisories"
 }

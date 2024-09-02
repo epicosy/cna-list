@@ -1,11 +1,14 @@
 {
-    "email": "security@asustor.com",
+    "id": "ASUSTOR",
     "name": "ASUSTOR Inc.",
     "root": "cve@mitre.org",
+    "email": "security@asustor.com",
     "scope": {
-        "asustor": {
-            "products": "https://www.asustor.com/en/product/product_list",
-            "advisories": "https://www.asustor.com/security/security_advisory"
-        }
-    }
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "asustor"
+        ]
+    },
+    "advisories": "https://www.asustor.com/security/security_advisory"
 }
