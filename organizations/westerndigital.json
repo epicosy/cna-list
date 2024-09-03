@@ -1,0 +1,9 @@
+{
+    "id": "westerndigital",
+    "name": "Western Digital",
+    "products": "https://www.westerndigital.com/products",
+    "open_source": {
+        "github": "westerndigitalcorporation"
+    },
+    "advisories": "https://www.westerndigital.com/support/productsecurity"
+}

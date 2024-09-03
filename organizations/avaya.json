@@ -1,0 +1,9 @@
+{
+    "id": "avaya",
+    "name": "Avaya Inc.",
+    "products": "https://www.avaya.com/en/",
+    "open_source": {
+        "github": "avaya"
+    },
+    "advisories": "https://support.avaya.com/support/en/helpcenter/securityAdvisory"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "simplinx",
+    "name": "Simplinx Ltd.",
+    "products": "https://simplinx.com/en/products/",
+    "open_source": {
+        "github": "simplinx-ltd"
+    },
+    "advisories": "https://simplinx.com/en/security-advisories/"
+}

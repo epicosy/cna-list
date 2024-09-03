@@ -1,0 +1,9 @@
+{
+    "id": "selinc",
+    "name": "Schweitzer Engineering Laboratories, Inc.",
+    "products": "https://selinc.com/products/",
+    "open_source": {
+        "github": "schweitzer-engineering-laboratories"
+    },
+    "advisories": "https://selinc.com/support/security-notifications/external-reports/"
+}

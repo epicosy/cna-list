@@ -1,0 +1,9 @@
+{
+    "id": "mi",
+    "name": "Xiaomi Technology Co., Ltd.",
+    "products": "https://www.mi.com/global/",
+    "open_source": {
+        "github": "XiaoMi"
+    },
+    "advisories": "https://trust.mi.com/misrc/bulletins"
+}

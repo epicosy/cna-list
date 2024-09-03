@@ -1,0 +1,9 @@
+{
+    "id": "sick",
+    "name": "SICK AG",
+    "products": "https://www.sick.com/us/en/products-and-solutions/c/g568268",
+    "open_source": {
+        "github": "SICKAG"
+    },
+    "advisories": "https://www.sick.com/us/en/service-and-support/the-sick-product-security-incident-response-team-sick-psirt/w/psirt/#advisories"
+}

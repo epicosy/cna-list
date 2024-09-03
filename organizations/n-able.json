@@ -1,0 +1,9 @@
+{
+    "id": "n-able",
+    "name": "N-able",
+    "products": "https://www.n-able.com/products",
+    "open_source": {
+        "github": "nable-org"
+    },
+    "advisories": "https://me.n-able.com/s/global-search/%40uri#t=All&sort=relevancy&f:@repositorytype=[Security_Advisory]"
+}

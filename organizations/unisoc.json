@@ -1,0 +1,9 @@
+{
+    "id": "unisoc",
+    "name": "Unisoc (Shanghai) Technologies Co., Ltd.",
+    "products": "https://www.unisoc.com/en_us/prod/52",
+    "open_source": {
+        "github": "unisoc"
+    },
+    "advisories": "https://www.unisoc.com/en_us/secy/announcement"
+}

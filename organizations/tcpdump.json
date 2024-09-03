@@ -1,0 +1,8 @@
+{
+    "id": "tcpdump",
+    "name": "Tcpdump Group",
+    "open_source": {
+        "github": "the-tcpdump-group"
+    },
+    "advisories": "https://www.tcpdump.org/public-cve-list.txt"
+}

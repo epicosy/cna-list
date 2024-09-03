@@ -1,0 +1,9 @@
+{
+    "id": "intel",
+    "name": "Intel Corporation",
+    "products": "https://www.intel.com/content/www/us/en/products/overview.html",
+    "open_source": {
+        "github": "intel"
+    },
+    "advisories": "https://www.intel.com/content/www/us/en/security-center/default.html"
+}

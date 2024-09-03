@@ -1,0 +1,9 @@
+{
+    "id": "johnsoncontrols",
+    "name": "Johnson Controls",
+    "products": "https://www.johnsoncontrols.com",
+    "open_source": {
+        "github": "johnsoncontrols"
+    },
+    "advisories": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
+}

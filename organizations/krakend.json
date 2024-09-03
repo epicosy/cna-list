@@ -1,0 +1,9 @@
+{
+    "id": "krakend",
+    "name": "KrakenD, S.L.",
+    "open_source": {
+        "github": "krakend"
+    },
+    "services": "https://www.krakend.io/enterprise/",
+    "advisories": "https://www.krakend.io/categories/security/"
+}

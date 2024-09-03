@@ -1,0 +1,9 @@
+{
+    "id": "logitech",
+    "name": "Logitech",
+    "products": "https://www.logitech.com/en-us",
+    "open_source": {
+        "github": "Logitech"
+    },
+    "advisories": "https://hackerone.com/logitech/hacktivity"
+}

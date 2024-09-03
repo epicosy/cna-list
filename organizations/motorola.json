@@ -1,0 +1,9 @@
+{
+    "id": "motorola",
+    "name": "Motorola, Inc.",
+    "products": "https://www.motorola.com/us",
+    "open_source": {
+        "github": "MotorolaMobilityLLC"
+    },
+    "advisories": "https://en-us.support.motorola.com/app/product-security-advisories"
+}

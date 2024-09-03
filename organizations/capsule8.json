@@ -1,0 +1,9 @@
+{
+    "id": "capsule8",
+    "name": "Sophos Capsule8",
+    "products": "https://www.sophos.com/en-us/products/cloud-native-security",
+    "open_source": {
+        "github": "Capsule8"
+    },
+    "advisories": "https://www.sophos.com/en-us/security-advisories"
+}

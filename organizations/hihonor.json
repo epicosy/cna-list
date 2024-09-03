@@ -1,0 +1,9 @@
+{
+    "id": "hihonor",
+    "name": "Honor Device Co., Ltd.",
+    "products": "https://www.honor.com/global/",
+    "open_source": {
+        "honor": "https://www.honor.com/global/opensource/"
+    },
+    "advisories": "https://www.honor.com/global/support/bulletin/"
+}

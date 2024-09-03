@@ -1,0 +1,8 @@
+{
+    "id": "nlnetlabs",
+    "name": "NLnet Labs",
+    "open_source": {
+        "github": "NLnetLabs"
+    },
+    "advisories": "https://www.nlnetlabs.nl/support/security-advisories/"
+}

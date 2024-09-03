@@ -1,0 +1,9 @@
+{
+    "id": "trendmicro",
+    "name": "Trend Micro, Inc.",
+    "products": "https://www.trendmicro.com/en_us/business/products.html",
+    "open_source": {
+        "github": "trendmicro"
+    },
+    "advisories": "https://success.trendmicro.com/vulnerability-response#report"
+}

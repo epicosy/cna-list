@@ -1,0 +1,9 @@
+{
+    "id": "octopus",
+    "name": "Octopus Deploy",
+    "products": "https://octopus.com/features",
+    "open_source": {
+        "github": "OctopusDeploy"
+    },
+    "advisories": "https://advisories.octopus.com/"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "papercut",
+    "name": "PaperCut Software Pty Ltd",
+    "products": "https://www.papercut.com/products/",
+    "open_source": {
+        "github": "PaperCutSoftware"
+    },
+    "advisories": "https://www.papercut.com/kb/Main/CommonSecurityQuestions"
+}

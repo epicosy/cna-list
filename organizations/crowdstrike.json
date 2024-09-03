@@ -1,0 +1,9 @@
+{
+    "id": "crowdstrike",
+    "name": "CrowdStrike Holdings, Inc.",
+    "products": "https://www.crowdstrike.com/products/",
+    "open_source": {
+        "github": "CrowdStrike"
+    },
+    "advisories": "https://www.crowdstrike.com/security-advisories/"
+}

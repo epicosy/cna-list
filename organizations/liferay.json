@@ -1,0 +1,9 @@
+{
+    "id": "liferay",
+    "name": "Liferay, Inc.",
+    "products": "https://www.liferay.com",
+    "open_source": {
+        "github": "liferay"
+    },
+    "advisories": "https://liferay.dev/portal/security/known-vulnerabilities"
+}

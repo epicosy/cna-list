@@ -1,0 +1,9 @@
+{
+    "id": "secomea",
+    "name": "Secomea A/S",
+    "products": "https://www.secomea.com/",
+    "open_source": {
+        "github": "secomea-dev"
+    },
+    "advisories": "https://www.secomea.com/cybersecurity-advisory/"
+}

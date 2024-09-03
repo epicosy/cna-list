@@ -1,0 +1,8 @@
+{
+    "id": "dfinity",
+    "name": "DFINITY Foundation",
+    "open_source": {
+        "github": "dfinity"
+    },
+    "advisories": "https://internetcomputer.org/security-advisories"
+}

@@ -1,0 +1,8 @@
+{
+    "id": "projectcalico",
+    "name": "Tigera Project Calico",
+    "open_source": {
+        "github": "projectcalico"
+    },
+    "advisories": "https://www.tigera.io/security-bulletins/"
+}

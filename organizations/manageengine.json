@@ -1,0 +1,9 @@
+{
+    "id": "manageengine",
+    "name": "ManageEngine",
+    "products": "https://www.manageengine.com/products.html",
+    "open_source": {
+        "github": "ManageEngine"
+    },
+    "advisories": "https://www.manageengine.com/security/advisory/"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "siemens",
+    "name": "Siemens",
+    "products": "https://www.siemens.com/global/en/products.html",
+    "open_source": {
+        "github": "siemens"
+    },
+    "advisories": "https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+}

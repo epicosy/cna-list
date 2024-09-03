@@ -1,0 +1,9 @@
+{
+    "id": "tecno-mobile",
+    "name": "TECNO Mobile Limited",
+    "aliases": [
+        "tecno"
+    ],
+    "products": "https://www.tecno-mobile.com/home/",
+    "advisories": "https://security.tecno.com/SRC/blog"
+}

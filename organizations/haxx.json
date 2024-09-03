@@ -1,0 +1,8 @@
+{
+    "id": "haxx",
+    "name": "cURL",
+    "open_source": {
+        "github": "curl"
+    },
+    "advisories": "https://curl.se/docs/security.html"
+}

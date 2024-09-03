@@ -1,0 +1,10 @@
+{
+    "id": "wso2",
+    "name": "WSO2 LLC",
+    "products": "https://wso2.com/",
+    "open_source": {
+        "github": "wso2"
+    },
+    "services": "https://console.choreo.dev/login",
+    "advisories": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/"
+}

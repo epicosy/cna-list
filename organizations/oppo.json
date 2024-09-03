@@ -1,0 +1,9 @@
+{
+    "id": "oppo",
+    "name": "OPPO Mobile Telecommunication Corp., Ltd.",
+    "products": "https://www.oppo.com/en/",
+    "open_source": {
+        "github": "oppo-source"
+    },
+    "advisories": "https://security.oppo.com/en/mend"
+}

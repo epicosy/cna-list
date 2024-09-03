@@ -1,0 +1,9 @@
+{
+    "id": "profelis",
+    "name": "Profelis IT Consultancy",
+    "products": "https://www.profelis.com.tr/",
+    "open_source": {
+        "github": "Profelis-IT"
+    },
+    "advisories": "https://www.profelis.com.tr/politikalar/bilgi-guvenligi-politikamiz/"
+}

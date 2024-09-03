@@ -1,0 +1,9 @@
+{
+    "id": "watchguard",
+    "name": "WatchGuard Technologies, Inc.",
+    "products": "https://www.watchguard.com/wgrd-products",
+    "open_source": {
+        "github": "watchguard"
+    },
+    "advisories": "https://www.watchguard.com/wgrd-psirt/advisories"
+}

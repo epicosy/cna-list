@@ -1,0 +1,9 @@
+{
+    "id": "hitachienergy",
+    "name": "Hitachi Energy",
+    "products": "https://www.hitachienergy.com/products-and-solutions",
+    "open_source": {
+        "github": "hitachienergy"
+    },
+    "advisories": "https://www.hitachienergy.com/products-and-solutions/cybersecurity/alerts-and-notifications"
+}

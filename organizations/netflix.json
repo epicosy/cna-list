@@ -1,0 +1,9 @@
+{
+    "id": "netflix",
+    "name": "Netflix, Inc.",
+    "products": "https://www.netflix.com/app",
+    "open_source": {
+        "github": "Netflix"
+    },
+    "advisories": "https://github.com/Netflix/security-bulletins"
+}

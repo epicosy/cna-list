@@ -1,0 +1,9 @@
+{
+    "id": "siemens-healthineers",
+    "name": "Siemens Healthineers",
+    "products": "https://www.siemens-healthineers.com/products-services",
+    "open_source": {
+        "github": "siemens-healthineers"
+    },
+    "advisories": "https://www.siemens-healthineers.com/support-documentation/cybersecurity"
+}

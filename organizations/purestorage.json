@@ -1,0 +1,9 @@
+{
+    "id": "purestorage",
+    "name": "Pure Storage, Inc.",
+    "products": "https://www.purestorage.com/products.html",
+    "open_source": {
+        "github": "purestorage"
+    },
+    "advisories": "https://support.purestorage.com/bundle/m_security_bulletins/page/Pure_Security/topics/concept/c_security_bulletins.html"
+}

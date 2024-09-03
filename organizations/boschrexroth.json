@@ -1,0 +1,9 @@
+{
+    "id": "boschrexroth",
+    "name": "Bosch Rexroth AG",
+    "products": "https://www.boschrexroth.com/en/dc/technology/",
+    "open_source": {
+        "github": "boschrexroth"
+    },
+    "advisories": "https://www.boschrexroth.com/en/dc/product-security/security-advisories/"
+}

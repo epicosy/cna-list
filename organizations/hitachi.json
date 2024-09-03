@@ -1,0 +1,9 @@
+{
+    "id": "hitachi",
+    "name": "Hitachi, Ltd.",
+    "products": "https://www.hitachi.com/businesses/index.html",
+    "open_source": {
+        "github": "Hitachi"
+    },
+    "advisories": "https://www.hitachi.com/products/it/software/security/index.html"
+}

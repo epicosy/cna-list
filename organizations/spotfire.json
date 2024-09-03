@@ -1,0 +1,9 @@
+{
+    "id": "spotfire",
+    "name": "TIBCO Spotfire",
+    "products": "https://www.spotfire.com/products",
+    "open_source": {
+        "github": "spotfiresoftware"
+    },
+    "advisories": "https://community.spotfire.com/security-advisories/"
+}

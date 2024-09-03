@@ -1,0 +1,12 @@
+{
+    "id": "pandorafms",
+    "name": "Pandora FMS",
+    "aliases": [
+        "artica"
+    ],
+    "products": "https://pandorafms.com/en/product-overview/",
+    "open_source": {
+        "github": "pandorafms"
+    },
+    "advisories": "https://pandorafms.com/common-vulnerabilities-and-exposures/"
+}

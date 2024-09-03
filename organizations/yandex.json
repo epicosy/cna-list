@@ -1,0 +1,9 @@
+{
+    "id": "yandex",
+    "name": "Yandex N.V.",
+    "products": "https://yandex.cloud/en/solutions",
+    "open_source": {
+        "github": "yandex"
+    },
+    "advisories": "https://yandex.cloud/en/docs/security/security-bulletins/"
+}

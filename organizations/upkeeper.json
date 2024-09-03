@@ -1,0 +1,9 @@
+{
+    "id": "upkeeper",
+    "name": "upKeeper Solutions",
+    "products": "https://upkeeper.se/en/upkeeper-explained/",
+    "open_source": {
+        "github": "upkeeper"
+    },
+    "advisories": "https://support.upkeeper.se/hc/en-us/articles/14170844051868-Security-Advisories"
+}

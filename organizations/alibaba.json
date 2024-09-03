@@ -1,0 +1,8 @@
+{
+    "id": "alibaba",
+    "name": "Alibaba, Inc.",
+    "open_source": {
+        "github": "alibaba"
+    },
+    "advisories": "https://security.alibaba.com/announcement.htm"
+}

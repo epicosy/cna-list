@@ -1,0 +1,9 @@
+{
+    "id": "lenovo",
+    "name": "Lenovo Group Ltd.",
+    "products": "https://www.lenovo.com/us/en/",
+    "open_source": {
+        "github": "lenovo"
+    },
+    "advisories": "https://support.lenovo.com/us/en/product_security/home"
+}

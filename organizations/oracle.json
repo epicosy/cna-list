@@ -1,0 +1,10 @@
+{
+    "id": "oracle",
+    "name": "Oracle",
+    "products": "https://www.oracle.com/products/",
+    "open_source": {
+        "github": "oracle"
+    },
+    "services": "https://www.oracle.com/cloud/",
+    "advisories": "https://www.oracle.com/security-alerts/"
+}

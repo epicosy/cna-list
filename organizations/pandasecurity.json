@@ -1,0 +1,6 @@
+{
+    "id": "pandasecurity",
+    "name": "WatchGuard Panda Security",
+    "products": "https://www.pandasecurity.com/en/homeusers/",
+    "advisories": "https://info.pandasecurity.com/vulnerabilities/"
+}

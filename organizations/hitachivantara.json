@@ -1,0 +1,9 @@
+{
+    "id": "hitachivantara",
+    "name": "Hitachi Vantara",
+    "products": "https://www.hitachivantara.com/en-us/home",
+    "open_source": {
+        "github": "hitachi-vantara"
+    },
+    "advisories": "https://knowledge.hitachivantara.com/Security/CVE_Index_Page"
+}

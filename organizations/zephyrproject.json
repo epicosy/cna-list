@@ -1,0 +1,8 @@
+{
+    "id": "zephyrproject",
+    "name": "Zephyr Project",
+    "open_source": {
+        "github": "zephyrproject-rtos"
+    },
+    "advisories": "https://docs.zephyrproject.org/latest/security/vulnerabilities.html"
+}

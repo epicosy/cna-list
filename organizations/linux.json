@@ -1,0 +1,11 @@
+{
+    "id": "linux",
+    "name": "The Linux Kernel",
+    "aliases": [
+        "kernel"
+    ],
+    "open_source": {
+        "git": "kernel"
+    },
+    "advisories": "https://lore.kernel.org/linux-cve-announce/"
+}

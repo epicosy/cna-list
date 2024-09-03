@@ -1,0 +1,12 @@
+{
+    "id": "synaptics",
+    "name": "Synaptics, Inc.",
+    "products": {
+        "touchpad": "https://www.synaptics.com/products/touchpad-family",
+        "biometrics": "https://www.synaptics.com/products/biometrics",
+        "dsps": "https://www.synaptics.com/products/far-field-voice-dsp"
+    },
+    "open_source": {
+        "github": "conexant"
+    }
+}

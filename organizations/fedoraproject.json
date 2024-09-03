@@ -1,0 +1,12 @@
+{
+    "id": "fedoraproject",
+    "name": "Fedora Project",
+    "aliases": [
+        "fedora"
+    ],
+    "open_source": {
+        "github": "fedora-infra",
+        "fedora": "https://src.fedoraproject.org/"
+    },
+    "advisories": "https://bodhi.fedoraproject.org/updates/?type=security"
+}

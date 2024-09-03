@@ -1,0 +1,8 @@
+{
+    "id": "linuxfoundation",
+    "name": "The Linux Foundation",
+    "open_source": {
+        "github": "linuxfoundation"
+    },
+    "advisories": "https://www.linuxfoundation.org/security"
+}

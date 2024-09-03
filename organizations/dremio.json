@@ -1,0 +1,9 @@
+{
+    "id": "dremio",
+    "name": "Dremio Corporation",
+    "products": "https://www.dremio.com/solutions/",
+    "open_source": {
+        "github": "dremio"
+    },
+    "advisories": "https://docs.dremio.com/current/reference/bulletins/"
+}

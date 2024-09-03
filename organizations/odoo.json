@@ -1,0 +1,9 @@
+{
+    "id": "odoo",
+    "name": "Odoo",
+    "products": "https://www.odoo.com/page/all-apps",
+    "open_source": {
+        "github": "odoo"
+    },
+    "advisories": "https://www.odoo.com/r/security-issues"
+}

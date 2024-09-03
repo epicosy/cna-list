@@ -1,0 +1,9 @@
+{
+    "id": "jaspersoft",
+    "name": "TIBCO Jaspersoft",
+    "products": "https://www.jaspersoft.com/products",
+    "open_source": {
+        "github": "Jaspersoft"
+    },
+    "advisories": "https://community.jaspersoft.com/advisories/"
+}

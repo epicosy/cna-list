@@ -1,0 +1,9 @@
+{
+    "id": "nvidia",
+    "name": "NVIDIA Corporation",
+    "products": "https://www.nvidia.com/en-us",
+    "open_source": {
+        "github": "NVIDIA"
+    },
+    "advisories": "https://www.nvidia.com/en-us/security/"
+}

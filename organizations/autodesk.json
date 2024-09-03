@@ -1,0 +1,9 @@
+{
+    "id": "autodesk",
+    "name": "Autodesk",
+    "products": "https://www.autodesk.com/support",
+    "open_source": {
+        "github": "Autodesk"
+    },
+    "advisories": "https://www.autodesk.com/trust/security-advisories"
+}

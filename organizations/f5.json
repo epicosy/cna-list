@@ -1,0 +1,9 @@
+{
+    "id": "f5",
+    "name": "F5, Inc.",
+    "products": "https://www.f5.com/products",
+    "open_source": {
+        "github": "F5Networks"
+    },
+    "advisories": "https://my.f5.com/manage/s/tech-documents"
+}

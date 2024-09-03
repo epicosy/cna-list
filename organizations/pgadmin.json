@@ -1,0 +1,8 @@
+{
+    "id": "pgadmin",
+    "name": "PostgreSQL pgAdmin",
+    "open_source": {
+        "github": "pgadmin-org"
+    },
+    "advisories": "https://www.postgresql.org/support/security/"
+}

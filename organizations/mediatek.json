@@ -1,0 +1,9 @@
+{
+    "id": "mediatek",
+    "name": "MediaTek, Inc.",
+    "products": "https://www.mediatek.com",
+    "open_source": {
+        "github": "MediaTek-Labs"
+    },
+    "advisories": "https://corp.mediatek.com/product-security-bulletin"
+}

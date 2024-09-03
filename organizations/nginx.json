@@ -1,0 +1,8 @@
+{
+    "id": "nginx",
+    "name": "F5 Nginx",
+    "open_source": {
+        "github": "nginx"
+    },
+    "advisories": "https://nginx.org/en/security_advisories.html"
+}

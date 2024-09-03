@@ -1,0 +1,9 @@
+{
+    "id": "forcepoint",
+    "name": "Forcepoint",
+    "products": "https://www.forcepoint.com/products",
+    "open_source": {
+        "github": "forcepoint"
+    },
+    "advisories": "https://support.forcepoint.com/s/knowledge-base#t=All&sort=relevancy&f:@sfrecordtypename=[Security%20Advisory]"
+}

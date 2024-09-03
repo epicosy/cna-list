@@ -1,0 +1,9 @@
+{
+    "id": "windriver",
+    "name": "Wind River Systems Inc.",
+    "products": "https://www.windriver.com/",
+    "open_source": {
+        "github": "Wind-River"
+    },
+    "advisories": "https://www.windriver.com/security/vulnerability-responses"
+}

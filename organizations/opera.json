@@ -1,0 +1,9 @@
+{
+    "id": "opera",
+    "name": "Opera",
+    "products": "https://www.opera.com/browsers/opera",
+    "open_source": {
+        "github": "operasoftware"
+    },
+    "advisories": "https://security.opera.com/en/advisories/"
+}

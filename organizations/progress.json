@@ -1,0 +1,9 @@
+{
+    "id": "progress",
+    "name": "Progress Software Corporation",
+    "products": "https://www.progress.com/products",
+    "open_source": {
+        "github": "progress"
+    },
+    "advisories": "https://www.progress.com/security"
+}

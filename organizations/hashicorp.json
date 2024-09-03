@@ -1,0 +1,9 @@
+{
+    "id": "hashicorp",
+    "name": "HashiCorp Inc.",
+    "products": "https://www.hashicorp.com/solutions",
+    "open_source": {
+        "github": "hashicorp"
+    },
+    "advisories": "https://discuss.hashicorp.com/c/security/52"
+}

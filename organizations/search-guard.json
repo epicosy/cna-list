@@ -1,0 +1,10 @@
+{
+    "id": "search-guard",
+    "name": "floragunn GmbH",
+    "open_source": {
+        "github": "floragunncom",
+        "gitlab": "floragunn"
+    },
+    "services": "https://search-guard.com/licensing",
+    "advisories": "https://search-guard.com/cve-advisory/"
+}

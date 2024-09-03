@@ -1,0 +1,9 @@
+{
+    "id": "sap",
+    "name": "SAP SE",
+    "products": "https://www.sap.com/products.html",
+    "open_source": {
+        "github": "sap"
+    },
+    "advisories": "https://support.sap.com/en/my-support/knowledge-base/security-notes-news.html"
+}

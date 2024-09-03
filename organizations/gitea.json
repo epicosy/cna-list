@@ -1,0 +1,9 @@
+{
+    "id": "gitea",
+    "name": "Gitea Limited",
+    "products": "https://about.gitea.com/",
+    "open_source": {
+        "github": "go-gitea"
+    },
+    "advisories": "https://about.gitea.com/security"
+}

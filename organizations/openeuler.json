@@ -1,0 +1,9 @@
+{
+    "id": "openeuler",
+    "name": "openEuler",
+    "open_source": {
+        "github": "openeuler-mirror",
+        "gitee": "openeuler"
+    },
+    "advisories": "https://www.openeuler.org/en/security/security-bulletins/"
+}

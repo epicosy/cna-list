@@ -1,0 +1,12 @@
+{
+    "id": "emc",
+    "name": "ELAN Microelectronics Corp.",
+    "products": {
+        "touchpad": {
+            "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/TouchpadSolutions"
+        },
+        "biometric": {
+            "advisories": "https://www.emc.com.tw/emc/en/Product/Solution/BiometricSolutions"
+        }
+    }
+}

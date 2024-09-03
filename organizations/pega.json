@@ -1,0 +1,9 @@
+{
+    "id": "pega",
+    "name": "Pegasystems Inc.",
+    "products": "https://www.pega.com/products",
+    "open_source": {
+        "github": "pegasystems"
+    },
+    "advisories": "https://www.pega.com/trust/security-bulletins"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "imaginationtech",
+    "name": "Imagination Technologies",
+    "products": "https://www.imaginationtech.com/products/",
+    "open_source": {
+        "github": "imaginationtech"
+    },
+    "advisories": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/"
+}

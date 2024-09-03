@@ -1,0 +1,9 @@
+{
+    "id": "zscaler",
+    "name": "Zscaler, Inc.",
+    "products": "https://www.zscaler.com/products-and-solutions",
+    "open_source": {
+        "github": "zscaler"
+    },
+    "advisories": "https://www.zscaler.com/security-advisories"
+}

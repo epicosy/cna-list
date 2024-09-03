@@ -1,0 +1,9 @@
+{
+    "id": "brocade",
+    "name": "Brocade Communications Systems, Inc.",
+    "products": "https://www.broadcom.com/products/fibre-channel-networking",
+    "open_source": {
+        "github": "BRCDcomm"
+    },
+    "advisories": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories"
+}

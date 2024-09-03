@@ -1,0 +1,9 @@
+{
+    "id": "enterprisedb",
+    "name": "EnterpriseDB Corporation",
+    "products": "https://www.enterprisedb.com/products",
+    "open_source": {
+        "github": "EnterpriseDB"
+    },
+    "advisories": "https://www.enterprisedb.com/docs/security/advisories/"
+}

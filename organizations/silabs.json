@@ -1,0 +1,9 @@
+{
+    "id": "silabs",
+    "name": "Silicon Labs",
+    "products": "https://www.silabs.com/products",
+    "open_source": {
+        "github": "SiliconLabs"
+    },
+    "advisories": "https://www.silabs.com/security/security-vulnerability-disclosure-policy"
+}

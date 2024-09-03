@@ -1,0 +1,9 @@
+{
+    "id": "mongodb",
+    "name": "MongoDB, Inc.",
+    "products": "https://www.mongodb.com/products",
+    "open_source": {
+        "github": "mongodb"
+    },
+    "advisories": "https://www.mongodb.com/company/contact/mongodb-vulnerability-disclosure-policy"
+}

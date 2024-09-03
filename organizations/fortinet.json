@@ -1,0 +1,13 @@
+{
+    "id": "fortinet",
+    "name": "Fortinet, Inc.",
+    "aliases": [
+        "forticlient",
+        "fortiguard"
+    ],
+    "products": "https://www.fortinet.com/products",
+    "open_source": {
+        "github": "fortinet"
+    },
+    "advisories": "https://www.fortiguard.com/psirt"
+}

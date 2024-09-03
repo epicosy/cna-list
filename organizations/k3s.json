@@ -1,0 +1,8 @@
+{
+    "id": "k3s",
+    "name": "Rancher K3S",
+    "open_source": {
+        "github": "k3s-io"
+    },
+    "advisories": "https://docs.k3s.io/security"
+}

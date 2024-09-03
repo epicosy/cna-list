@@ -1,0 +1,9 @@
+{
+    "id": "philips",
+    "name": "Philips",
+    "products": "https://www.usa.philips.com/",
+    "open_source": {
+        "github": "philips-software"
+    },
+    "advisories": "https://www.philips.com/a-w/security/security-advisories"
+}

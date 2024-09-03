@@ -1,0 +1,9 @@
+{
+    "id": "aveva",
+    "name": "AVEVA Group",
+    "products": "https://www.aveva.com/en/products/",
+    "open_source": {
+        "github": "AVEVA"
+    },
+    "advisories": "https://www.aveva.com/en/support-and-success/cyber-security-updates/"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "mendix",
+    "name": "Mendix",
+    "products": "https://www.mendix.com/",
+    "open_source": {
+        "github": "mendix"
+    },
+    "advisories": "https://docs.mendix.com/releasenotes/security-advisories/"
+}

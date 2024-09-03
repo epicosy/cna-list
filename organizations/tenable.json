@@ -1,0 +1,9 @@
+{
+    "id": "tenable",
+    "name": "Tenable Network Security, Inc.",
+    "products": "https://www.tenable.com/products",
+    "open_source": {
+        "github": "tenable"
+    },
+    "advisories": "https://www.tenable.com/security"
+}

@@ -1,0 +1,8 @@
+{
+    "id": "ballerina",
+    "name": "WSO2 Ballerina",
+    "open_source": {
+        "github": "ballerina-platform"
+    },
+    "advisories": "https://ballerina.io/security-policy/"
+}

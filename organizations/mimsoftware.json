@@ -1,0 +1,9 @@
+{
+    "id": "mimsoftware",
+    "name": "MIM Software Inc.",
+    "products": "https://www.mimsoftware.com/",
+    "open_source": {
+        "github": "MIMSoftware"
+    },
+    "advisories": "https://www.mimsoftware.com/security-advisories"
+}

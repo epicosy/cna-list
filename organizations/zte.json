@@ -1,0 +1,9 @@
+{
+    "id": "zte",
+    "name": "ZTE Corporation",
+    "products": "https://www.zte.com.cn/global/index.html",
+    "open_source": {
+        "github": "zte-opensource"
+    },
+    "advisories": "https://support.zte.com.cn/support/news/LoopholeInfoList.aspx?classId=972&_langType=en"
+}

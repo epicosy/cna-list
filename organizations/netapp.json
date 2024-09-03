@@ -1,0 +1,9 @@
+{
+    "id": "netapp",
+    "name": "NetApp, Inc.",
+    "products": "https://www.netapp.com/products-a-z/",
+    "open_source": {
+        "github": "netapp"
+    },
+    "advisories": "https://security.netapp.com/advisory/"
+}

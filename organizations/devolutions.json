@@ -1,0 +1,9 @@
+{
+    "id": "devolutions",
+    "name": "Devolutions Inc.",
+    "products": "https://devolutions.net/",
+    "open_source": {
+        "github": "Devolutions"
+    },
+    "advisories": "https://devolutions.net/security/advisories/"
+}

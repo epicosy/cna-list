@@ -1,0 +1,8 @@
+{
+    "id": "concretecms",
+    "name": "Concrete CMS",
+    "open_source": {
+        "github": "concretecms"
+    },
+    "advisories": "https://www.concretecms.org/about/project-news/security"
+}

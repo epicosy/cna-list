@@ -1,0 +1,9 @@
+{
+    "id": "telerik",
+    "name": "Progress Telerik",
+    "products": "https://www.telerik.com/all-products",
+    "open_source": {
+        "github": "telerik"
+    },
+    "advisories": "https://docs.telerik.com/report-server/knowledge-base"
+}

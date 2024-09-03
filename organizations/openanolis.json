@@ -1,0 +1,8 @@
+{
+    "id": "openanolis",
+    "name": "OpenAnolis",
+    "open_source": {
+        "github": "OpenAnolis"
+    },
+    "advisories": "https://anas.openanolis.cn/cves"
+}

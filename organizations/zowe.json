@@ -1,0 +1,8 @@
+{
+    "id": "zowe",
+    "name": "Zowe",
+    "open_source": {
+        "github": "zowe"
+    },
+    "advisories": "https://www.zowe.org/security"
+}

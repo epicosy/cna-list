@@ -1,0 +1,9 @@
+{
+    "id": "avast",
+    "name": "Avast",
+    "products": "https://www.avast.com",
+    "open_source": {
+        "github": "avast"
+    },
+    "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ericsson",
+    "name": "Ericsson",
+    "products": "https://www.ericsson.com/en/products",
+    "open_source": {
+        "github": "Ericsson"
+    },
+    "advisories": "https://www.ericsson.com/en/about-us/security/security-bulletins"
+}

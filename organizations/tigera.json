@@ -1,0 +1,9 @@
+{
+    "id": "tigera",
+    "name": "Tigera, Inc.",
+    "products": "https://www.tigera.io/tigera-products/compare-products/",
+    "open_source": {
+        "github": "tigera"
+    },
+    "advisories": "https://www.tigera.io/security-bulletins/"
+}

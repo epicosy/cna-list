@@ -1,0 +1,9 @@
+{
+    "id": "esri",
+    "name": "Environmental Systems Research Institute, Inc.",
+    "products": "https://www.esri.com/en-us/home",
+    "open_source": {
+        "github": "Esri"
+    },
+    "advisories": "https://trust.arcgis.com/"
+}

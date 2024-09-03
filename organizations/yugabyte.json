@@ -1,0 +1,10 @@
+{
+    "id": "yugabyte",
+    "name": "Yugabyte, Inc.",
+    "products": "https://www.yugabyte.com",
+    "open_source": {
+        "github": "yugabyte"
+    },
+    "services": "https://cloud.yugabyte.com",
+    "advisories": "https://docs.yugabyte.com/preview/secure/vulnerability-disclosure-policy/#security-tracker-cve-list"
+}

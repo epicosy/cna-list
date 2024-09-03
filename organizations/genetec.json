@@ -1,0 +1,10 @@
+{
+    "id": "genetec",
+    "name": "Genetec Inc.",
+    "products": "https://www.genetec.com/products",
+    "open_source": {
+        "github": "Genetec"
+    },
+    "services": "https://www.genetec.com/products/unified-security/security-center-saas",
+    "advisories": "https://resources.genetec.com/security-advisories"
+}

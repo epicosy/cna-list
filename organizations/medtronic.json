@@ -1,0 +1,9 @@
+{
+    "id": "medtronic",
+    "name": "Medtronic",
+    "products": "https://global.medtronic.com/xg-en/healthcare-professionals/products.html",
+    "open_source": {
+        "medtronic": "https://global.medtronic.com/xg-en/software-license-disclosures/mycarelink-heart-app.html"
+    },
+    "advisories": "https://global.medtronic.com/xg-en/product-security/security-bulletins.html"
+}

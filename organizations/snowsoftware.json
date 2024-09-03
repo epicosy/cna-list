@@ -1,0 +1,9 @@
+{
+    "id": "snowsoftware",
+    "name": "Snow Software",
+    "products": "https://www.flexera.com/products/snow",
+    "open_source": {
+        "github": "SnowSoftware"
+    },
+    "advisories": "https://community.snowsoftware.com/s/group/0F91r000000QUhPCAW/news-updates"
+}

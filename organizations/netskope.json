@@ -1,0 +1,9 @@
+{
+    "id": "netskope",
+    "name": "Netskope",
+    "products": "https://www.netskope.com/products/",
+    "open_source": {
+        "github": "netSkope"
+    },
+    "advisories": "https://www.netskope.com/company/security-compliance-and-assurance/security-advisories-and-disclosures#security-advisories"
+}

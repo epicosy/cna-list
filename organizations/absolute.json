@@ -1,0 +1,9 @@
+{
+    "id": "absolute",
+    "name": "Absolute Software Corporation",
+    "products": "https://www.absolute.com/platform/compare-absolute-products/",
+    "open_source": {
+        "github": "AbsoluteSoftware"
+    },
+    "advisories": "https://www.absolute.com/platform/security-information/vulnerability-archive/"
+}

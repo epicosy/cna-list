@@ -1,0 +1,9 @@
+{
+    "id": "openharmony",
+    "name": "OpenHarmony",
+    "open_source": {
+        "github": "openharmony",
+        "gitee": "openharmony"
+    },
+    "advisories": "https://gitee.com/openharmony/security/tree/master/en/security-disclosure"
+}

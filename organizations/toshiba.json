@@ -1,0 +1,9 @@
+{
+    "id": "toshiba",
+    "name": "Toshiba Corporation",
+    "products": "https://www.global.toshiba/ww/products-solutions.html",
+    "open_source": {
+        "github": "toshiba"
+    },
+    "advisories": "https://www.global.toshiba/ww/cybersecurity/corporate/psirt.html"
+}

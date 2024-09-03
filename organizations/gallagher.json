@@ -1,0 +1,9 @@
+{
+    "id": "gallagher",
+    "name": "Gallagher Group Ltd.",
+    "products": "https://products.security.gallagher.com/security/us/en_US",
+    "open_source": {
+        "github": "GallagherSecurity"
+    },
+    "advisories": "https://security.gallagher.com/Security-Advisories"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "mautic",
+    "name": "Mautic",
+    "open_source": {
+        "github": "mautic"
+    },
+    "services": "https://dropsolid.io/extend-your-trial",
+    "advisories": "https://github.com/mautic/mautic/security/advisories"
+}

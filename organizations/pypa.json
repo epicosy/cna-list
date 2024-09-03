@@ -1,0 +1,8 @@
+{
+    "id": "pypa",
+    "name": "Python Packaging Authority",
+    "open_source": {
+        "github": "pypa"
+    },
+    "advisories": "https://github.com/pypa/advisory-database"
+}

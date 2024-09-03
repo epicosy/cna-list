@@ -1,0 +1,9 @@
+{
+    "id": "rancher",
+    "name": "Rancher Labs",
+    "products": "https://www.rancher.com/products",
+    "open_source": {
+        "github": "rancher"
+    },
+    "advisories": "https://ranchermanager.docs.rancher.com/reference-guides/rancher-security/security-advisories-and-cves"
+}

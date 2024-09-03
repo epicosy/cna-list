@@ -1,0 +1,9 @@
+{
+    "id": "synology",
+    "name": "Synology Inc.",
+    "products": "https://www.synology.com/en-global/products",
+    "open_source": {
+        "github": "synology-official"
+    },
+    "advisories": "https://www.synology.com/en-global/security/advisory"
+}

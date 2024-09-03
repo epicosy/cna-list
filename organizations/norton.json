@@ -1,0 +1,9 @@
+{
+    "id": "norton",
+    "name": "Norton Antivirus",
+    "products": "https://us.norton.com/products",
+    "open_source": {
+        "github": "nortonlifelock"
+    },
+    "advisories": "https://us.norton.com/support/tools/security-advisories.html"
+}

@@ -1,0 +1,8 @@
+{
+    "id": "libreswan",
+    "name": "Libreswan Project",
+    "open_source": {
+        "github": "libreswan"
+    },
+    "advisories": "https://libreswan.org/security/"
+}

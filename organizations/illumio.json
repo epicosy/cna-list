@@ -1,0 +1,9 @@
+{
+    "id": "illumio",
+    "name": "Illumio",
+    "products": "https://www.illumio.com/products",
+    "open_source": {
+        "github": "illumio"
+    },
+    "advisories": "https://docs.illumio.com/LandingPages/Categories/security-advisories.htm"
+}

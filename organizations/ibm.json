@@ -1,0 +1,9 @@
+{
+    "id": "ibm",
+    "name": "IBM Corporation",
+    "products": "https://www.ibm.com/products",
+    "open_source": {
+        "github": "IBM"
+    },
+    "advisories": "https://www.ibm.com/support/pages/bulletin/"
+}

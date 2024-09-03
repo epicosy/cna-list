@@ -1,0 +1,9 @@
+{
+    "id": "m-files",
+    "name": "M-Files Corporation",
+    "products": "https://www.m-files.com",
+    "open_source": {
+        "github": "m-files"
+    },
+    "advisories": "https://www.m-files.com/about/trust-center/security-advisories/"
+}

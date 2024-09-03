@@ -1,0 +1,9 @@
+{
+    "id": "clickhouse",
+    "name": "ClickHouse, Inc.",
+    "products": "https://clickhouse.com/",
+    "open_source": {
+        "github": "ClickHouse"
+    },
+    "advisories": "https://clickhouse.com/docs/en/whats-new/security-changelog"
+}

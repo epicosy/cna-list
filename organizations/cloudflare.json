@@ -1,0 +1,9 @@
+{
+    "id": "cloudflare",
+    "name": "Cloudflare, Inc.",
+    "products": "https://www.cloudflare.com/",
+    "open_source": {
+        "github": "cloudflare"
+    },
+    "advisories": "https://hackerone.com/cloudflare/hacktivity"
+}

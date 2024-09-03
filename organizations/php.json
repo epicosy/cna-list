@@ -1,0 +1,8 @@
+{
+    "id": "php",
+    "name": "PHP Group",
+    "open_source": {
+        "github": "php"
+    },
+    "advisories": "https://www.php.net/ChangeLog-8.php"
+}

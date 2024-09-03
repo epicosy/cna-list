@@ -1,0 +1,9 @@
+{
+    "id": "forgerock",
+    "name": "ForgeRock, Inc.",
+    "products": "https://backstage.forgerock.com/downloads/",
+    "open_source": {
+        "forgerock": "https://backstage.forgerock.com/downloads/"
+    },
+    "advisories": "https://backstage.forgerock.com/knowledge/kb/book/b21824339"
+}

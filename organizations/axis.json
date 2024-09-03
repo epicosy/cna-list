@@ -1,0 +1,9 @@
+{
+    "id": "axis",
+    "name": "Axis Communications AB",
+    "products": "https://www.axis.com/en-us/products",
+    "open_source": {
+        "github": "AxisCommunications"
+    },
+    "advisories": "https://www.axis.com/support/cybersecurity/vulnerability-management"
+}

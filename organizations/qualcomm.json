@@ -1,0 +1,9 @@
+{
+    "id": "qualcomm",
+    "name": "Qualcomm, Inc.",
+    "products": "https://www.qualcomm.com/products",
+    "open_source": {
+        "github": "qualcomm"
+    },
+    "advisories": "https://www.qualcomm.com/company/product-security/bulletins"
+}

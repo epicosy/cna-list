@@ -1,0 +1,9 @@
+{
+    "id": "solarwinds",
+    "name": "SolarWinds",
+    "products": "https://www.solarwinds.com/downloads",
+    "open_source": {
+        "github": "solarwinds"
+    },
+    "advisories": "https://www.solarwinds.com/trust-center/security-advisories"
+}

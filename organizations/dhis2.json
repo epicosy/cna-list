@@ -1,0 +1,9 @@
+{
+    "id": "dhis2",
+    "name": "HISP Centre at UiO DHIS2",
+    "open_source": {
+        "github": "dhis2"
+    },
+    "services": "https://dhis2.org/hosting/",
+    "advisories": "https://dhis2.org/trust/"
+}

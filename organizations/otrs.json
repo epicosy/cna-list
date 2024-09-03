@@ -1,0 +1,9 @@
+{
+    "id": "otrs",
+    "name": "OTRS AG",
+    "products": "https://otrs.com/otrs-software-solutions/",
+    "open_source": {
+        "github": "OTRS"
+    },
+    "advisories": "https://otrs.com/overview-release-notes-security-advisories/security-advisories/"
+}

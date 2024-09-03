@@ -1,0 +1,8 @@
+{
+    "id": "isc",
+    "name": "Internet Systems Consortium (ISC)",
+    "open_source": {
+        "github": "isc-projects"
+    },
+    "advisories": "https://kb.isc.org/docs/aa-01020"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "hallowelt",
+    "name": "Hallo Welt! GmbH",
+    "products": "https://bluespice.com/products/",
+    "open_source": {
+        "github": "hallowelt"
+    },
+    "advisories": "https://en.wiki.bluespice.com/wiki/Security:Security_Advisories"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "zabbix",
+    "name": "Zabbix",
+    "products": "https://www.zabbix.com",
+    "open_source": {
+        "github": "zabbix"
+    },
+    "advisories": "https://support.zabbix.com/projects/ZBX/issues/"
+}

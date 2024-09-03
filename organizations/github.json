@@ -1,0 +1,8 @@
+{
+    "id": "github",
+    "name": "GitHub, Inc.",
+    "open_source": {
+        "github": "github"
+    },
+    "advisories": "https://github.com/advisories"
+}

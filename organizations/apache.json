@@ -1,0 +1,8 @@
+{
+    "id": "apache",
+    "name": "Apache Software Foundation",
+    "open_source": {
+        "github": "apache"
+    },
+    "advisories": "https://security.apache.org/projects/"
+}

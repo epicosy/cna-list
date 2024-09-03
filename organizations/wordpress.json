@@ -1,0 +1,8 @@
+{
+    "id": "wordpress",
+    "name": "WordPress",
+    "open_source": {
+        "github": "WordPress"
+    },
+    "advisories": "https://wpscan.com/wordpresses/"
+}

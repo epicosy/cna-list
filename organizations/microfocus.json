@@ -1,0 +1,12 @@
+{
+    "id": "microfocus",
+    "name": "OpenText (formerly Micro Focus)",
+    "aliases": [
+        "micro_focus"
+    ],
+    "products": "https://www.microfocus.com/en-us/products",
+    "open_source": {
+        "github": "MicroFocus"
+    },
+    "advisories": "https://www.microfocus.com/en-us/support/security/"
+}

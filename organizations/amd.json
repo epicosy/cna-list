@@ -1,0 +1,9 @@
+{
+    "id": "amd",
+    "name": "Advanced Micro Devices Inc.",
+    "products": "https://www.amd.com/en.html",
+    "open_source": {
+        "github": "amd"
+    },
+    "advisories": "https://www.amd.com/en/resources/product-security.html"
+}

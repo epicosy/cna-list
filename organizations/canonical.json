@@ -1,0 +1,8 @@
+{
+    "id": "canonical",
+    "name": "Canonical Ltd.",
+    "open_source": {
+        "github": "canonical"
+    },
+    "advisories": "https://ubuntu.com/security/cves"
+}

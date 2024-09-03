@@ -1,0 +1,8 @@
+{
+    "id": "xen",
+    "name": "Xen Project",
+    "open_source": {
+        "github": "xen-project"
+    },
+    "advisories": "https://xenbits.xen.org/xsa/"
+}

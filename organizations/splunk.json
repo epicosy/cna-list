@@ -1,0 +1,9 @@
+{
+    "id": "splunk",
+    "name": "Splunk Inc.",
+    "products": "https://www.splunk.com/en_us/products.html",
+    "open_source": {
+        "github": "splunk"
+    },
+    "advisories": "https://advisory.splunk.com/advisories"
+}

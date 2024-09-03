@@ -1,0 +1,8 @@
+{
+    "id": "9front",
+    "name": "9front Systems",
+    "open_source": {
+        "github": "9front"
+    },
+    "advisories": "https://bugs.9front.org/"
+}

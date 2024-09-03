@@ -1,0 +1,9 @@
+{
+    "id": "gehealthcare",
+    "name": "GE Healthcare",
+    "products": "https://www.gehealthcare.com/products",
+    "open_source": {
+        "github": "GEHealthcare"
+    },
+    "advisories": "https://www.gehealthcare.com/services/lifecycle-management/product-security-portal/security"
+}

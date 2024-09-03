@@ -1,0 +1,9 @@
+{
+    "id": "chef",
+    "name": "Progress Chef Software",
+    "products": "https://www.chef.io/products",
+    "open_source": {
+        "github": "chef"
+    },
+    "advisories": "https://www.chef.io/security/"
+}

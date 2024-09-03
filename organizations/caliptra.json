@@ -1,0 +1,11 @@
+{
+    "id": "caliptra",
+    "name": "CHIPS Alliance Caliptra Project",
+    "aliases": [
+        "chipsalliance"
+    ],
+    "open_source": {
+        "github": "chipsalliance"
+    },
+    "advisories": "https://github.com/chipsalliance/Caliptra/security"
+}
