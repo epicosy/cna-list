@@ -1,0 +1,12 @@
+{
+    "id": "BHV",
+    "email": "security@villageb.io",
+    "name": "Biohacking Village",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": []
+    },
+    "advisories": "https://www.villageb.io/security-advisory"
+}

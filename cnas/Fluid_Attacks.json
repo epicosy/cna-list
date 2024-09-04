@@ -1,0 +1,23 @@
+{
+    "id": "Fluid_Attacks",
+    "name": "Fluid Attacks",
+    "root": "cve@mitre.org",
+    "email": "help@fluidattacks.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "imaworldhealth",
+            "projectworlds",
+            "oscommerce",
+            "frappe",
+            "ladybirdweb",
+            "uvdesk",
+            "spatie",
+            "microweber",
+            "salesagility",
+            "leanote"
+        ]
+    },
+    "advisories": "https://fluidattacks.com/advisories/"
+}

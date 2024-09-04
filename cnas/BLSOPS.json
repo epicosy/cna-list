@@ -1,0 +1,12 @@
+{
+    "id": "BLSOPS",
+    "email": "cves@blacklanternsecurity.com",
+    "name": "Black Lantern Security",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": true,
+        "third_party": true,
+        "organizations": []
+    },
+    "advisories": "https://www.blacklanternsecurity.com/cves.html"
+}

@@ -1,0 +1,8 @@
+{
+    "id": "riverbed",
+    "name": "Riverbed Technology",
+    "open_source": {
+        "github": "riverbed"
+    },
+    "products": "https://www.riverbed.com/products/"
+}

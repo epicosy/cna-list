@@ -1,0 +1,12 @@
+{
+    "id": "CSW",
+    "email": "disclose@cybersecurityworks.com",
+    "name": "Cyber Security Works Pvt. Ltd.",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": ["dlink", "microsoft", "tenable", "welaunch", "zohocorp", "metaphorcreations"]
+    },
+    "advisories": "https://www.securin.io/zero-days-list/"
+}

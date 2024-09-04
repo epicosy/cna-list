@@ -1,0 +1,9 @@
+{
+    "id": "oscommerce",
+    "name": "oscommerce",
+    "open_source": {
+        "github": "osCommerce"
+    },
+    "products": "https://www.oscommerce.com/",
+    "advisories": "https://www.oscommerce.com/forums/forum/76-security/"
+}

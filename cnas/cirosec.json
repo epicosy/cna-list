@@ -1,0 +1,12 @@
+{
+    "id": "cirosec",
+    "email": "cve-request@cirosec.de",
+    "name": "cirosec GmbH",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": []
+    },
+    "advisories": "https://cirosec.de/en/blog/#vulnerabilities"
+}

@@ -1,0 +1,8 @@
+{
+    "id": "socket",
+    "name": "Socket.IO",
+    "open_source": {
+        "github": "socketio"
+    },
+    "advisories": "https://github.com/socketio/socket.io/security"
+}

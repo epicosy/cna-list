@@ -1,0 +1,9 @@
+{
+    "id": "volkswagen",
+    "aliases": ["vw"],
+    "name": "Volkswagen",
+    "open_source": {
+        "github": "volkswagen"
+    },
+    "products": "https://www.vw.com/en.html"
+}

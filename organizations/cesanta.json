@@ -1,0 +1,9 @@
+{
+    "id": "cesanta",
+    "name": "Cesanta",
+    "open_source": {
+        "github": "cesanta"
+    },
+    "products": "https://cesanta.com/",
+    "services": "https://dash.vcon.io/"
+}

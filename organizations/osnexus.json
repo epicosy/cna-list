@@ -1,0 +1,9 @@
+{
+    "id": "osnexus",
+    "name": "OSNexus",
+    "open_source": {
+        "github": "OSNEXUS"
+    },
+    "products": "https://www.osnexus.com/products/",
+    "advisories": "https://services.osnexus.com/security/"
+}
