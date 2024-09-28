@@ -1,0 +1,9 @@
+{
+    "id": "openwrt",
+    "name": "OpenWrt",
+    "open_source": {
+        "github": "openwrt"
+    },
+    "website": "https://openwrt.org/",
+    "advisories": "https://openwrt.org/advisory/start"
+}

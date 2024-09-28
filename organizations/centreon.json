@@ -1,0 +1,10 @@
+{
+    "id": "centreon",
+    "name": "Centreon",
+    "open_source": {
+        "github": "centreon"
+    },
+    "website": "https://www.centreon.com",
+    "products": "https://www.centreon.com/product-tour/",
+    "advisories": "https://thewatch.centreon.com/security-bulletins-63"
+}

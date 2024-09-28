@@ -1,0 +1,8 @@
+{
+    "id": "openbabel",
+    "name": "Open Babel",
+    "open_source": {
+        "github": "openbabel"
+    },
+    "website": "http://openbabel.org/"
+}

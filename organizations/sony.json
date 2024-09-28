@@ -1,0 +1,9 @@
+{
+    "id": "sony",
+    "name": "Sony Group Corporation",
+    "open_source": {
+        "github": "sony"
+    },
+    "products": "https://www.sony.com/en/SonyInfo/products/",
+    "website": "https://www.sony.com/en/"
+}

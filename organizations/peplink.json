@@ -1,0 +1,9 @@
+{
+    "id": "peplink",
+    "name": "peplink",
+    "products": "https://www.peplink.com/products/products-page/",
+    "open_source": {
+        "github": "peplink"
+    },
+    "advisories": "https://forum.peplink.com/c/announcements/peplink-security-advisories/127"
+}

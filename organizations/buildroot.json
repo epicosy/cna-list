@@ -1,0 +1,7 @@
+{
+    "id": "buildroot",
+    "name": "Buildroot",
+    "open_source": {
+        "github": "buildroot"
+    }
+}

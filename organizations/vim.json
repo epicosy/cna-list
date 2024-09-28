@@ -1,0 +1,8 @@
+{
+    "id": "vim",
+    "name": "Vim - the text editor",
+    "open_source": {
+        "github": "vim"
+    },
+    "website": "http://www.vim.org/"
+}

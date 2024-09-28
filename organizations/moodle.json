@@ -1,0 +1,9 @@
+{
+    "id": "moodle",
+    "name": "MOODLE",
+    "open_source": {
+        "github": "moodle"
+    },
+    "website": "http://moodle.org",
+    "advisories": "https://moodle.org/security/"
+}

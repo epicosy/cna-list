@@ -1,0 +1,10 @@
+{
+    "id": "cisco",
+    "name": "Cisco Systems, Inc.",
+    "open_source": {
+        "github": "cisco"
+    },
+    "website": "https://cisco.com",
+    "advisories": "https://sec.cloudapps.cisco.com/security/center/publicationListing.x",
+    "products": "https://www.cisco.com/c/en/us/products/index.html"
+}

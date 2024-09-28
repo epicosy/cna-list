@@ -1,0 +1,8 @@
+{
+    "id": "imagemagick",
+    "name": "ImageMagick Studio LLC",
+    "open_source": {
+        "github": "ImageMagick"
+    },
+    "website": "https://imagemagick.org/"
+}

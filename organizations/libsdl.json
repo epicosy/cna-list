@@ -1,0 +1,8 @@
+{
+    "id": "libsdl",
+    "name": "Simple DirectMedia Layer",
+    "open_source": {
+        "github": "libsdl-org"
+    },
+    "advisories": "https://github.com/libsdl-org/SDL/issues"
+}

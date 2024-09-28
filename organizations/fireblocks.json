@@ -1,0 +1,13 @@
+{
+    "id": "fireblocks",
+    "name": "Fireblocks",
+    "aliases": [
+        "lindell17_project",
+        "gg18_project",
+        "gg20_project"
+    ],
+    "open_source": {
+        "github": "fireblocks-labs"
+    },
+    "products": "https://www.fireblocks.com/"
+}

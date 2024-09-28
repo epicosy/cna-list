@@ -1,0 +1,10 @@
+{
+    "id": "netgear",
+    "name": "Netgear Inc.",
+    "open_source": {
+        "github": "Netgear"
+    },
+    "products": "https://www.netgear.com/business/",
+    "website": "https://www.netgear.com",
+    "advisories": "https://www.netgear.com/about/security/"
+}

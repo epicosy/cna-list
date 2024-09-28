@@ -1,0 +1,8 @@
+{
+    "id": "ghost",
+    "name": "Ghost",
+    "open_source": {
+        "github": "TryGhost"
+    },
+    "products": "https://ghost.org/"
+}

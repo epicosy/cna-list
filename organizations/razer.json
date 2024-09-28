@@ -1,0 +1,8 @@
+{
+    "id": "razer",
+    "name": "Razer",
+    "products": "https://www.razer.com/store",
+    "open_source": {
+        "github": "razerofficial"
+    }
+}

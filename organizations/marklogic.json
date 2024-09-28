@@ -1,0 +1,9 @@
+{
+    "id": "marklogic",
+    "name": "Progress MarkLogic",
+    "open_source": {
+        "github": "marklogic"
+    },
+    "website": "http://developer.marklogic.com",
+    "products": "https://www.progress.com/marklogic"
+}

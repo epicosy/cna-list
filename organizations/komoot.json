@@ -1,0 +1,10 @@
+{
+    "id": "komoot",
+    "name": "komoot",
+    "open_source": {
+        "github": "komoot"
+    },
+    "website": "https://komoot.com",
+    "products": "https://www.komoot.com/shop",
+    "advisories": "https://www.komoot.com/security/bug-bounty"
+}

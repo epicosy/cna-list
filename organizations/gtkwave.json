@@ -1,0 +1,10 @@
+{
+    "id": "gtkwave",
+    "name": "GTKWave",
+    "aliases": [
+        "tonybybell"
+    ],
+    "open_source": {
+        "github": "GTKWave"
+    }
+}

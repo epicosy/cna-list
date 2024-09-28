@@ -1,0 +1,13 @@
+{
+    "id": "redislabs",
+    "name": "Redis Labs",
+    "aliases": [
+        "redis"
+    ],
+    "open_source": {
+        "github": "RedisLabs"
+    },
+    "website": "https://redis.io/",
+    "products": "https://redis.io/enterprise/",
+    "advisories": "https://trust.redis.io/"
+}

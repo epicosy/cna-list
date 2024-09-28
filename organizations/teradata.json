@@ -1,0 +1,8 @@
+{
+    "id": "teradata",
+    "name": "Teradata Corporation",
+    "products": "https://www.teradata.com/",
+    "open_source": {
+        "github": "Teradata"
+    }
+}

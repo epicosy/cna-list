@@ -1,0 +1,8 @@
+{
+    "id": "prusa3d",
+    "name": "Prusa3D",
+    "open_source": {
+        "github": "prusa3d"
+    },
+    "website": "http://prusa3d.com"
+}

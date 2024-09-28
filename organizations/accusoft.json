@@ -1,0 +1,8 @@
+{
+    "id": "accusoft",
+    "name": "Accusoft",
+    "products": "https://www.accusoft.com/products/",
+    "open_source": {
+        "github": "Accusoft"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "id": "shopware",
+    "name": "Shopware",
+    "open_source": {
+        "github": "shopware"
+    },
+    "products": "https://www.shopware.com/en/products/product-tour/"
+}

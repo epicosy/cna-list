@@ -1,0 +1,11 @@
+{
+    "id": "weston-embedded",
+    "name": "Weston Embedded Solutions",
+    "aliases": [
+        "micrium"
+    ],
+    "products": "https://www.weston-embedded.com/",
+    "open_source": {
+        "github": "weston-embedded"
+    }
+}

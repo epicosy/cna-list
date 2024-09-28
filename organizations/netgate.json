@@ -1,0 +1,10 @@
+{
+    "id": "netgate",
+    "name": "Rubicon Communications, LLC (Netgate)",
+    "open_source": {
+        "github": "Netgate"
+    },
+    "website": "http://www.netgate.com",
+    "products": "https://www.netgate.com/product-comparisons",
+    "advisories": "https://docs.netgate.com/advisories/index.html"
+}

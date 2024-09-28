@@ -1,0 +1,8 @@
+{
+    "id": "softether",
+    "name": "SoftEther VPN",
+    "open_source": {
+        "github": "SoftEtherVPN",
+        "softether": "https://www.softether.org/5-download/src"
+    }
+}

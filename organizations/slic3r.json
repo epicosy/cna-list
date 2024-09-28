@@ -1,0 +1,8 @@
+{
+    "id": "slic3r",
+    "name": "Slic3r",
+    "open_source": {
+        "github": "slic3r"
+    },
+    "website": "https://slic3r.org/"
+}

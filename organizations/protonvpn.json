@@ -1,0 +1,10 @@
+{
+    "id": "protonvpn",
+    "name": "ProtonVPN",
+    "open_source": {
+        "github": "ProtonVPN"
+    },
+    "website": "https://protonvpn.com/",
+    "products": "https://protonvpn.com/pricing",
+    "advisories": "https://proton.me/security/security-advisories"
+}

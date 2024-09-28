@@ -1,0 +1,14 @@
+{
+    "id": "Pentraze",
+    "name": "Pentraze Cybersecurity",
+    "email": "cna@pentraze.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "irontec"
+        ]
+    },
+    "advisories": "https://pentraze.com/vulnerability-reports/"
+}

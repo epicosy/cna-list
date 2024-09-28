@@ -1,0 +1,10 @@
+{
+    "id": "inhandnetworks",
+    "name": "inhandnetworks",
+    "open_source": {
+        "github": "inhandnet"
+    },
+    "products": "https://www.inhand.com/en/products/",
+    "website": "https://www.inhand.com/en/",
+    "advisories": "https://www.inhand.com/en/compliance/product-security-advisories/"
+}
