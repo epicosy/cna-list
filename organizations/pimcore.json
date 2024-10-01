@@ -1,0 +1,9 @@
+{
+    "id": "pimcore",
+    "name": "Pimcore",
+    "open_source": {
+        "github": "pimcore"
+    },
+    "website": "https://pimcore.com",
+    "products": "https://pimcore.com/en/platform"
+}

@@ -7,7 +7,8 @@
         "external": false,
         "third_party": false,
         "organizations": [
-            "intel"
+            "intel",
+            "mcafee"
         ]
     },
     "advisories": "https://www.intel.com/content/www/us/en/security-center/default.html"

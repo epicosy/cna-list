@@ -1,0 +1,17 @@
+{
+    "id": "google_android",
+    "name": "Android (associated with Google Inc. or Open Handset Alliance)",
+    "email": "security@android.com",
+    "root": "alphabet-cna@google.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "google",
+            "nvidia",
+            "linux",
+            "sqlite"
+        ]
+    },
+    "advisories": "https://github.com/google/security-research"
+}

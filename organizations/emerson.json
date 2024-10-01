@@ -1,0 +1,10 @@
+{
+    "id": "emerson",
+    "name": "Emerson Electric Co.",
+    "open_source": {
+        "github": "EmersonElectricCo"
+    },
+    "products": "https://www.emerson.com/en-us/automation/industrial-factory-automation/industrial-hardware-software",
+    "website": "https://www.emerson.com/en-us",
+    "advisories": "https://www.emerson.com/en-us/support/security-notifications"
+}

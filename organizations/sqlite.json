@@ -1,0 +1,9 @@
+{
+    "id": "sqlite",
+    "name": "SQLite",
+    "open_source": {
+        "github": "sqlite"
+    },
+    "website": "https://www.sqlite.org/index.html",
+    "advisories": "https://sqlite.org/cves.html"
+}

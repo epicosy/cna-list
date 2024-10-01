@@ -1,0 +1,8 @@
+{
+    "id": "librenms",
+    "name": "LibreNMS Project",
+    "open_source": {
+        "github": "librenms"
+    },
+    "website": "https://www.librenms.org"
+}

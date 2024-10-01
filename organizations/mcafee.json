@@ -1,0 +1,26 @@
+{
+    "id": "mcafee",
+    "name": "McAfee Inc.",
+    "aliases": [
+        "trellix"
+    ],
+    "open_source": {
+        "github": "mcafee"
+    },
+    "products": {
+        "antivirus": {
+            "url": "https://www.mcafee.com/en-us/antivirus.html"
+        },
+        "text-scam-detector": {
+            "url": "https://www.mcafee.com/learn/text-scam-detector/"
+        },
+        "vpn": {
+            "url": "https://www.mcafee.com/en-us/vpn.html"
+        },
+        "mobile": {
+            "url": "https://www.mcafee.com/en-us/antivirus/mobile.html"
+        }
+    },
+    "website": "https://mcafee.com",
+    "advisories": "https://www.mcafee.com/en-us/consumer-corporate/mcafee-labs/product-security-bulletins.html"
+}

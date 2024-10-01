@@ -1,0 +1,8 @@
+{
+    "id": "clamav",
+    "name": "ClamAV",
+    "open_source": {
+        "github": "Cisco-Talos"
+    },
+    "website": "https://www.clamav.net/"
+}

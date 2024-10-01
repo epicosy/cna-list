@@ -1,0 +1,9 @@
+{
+    "id": "answerdev",
+    "name": "Apache Answer",
+    "open_source": {
+        "github": "answerdev"
+    },
+    "website": "https://answer.apache.org/",
+    "advisories": "https://answer.apache.org/community/security/"
+}

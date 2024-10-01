@@ -1,0 +1,22 @@
+{
+    "id": "cisco",
+    "name": "Cisco Systems, Inc.",
+    "email": "ykramarz@cisco.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "cisco",
+            "linksys",
+            "zyxel",
+            "apache",
+            "samsung",
+            "clamav",
+            "duo",
+            "snort",
+            "mcafee"
+        ]
+    },
+    "advisories": "https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html#sa"
+}

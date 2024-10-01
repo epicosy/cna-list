@@ -7,7 +7,8 @@
         "external": false,
         "third_party": false,
         "organizations": [
-            "openssl"
+            "openssl",
+            "mcafee"
         ]
     },
     "advisories": "https://openssl-library.org/news/vulnerabilities/index.html"

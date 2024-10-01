@@ -1,0 +1,9 @@
+{
+    "id": "phpmyfaq",
+    "name": "phpMyFAQ",
+    "open_source": {
+        "github": "thorsten"
+    },
+    "website": "https://www.phpmyfaq.de",
+    "advisories": "https://www.phpmyfaq.de/advisories"
+}

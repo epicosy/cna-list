@@ -1,0 +1,17 @@
+{
+    "id": "Chrome",
+    "name": "Chrome",
+    "email": "chrome-cve-admin@google.com",
+    "root": "alphabet-cna@google.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "google",
+            "linux",
+            "apple",
+            "ffmpeg"
+        ]
+    },
+    "advisories": "https://chromereleases.googleblog.com/"
+}
