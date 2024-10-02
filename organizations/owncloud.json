@@ -1,0 +1,9 @@
+{
+    "id": "owncloud",
+    "name": "ownCloud GmbH",
+    "open_source": {
+        "github": "owncloud"
+    },
+    "website": "https://owncloud.com",
+    "advisories": "https://owncloud.com/security"
+}

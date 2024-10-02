@@ -1,0 +1,19 @@
+{
+    "id": "realnetworks",
+    "name": "RealNetworks LLC.",
+    "products": {
+        "realplayer": {
+            "url": "https://www.real.com/?rppr=realnetworks"
+        },
+        "safr": {
+            "url": "https://safr.com/"
+        },
+        "kontxt": {
+            "url": "https://realnetworks.com/kontxt"
+        },
+        "gamehouse": {
+            "url": "https://realnetworks.com/products-services/gamehouse"
+        }
+    },
+    "website": "https://realnetworks.com/"
+}

@@ -54,7 +54,15 @@
 			"tp-link",
 			"typora",
 			"wordpress",
-			"wso2"
+			"wso2",
+            "ui",
+            "h3c",
+            "deltaww",
+			"zimbra",
+			"trendnet",
+			"dedecms",
+			"kde",
+			"piwigo"
         ]
     },
     "advisories": "https://vuldb.com/?cna.recent"

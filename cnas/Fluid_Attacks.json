@@ -16,7 +16,9 @@
             "spatie",
             "microweber",
             "salesagility",
-            "leanote"
+            "leanote",
+            "zohocorp",
+            "papercut"
         ]
     },
     "advisories": "https://fluidattacks.com/advisories/"

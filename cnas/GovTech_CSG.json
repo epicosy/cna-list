@@ -8,7 +8,10 @@
         "third_party": true,
         "organizations": [
             "riverbed",
-            "accel-ppp"
+            "accel-ppp",
+            "dlink",
+            "freshtomato",
+            "linuxfoundation"
         ]
     },
     "advisories": "https://govtech-csg.github.io/security-advisories/advisories"

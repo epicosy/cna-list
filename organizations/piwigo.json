@@ -1,0 +1,8 @@
+{
+    "id": "piwigo",
+    "name": "Piwigo",
+    "open_source": {
+        "github": "Piwigo"
+    },
+    "website": "https://piwigo.org"
+}

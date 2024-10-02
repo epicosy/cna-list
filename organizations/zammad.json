@@ -1,0 +1,9 @@
+{
+    "id": "zammad",
+    "name": "Zammad",
+    "open_source": {
+        "github": "zammad"
+    },
+    "website": "http://zammad.org",
+    "advisories": "https://zammad.com/en/advisories"
+}

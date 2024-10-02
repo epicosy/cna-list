@@ -1,0 +1,21 @@
+{
+    "id": "INCD",
+    "name": "Israel National Cyber Directorate (INCD)",
+    "email": "cna@cyber.gov.il",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+			"forescout",
+			"dlink",
+			"algosec",
+			"moodle",
+			"netgear",
+			"avaya",
+			"milesight",
+            "synel"
+        ]
+    },
+    "advisories": "https://www.gov.il/en/departments/faq/cve_advisories"
+}

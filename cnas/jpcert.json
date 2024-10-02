@@ -1,7 +1,7 @@
 {
     "id": "jpcert",
     "name": "JPCERT/CC",
-    "email": "vultures@jpcert.or.jp",
+    "email": "vuls@jpcert.or.jp",
     "root": "cve@mitre.org",
     "scope": {
         "external": false,
@@ -67,7 +67,17 @@
 			"cisco",
 			"drupal",
             "cybozu",
-            "elecom"
+            "elecom",
+            "asus",
+            "overwolf",
+            "phpmyfaq",
+			"phorum",
+			"yahoo",
+			"fusionpbx",
+			"tiki",
+			"plone",
+			"cacti",
+			"piwigo"
         ]
     },
     "advisories": "https://jvn.jp/"

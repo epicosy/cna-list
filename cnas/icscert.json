@@ -59,7 +59,10 @@
             "fujielectric",
             "fatek",
             "hornerautomation",
-            "we-con"
+            "we-con",
+            "digium",
+            "quest",
+            "bentley"
         ]
     },
     "advisories": "https://cisa.gov/icsa"

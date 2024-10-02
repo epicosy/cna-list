@@ -1,7 +1,7 @@
 {
     "id": "cisco",
     "name": "Cisco Systems, Inc.",
-    "email": "ykramarz@cisco.com",
+    "email": "psirt@cisco.com",
     "root": "cve@mitre.org",
     "scope": {
         "external": false,

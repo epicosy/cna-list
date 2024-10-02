@@ -1,0 +1,9 @@
+{
+    "id": "openbsd",
+    "name": "OpenBSD",
+    "open_source": {
+        "github": "openbsd"
+    },
+    "website": "https://www.openbsd.org/",
+    "advisories": "https://www.openbsd.org/security.html"
+}

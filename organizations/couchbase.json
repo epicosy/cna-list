@@ -1,0 +1,10 @@
+{
+    "id": "couchbase",
+    "name": "Couchbase, Inc.",
+    "open_source": {
+        "github": "couchbase"
+    },
+    "products": "https://www.couchbase.com/products/capella/",
+    "website": "https://www.couchbase.com/",
+    "advisories": "https://www.couchbase.com/alerts/"
+}

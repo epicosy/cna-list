@@ -1,7 +1,7 @@
 {
     "id": "@huntr_ai",
     "name": "Protect AI (formerly huntr.dev)",
-    "email": "security@huntr.dev",
+    "email": "security@huntr.com",
     "root": "cve@mitre.org",
     "scope": {
         "external": false,

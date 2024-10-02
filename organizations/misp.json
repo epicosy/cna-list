@@ -1,0 +1,9 @@
+{
+    "id": "misp",
+    "name": "MISP Project",
+    "open_source": {
+        "github": "MISP"
+    },
+    "website": "https://www.misp-project.org",
+    "advisories": "https://misp-project.org/security/"
+}

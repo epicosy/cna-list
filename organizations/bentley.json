@@ -1,0 +1,10 @@
+{
+    "id": "bentley",
+    "name": "Bentley Systems, Incorporated",
+    "open_source": {
+        "github": "BentleySystems"
+    },
+    "products": "https://www.bentley.com/software/",
+    "website": "https://www.bentley.com/",
+    "advisories": "https://www.bentley.com/legal/common-vulnerability-exposure-program/"
+}

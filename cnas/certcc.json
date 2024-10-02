@@ -1,7 +1,7 @@
 {
     "id": "certcc",
     "name": "CERT/CC",
-    "email": "cret@cert.org",
+    "email": "cert@cert.org",
     "root": "cve@mitre.org",
     "scope": {
         "external": false,
@@ -116,7 +116,24 @@
 			"acronis",
 			"tibco",
 			"pixar",
-            "mcafee"
+            "mcafee",
+            "asus",
+            "parallels",
+            "emerson",
+            "osisoft",
+            "synel",
+            "symantec",
+            "quest",
+            "libtiff",
+            "realnetworks",
+			"intelliants",
+			"d-link",
+			"xoops",
+			"cmsmadesimple",
+			"trendnet",
+			"aol",
+			"tiki",
+            "yahoo"
         ]
     },
     "advisories": "https://www.kb.cert.org/vuls/bypublished/desc/"

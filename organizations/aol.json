@@ -1,0 +1,9 @@
+{
+    "id": "aol",
+    "name": "AOL",
+    "open_source": {
+        "github": "aol"
+    },
+    "products": "https://www.aol.com/products/",
+    "website": "https://www.aol.com/"
+}

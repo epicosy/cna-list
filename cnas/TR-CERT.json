@@ -1,0 +1,14 @@
+{
+    "id": "TR-CERT",
+    "name": "TR-CERT (Computer Emergency Response Team of the Republic of Türkiye)",
+    "email": "iletisim@usom.gov.tr",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "profelis"
+        ]
+    },
+    "advisories": "https://www.usom.gov.tr/tehdit.html"
+}

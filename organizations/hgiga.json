@@ -1,0 +1,19 @@
+{
+    "id": "hgiga",
+    "name": "HGiga Inc.",
+    "products": {
+        "oaklouds_portal": {
+            "url": "https://www.hgiga.com/oaklouds.html"
+        },
+        "powerstation": {
+            "url": "https://www.hgiga.com/powerstation.html"
+        },
+        "msr45_isherlock-user": {
+            "url": "https://www.hgiga.com/mailsherlock.html"
+        },
+        "ssr45_isherlock-user": {
+            "url": "https://www.hgiga.com/spamsherlock.html"
+        }
+    },
+    "website": "https://www.hgiga.com"
+}

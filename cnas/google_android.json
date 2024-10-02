@@ -1,7 +1,7 @@
 {
     "id": "google_android",
     "name": "Android (associated with Google Inc. or Open Handset Alliance)",
-    "email": "security@android.com",
+    "email": "android-cna-team@google.com",
     "root": "alphabet-cna@google.com",
     "scope": {
         "external": false,

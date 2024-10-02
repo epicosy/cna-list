@@ -1,0 +1,9 @@
+{
+    "id": "phpmyadmin",
+    "name": "phpMyAdmin",
+    "open_source": {
+        "github": "phpmyadmin"
+    },
+    "website": "https://www.phpmyadmin.net/",
+    "advisories": "https://www.phpmyadmin.net/security/"
+}

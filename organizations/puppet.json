@@ -1,0 +1,10 @@
+{
+    "id": "puppet",
+    "name": "Puppet",
+    "open_source": {
+        "github": "puppetlabs"
+    },
+    "products": "https://www.puppet.com/products/puppet-enterprise",
+    "website": "https://www.puppet.com/",
+    "advisories": "https://www.puppet.com/security"
+}

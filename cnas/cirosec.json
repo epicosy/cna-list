@@ -6,7 +6,9 @@
     "scope": {
         "external": false,
         "third_party": true,
-        "organizations": []
+        "organizations": [
+            "overwolf"
+        ]
     },
     "advisories": "https://cirosec.de/en/blog/#vulnerabilities"
 }

@@ -1,0 +1,16 @@
+{
+    "id": "GitLab",
+    "name": "GitLab Inc.",
+    "email": "cve@gitlab.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "gitlab",            
+            "wireshark",
+            "libtiff"
+        ]
+    },
+    "advisories": "https://gitlab.com/gitlab-org/cves"
+}

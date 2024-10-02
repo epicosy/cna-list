@@ -1,0 +1,8 @@
+{
+    "id": "mantisbt",
+    "name": "Mantis Bug Tracker",
+    "open_source": {
+        "github": "mantisbt"
+    },
+    "website": "https://mantisbt.org"
+}

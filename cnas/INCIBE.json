@@ -1,0 +1,21 @@
+{
+    "id": "INCIBE",
+    "name": "Spanish National Cybersecurity Institute, S.A. (INCIBE)",
+    "email": "cve-coordination@incibe.es",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+			"zigor",
+			"tp-link",
+			"pandorafms",
+			"zohocorp",
+			"phpmyadmin",
+			"tiki",
+			"plone",
+			"parallels"
+        ]
+    },
+    "advisories": "https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/advisories-cna"
+}

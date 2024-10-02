@@ -1,0 +1,9 @@
+{
+    "id": "silverstripe",
+    "name": "Silverstripe Limited",
+    "open_source": {
+        "github": "silverstripe"
+    },
+    "website": "https://www.silverstripe.org/",
+    "advisories": "https://www.silverstripe.org/download/security-releases/"
+}

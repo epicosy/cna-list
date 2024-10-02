@@ -1,0 +1,10 @@
+{
+    "id": "h3c",
+    "name": "New H3C Technologies Co., Ltd.",
+    "open_source": {
+        "github": "H3C"
+    },
+    "products": "https://www.h3c.com/en/Products_and_Solutions/SMB_Products/",
+    "website": "http://www.h3c.com",
+    "advisories": "https://www.h3c.com/en/Support/Online_Help/psirt/"
+}

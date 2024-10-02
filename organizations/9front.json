@@ -2,7 +2,9 @@
     "id": "9front",
     "name": "9front Systems",
     "open_source": {
-        "github": "9front"
+        "github": "9mirrors",
+        "git": "https://git.9front.org/plan9front/"
     },
+    "website": "http://www.9front.org/",
     "advisories": "https://bugs.9front.org/"
 }

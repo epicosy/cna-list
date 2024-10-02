@@ -153,7 +153,10 @@
 			"youphptube",
 			"zabbix",
 			"zohocorp",
-            "zoom"
+            "zoom",
+            "asus",
+            "frappe",
+            "libtiff"
         ]
     },
     "advisories": "https://talosintelligence.com/vulnerability_reports"

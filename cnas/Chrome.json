@@ -1,7 +1,7 @@
 {
     "id": "Chrome",
     "name": "Chrome",
-    "email": "chrome-cve-admin@google.com",
+    "email": "security@chromium.org",
     "root": "alphabet-cna@google.com",
     "scope": {
         "external": false,

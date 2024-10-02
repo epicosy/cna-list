@@ -1,7 +1,7 @@
 {
     "id": "Wordfence",
     "name": "Wordfence",
-    "email": "security@wordfence.com",
+    "email": "cve-request@wordfence.com",
     "root": "cve@mitre.org",
     "scope": {
         "external": false,

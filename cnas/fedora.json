@@ -7,7 +7,17 @@
         "external": true,
         "third_party": true,
         "organizations": [
-            "fedoraproject"
+            "fedoraproject",
+			"linux",
+			"radare",
+			"gnu",
+			"redhat",
+			"moodle",
+			"gnome",
+			"artifex",
+			"microsoft",
+			"ffmpeg",
+			"postgresql"
         ]
     },
     "advisories": "https://bodhi.fedoraproject.org/updates/?type=security"

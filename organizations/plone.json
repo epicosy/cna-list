@@ -1,0 +1,9 @@
+{
+    "id": "plone",
+    "name": "Plone Foundation",
+    "open_source": {
+        "github": "plone"
+    },
+    "website": "https://plone.org",
+    "advisories": "https://plone.org/security/announcements"
+}

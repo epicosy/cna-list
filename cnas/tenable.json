@@ -7,7 +7,28 @@
         "external": false,
         "third_party": true,
         "organizations": [
-            "tenable"
+            "tenable",
+			"manageengine",
+			"crestron",
+			"dlink",
+			"zoom",
+			"netgear",
+			"linuxfoundation",
+			"solarwinds",
+			"papercut",
+			"logitech",
+			"tp-link",
+			"asustor",
+			"advantech",
+			"zohocorp",
+			"westerndigital",
+			"fujielectric",
+			"rockwellautomation",
+			"umbraco",
+			"nokia",
+			"deltaww",
+			"open-emr",
+            "trendnet"
         ]
     },
     "advisories": "https://www.tenable.com/security"

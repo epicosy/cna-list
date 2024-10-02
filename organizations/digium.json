@@ -1,0 +1,10 @@
+{
+    "id": "digium",
+    "name": "Digium, Inc.",
+    "open_source": {
+        "github": "digium"
+    },
+    "products": "https://store.digium.com/index.php",
+    "website": "https://www.digium.com/",
+    "advisories": "http://downloads.asterisk.org/pub/security/"
+}

@@ -8,7 +8,18 @@
         "third_party": true,
         "organizations": [
             "wordpress",
-            "wpscan"
+            "wpscan",
+			"kibokolabs",
+			"microsoft",
+			"oracle",
+			"welaunch",
+			"adobe",
+			"zohocorp",
+			"themeum",
+			"justsystems",
+			"themepunch",
+			"metaphorcreations",
+			"yandex"
         ]
     },
     "advisories": "https://wpscan.com/"

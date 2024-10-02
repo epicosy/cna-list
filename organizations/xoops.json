@@ -1,0 +1,8 @@
+{
+    "id": "xoops",
+    "name": "XOOPS CMS Project",
+    "open_source": {
+        "github": "XOOPS"
+    },
+    "website": "http://xoops.org"
+}

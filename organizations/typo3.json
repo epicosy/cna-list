@@ -1,0 +1,9 @@
+{
+    "id": "typo3",
+    "name": "TYPO3 GitHub Department",
+    "open_source": {
+        "github": "TYPO3"
+    },
+    "website": "https://typo3.org",
+    "advisories": "https://typo3.org/help/security-advisories"
+}

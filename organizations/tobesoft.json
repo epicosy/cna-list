@@ -1,0 +1,16 @@
+{
+    "id": "tobesoft",
+    "name": "TOBESOFT Co., Ltd.",
+    "products": {
+        "nexacro": {
+            "url": "https://eng.tobesoft.com/product/nexacro"
+        },
+        "xplatform": {
+            "url": "https://eng.tobesoft.com/product/xplatform"
+        },
+        "miplatform": {
+            "url": "https://eng.tobesoft.com/product/miplatform"
+        }
+    },
+    "website": "https://eng.tobesoft.com/main"
+}

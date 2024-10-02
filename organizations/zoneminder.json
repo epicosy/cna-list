@@ -1,0 +1,8 @@
+{
+    "id": "zoneminder",
+    "name": "ZoneMinder",
+    "open_source": {
+        "github": "ZoneMinder"
+    },
+    "website": "https://www.zoneminder.com/"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "paloaltonetworks",
+    "name": "Palo Alto Networks",
+    "open_source": {
+        "github": "PaloAltoNetworks"
+    },
+    "website": "https://www.paloaltonetworks.com",
+    "products": "https://www.paloaltonetworks.com/products/products-a-z",
+    "advisories": "https://securityadvisories.paloaltonetworks.com/"
+}

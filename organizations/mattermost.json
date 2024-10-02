@@ -1,0 +1,9 @@
+{
+    "id": "mattermost",
+    "name": "Mattermost",
+    "open_source": {
+        "github": "mattermost"
+    },
+    "website": "https://mattermost.com",
+    "advisories": "https://mattermost.com/security-updates/"
+}

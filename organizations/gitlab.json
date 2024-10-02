@@ -1,0 +1,10 @@
+{
+    "id": "gitlab",
+    "name": "GitLab, Inc.",
+    "open_source": {
+        "github": "GitLab",
+        "gitlab": "https://gitlab.com/gitlab-org/gitlab"
+    },
+    "website": "https://about.gitlab.com/",
+    "advisories": "https://gitlab.com/gitlab-org/cves"
+}

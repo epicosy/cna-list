@@ -1,0 +1,9 @@
+{
+    "id": "horde",
+    "name": "The Horde Project",
+    "open_source": {
+        "github": "horde"
+    },
+    "website": "https://www.horde.org/",
+    "advisories": "https://wiki.horde.org/SecurityManagement"
+}

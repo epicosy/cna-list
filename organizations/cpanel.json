@@ -1,0 +1,10 @@
+{
+    "id": "cpanel",
+    "name": "cPanel LLC",
+    "open_source": {
+        "github": "cpanel"
+    },
+    "products": "https://cpanel.net/pricing/",
+    "website": "https://cpanel.net",
+    "advisories": "https://news.cpanel.com/category/security/"
+}
