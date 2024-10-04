@@ -2,7 +2,7 @@
     "id": "mitre",
     "name": "MITRE Corporation",
     "email": "cve@mitre.org",
-    "root": "",
+    "root": "cve@mitre.org",
     "scope": {
         "external": false,
         "third_party": true,
@@ -55,5 +55,5 @@
             "zammad"
         ]
     },
-    "advisories": ""
+    "advisories": "https://www.cve.org/Downloads"
 }

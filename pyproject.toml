@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+repository = "https://github.com/epicosy/cna-list"
+homepage = "https://github.com/epicosy/cna-list"
+
+[project]
+name="cna-list"
+version = "0.1.0"
+description = "A package for representing the CVE Numbering Authorities in the CVE Program."
+readme = "README.md"
+authors = [
+    {name = "Eduard Pinconschi", email="eduard.pinconschi@tecnico.ulisboa.pt"},
+]
+keywords = ["package", "cna", "list"]
+license = {file = "LICENSE.txt"}
+requires-python = ">=3.9"
+classifiers = [
+    "Topic :: Software Development",
+    "Programming Language :: Python",
+    "Environment :: Console",
+    "Intended Audience :: Developers"
+]
+dependencies = [
+    "pydantic~=2.9.2",
+    "email_validator~=2.2.0",
+    "tqdm~=4.66.4"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "pytest-cov",
+    "coverage",
+    "twine>=1.11.0",
+    "setuptools>=38.6.0",
+    "wheel>=0.31.0"
+]
+
+
+[tool.setuptools.packages.find]
+exclude = ["ez_setup", "tests*"]
+where = ["cna_list"]
+
+[tool.setuptools]
+include-package-data = false
