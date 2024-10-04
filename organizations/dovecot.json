@@ -1,9 +1,0 @@
-{
-    "id": "dovecot",
-    "name": "Open-Xchange Dovecot",
-    "products": "https://www.dovecot.org/",
-    "open_source": {
-        "github": "dovecot"
-    },
-    "advisories": "https://www.dovecot.org/security/"
-}

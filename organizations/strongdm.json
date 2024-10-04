@@ -1,9 +1,0 @@
-{
-    "id": "strongdm",
-    "name": "StrongDM",
-    "products": "https://www.strongdm.com",
-    "open_source": {
-        "github": "strongdm"
-    },
-    "advisories": "https://www.strongdm.com/security/advisories"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "jamf",
-    "name": "Jamf Software",
-    "products": "https://www.jamf.com/products/",
-    "open_source": {
-        "github": "jamf"
-    },
-    "advisories": "https://learn.jamf.com/en-US/bundle/jamf-infrastructure-manager-ldap-proxy-install-guide/page/Release_History.html"
-}

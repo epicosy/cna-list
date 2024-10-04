@@ -1,8 +1,0 @@
-{
-    "id": "opencloudos",
-    "name": "OpenCloudOS",
-    "open_source": {
-        "github": "OpenCloudOS"
-    },
-    "advisories": "https://security.opencloudos.tech/cve/oc8.xml"
-}

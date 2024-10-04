@@ -1,9 +1,0 @@
-{
-    "id": "bosch",
-    "name": "Robert Bosch GmbH",
-    "products": "https://www.bosch.com/products-and-services/",
-    "open_source": {
-        "github": "bosch"
-    },
-    "advisories": "https://psirt.bosch.com/security-advisories/"
-}

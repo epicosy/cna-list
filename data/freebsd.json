@@ -1,0 +1,14 @@
+{
+    "id": "freebsd",
+    "name": "FreeBSD",
+    "root": "cve@mitre.org",
+    "email": "secteam@freebsd.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "freebsd"
+        ]
+    },
+    "advisories": "https://www.freebsd.org/security/advisories/"
+}

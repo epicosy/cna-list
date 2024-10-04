@@ -1,0 +1,14 @@
+{
+    "id": "Dassault_Systemes",
+    "name": "Dassault Syst\u00e8mes",
+    "root": "cve@mitre.org",
+    "email": "3DS.Information-Security@3ds.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "3ds"
+        ]
+    },
+    "advisories": "https://www.3ds.com/vulnerability/advisories"
+}

@@ -1,8 +1,0 @@
-{
-    "id": "opencv",
-    "name": "OpenCV",
-    "open_source": {
-        "github": "opencv"
-    },
-    "website": "https://opencv.org"
-}

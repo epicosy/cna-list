@@ -1,8 +1,0 @@
-{
-    "id": "craftercms",
-    "name": "Crafter CMS",
-    "open_source": {
-        "github": "craftercms"
-    },
-    "advisories": "https://docs.craftercms.org/en/4.0/security/advisory.html"
-}

@@ -1,0 +1,17 @@
+{
+    "id": "suse",
+    "name": "SUSE",
+    "root": "cve@mitre.org",
+    "email": "security@suse.de",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opensuse",
+            "suse",
+            "rancher",
+            "k3s"
+        ]
+    },
+    "advisories": "https://www.suse.com/support/update/"
+}

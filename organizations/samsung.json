@@ -1,9 +1,0 @@
-{
-    "id": "samsung",
-    "name": "Samsung Mobile",
-    "products": "https://www.samsung.com/us/mobile/",
-    "open_source": {
-        "github": "SAMSUNG-Mobile-App-Resources"
-    },
-    "advisories": "https://security.samsungmobile.com/securityPost.smsb/Advisory"
-}

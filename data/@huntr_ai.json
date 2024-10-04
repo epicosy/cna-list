@@ -1,0 +1,37 @@
+{
+    "id": "@huntr_ai",
+    "name": "Protect AI (formerly huntr.dev)",
+    "email": "security@huntr.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+			"gpac",
+			"open-emr",
+			"microweber",
+			"vim",
+			"dolibarr",
+			"salesagility",
+			"gitea",
+			"frappe",
+			"uvdesk",
+			"sequelizejs",
+			"paddlepaddle",
+            "pimcore",
+            "librenms",
+            "radare",
+            "phpmyfaq",
+            "usememos",
+            "ikus-soft",
+            "lfprojects",
+            "diagrams",
+            "mruby",
+            "showdoc",
+            "livehelperchat",
+            "froxlor",
+            "answerdev"
+        ]
+    },
+    "advisories": "https://huntr.com/bounties/hacktivity"
+}

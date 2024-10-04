@@ -1,0 +1,14 @@
+{
+    "id": "odoo",
+    "name": "Odoo",
+    "root": "cve@mitre.org",
+    "email": "security@odoo.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "odoo"
+        ]
+    },
+    "advisories": "https://www.odoo.com/r/security-issues"
+}

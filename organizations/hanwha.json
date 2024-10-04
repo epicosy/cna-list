@@ -1,9 +1,0 @@
-{
-    "id": "hanwha",
-    "name": "Hanwha Vision Co., Ltd.",
-    "products": "https://www.hanwhavision.com/en/solutions/",
-    "open_source": {
-        "github": "hanwhavision"
-    },
-    "advisories": "https://www.hanwhavision.com/en/support/cybersecurity/"
-}

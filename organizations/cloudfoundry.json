@@ -1,8 +1,0 @@
-{
-    "id": "cloudfoundry",
-    "name": "Cloud Foundry",
-    "open_source": {
-        "github": "cloudfoundry"
-    },
-    "advisories": "https://www.cloudfoundry.org/foundryblog/security-advisory/"
-}

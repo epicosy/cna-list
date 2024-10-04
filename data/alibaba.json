@@ -1,0 +1,14 @@
+{
+    "id": "alibaba",
+    "name": "Alibaba, Inc.",
+    "root": "cve@mitre.org",
+    "email": "alibaba-cna@list.alibaba-inc.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "alibaba"
+        ]
+    },
+    "advisories": "https://security.alibaba.com/announcement.htm"
+}

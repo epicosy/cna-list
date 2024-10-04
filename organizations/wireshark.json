@@ -1,8 +1,0 @@
-{
-    "id": "wireshark",
-    "name": "Wireshark",
-    "open_source": {
-        "github": "wireshark"
-    },
-    "advisories": "https://www.wireshark.org/security/"
-}

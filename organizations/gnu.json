@@ -1,8 +1,0 @@
-{
-    "id": "gnu",
-    "name": "GNU C Library",
-    "open_source": {
-        "sourceware": "glibc"
-    },
-    "advisories": "https://sourceware.org/git/?p=glibc.git;a=tree;f=advisories;hb=HEAD"
-}

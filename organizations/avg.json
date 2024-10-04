@@ -1,9 +1,0 @@
-{
-    "id": "avg",
-    "name": "AVG Technologies",
-    "products": "https://www.avg.com/en-us/homepage",
-    "open_source": {
-        "github": "AVGTechnologies"
-    },
-    "advisories": "https://us.norton.com/support/tools/security-advisories.html"
-}

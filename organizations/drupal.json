@@ -1,9 +1,0 @@
-{
-    "id": "drupal",
-    "name": "Drupal.org",
-    "open_source": {
-        "github": "drupal",
-        "gitlab": "drupal"
-    },
-    "advisories": "https://www.drupal.org/security"
-}

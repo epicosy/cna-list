@@ -1,9 +1,0 @@
-{
-    "id": "lg",
-    "name": "LG Electronics",
-    "products": "https://www.lg.com/us",
-    "open_source": {
-        "github": "LGE-OSS"
-    },
-    "advisories": "https://lgsecurity.lge.com/bulletins"
-}

@@ -1,0 +1,14 @@
+{
+    "id": "synology",
+    "name": "Synology Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@synology.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "synology"
+        ]
+    },
+    "advisories": "https://www.synology.com/en-global/security/advisory"
+}

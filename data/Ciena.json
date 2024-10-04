@@ -1,0 +1,15 @@
+{
+    "id": "Ciena",
+    "name": "Ciena Corporation",
+    "root": "cve@mitre.org",
+    "email": "psirt@ciena.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ciena",
+            "blueplanet"
+        ]
+    },
+    "advisories": "https://www.ciena.com/product-security"
+}

@@ -1,8 +1,0 @@
-{
-    "id": "freedesktop",
-    "name": "Freedesktop.org",
-    "open_source": {
-        "github": "freedesktop",
-        "gitlab": "freedesktop.org"
-    }
-}

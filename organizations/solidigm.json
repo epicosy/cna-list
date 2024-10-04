@@ -1,9 +1,0 @@
-{
-    "id": "solidigm",
-    "name": "Solidigm",
-    "products": "https://www.solidigm.com",
-    "open_source": {
-        "github": "solidigm"
-    },
-    "advisories": "https://www.solidigm.com/support-page/support-security.html"
-}

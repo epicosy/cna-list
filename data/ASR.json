@@ -1,0 +1,14 @@
+{
+    "id": "ASR",
+    "name": "ASR Microelectronics Co., Ltd.",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "product-security@asrmicro.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "asrmicro"
+        ]
+    },
+    "advisories": "https://www.asrmicro.com/en/goods/psirt"
+}

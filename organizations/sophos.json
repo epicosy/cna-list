@@ -1,9 +1,0 @@
-{
-    "id": "sophos",
-    "name": "Sophos Limited",
-    "products": "https://www.sophos.com/en-us/products",
-    "open_source": {
-        "github": "sophos"
-    },
-    "advisories": "https://www.sophos.com/en-us/security-advisories"
-}

@@ -1,8 +1,0 @@
-{
-    "id": "openssl",
-    "name": "OpenSSL Software Foundation",
-    "open_source": {
-        "github": "openssl"
-    },
-    "advisories": "https://openssl-library.org/news/vulnerabilities/index.html"
-}

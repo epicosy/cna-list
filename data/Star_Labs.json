@@ -1,0 +1,23 @@
+{
+    "id": "Star_Labs",
+    "name": "STAR Labs SG Pte. Ltd.",
+    "email": "info@starlabs.sg",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "bitrix24",
+            "chamilo",
+            "dolibarr",
+            "marktext",
+            "nodebb",
+            "obsidian",
+            "opencart",
+            "shopware",
+            "typora",
+            "razer"
+        ]
+    },
+    "advisories": "https://starlabs.sg/advisories/"
+}

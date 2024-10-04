@@ -1,8 +1,0 @@
-{
-    "id": "qlik",
-    "name": "Qlik",
-    "open_source": {
-        "github": "qlik-oss"
-    },
-    "products": "https://www.qlik.com/us"
-}

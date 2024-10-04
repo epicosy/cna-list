@@ -1,0 +1,14 @@
+{
+    "id": "HYPR",
+    "name": "HYPR Corp",
+    "root": "cve@mitre.org",
+    "email": "security@hypr.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hypr"
+        ]
+    },
+    "advisories": "https://www.hypr.com/security-advisories/"
+}

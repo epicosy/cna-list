@@ -1,9 +1,0 @@
-{
-    "id": "xpdfreader",
-    "name": "XpdfReader",
-    "products": "https://www.glyphandcog.com/products.html",
-    "open_source": {
-        "xpdfreader": "https://www.xpdfreader.com/download.html"
-    },
-    "advisories": "https://www.xpdfreader.com/security-fixes.html"
-}

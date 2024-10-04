@@ -1,0 +1,14 @@
+{
+    "id": "Absolute",
+    "name": "Absolute Software",
+    "root": "cve@mitre.org",
+    "email": "securityresponse@absolute.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "absolute"
+        ]
+    },
+    "advisories": "https://www.absolute.com/platform/security-information/vulnerability-archive/"
+}

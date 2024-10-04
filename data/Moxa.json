@@ -1,0 +1,14 @@
+{
+    "id": "Moxa",
+    "name": "Moxa Inc.",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "psirt@moxa.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "moxa"
+        ]
+    },
+    "advisories": "https://www.moxa.com/en/support/product-support/security-advisory"
+}

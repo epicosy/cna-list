@@ -1,9 +1,0 @@
-{
-    "id": "zimbra",
-    "name": "Zimbra",
-    "open_source": {
-        "github": "Zimbra"
-    },
-    "website": "http://www.zimbra.com",
-    "advisories": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
-}

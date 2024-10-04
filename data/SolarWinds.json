@@ -1,0 +1,14 @@
+{
+    "id": "SolarWinds",
+    "name": "SolarWinds",
+    "root": "cve@mitre.org",
+    "email": "psirt@solarwinds.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "solarwinds"
+        ]
+    },
+    "advisories": "https://www.solarwinds.com/trust-center/security-advisories"
+}

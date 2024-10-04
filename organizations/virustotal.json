@@ -1,9 +1,0 @@
-{
-    "id": "virustotal",
-    "name": "VirusTotal",
-    "open_source": {
-        "github": "virustotal"
-    },
-    "website": "https://www.virustotal.com",
-    "products": "https://www.virustotal.com/gui/services-overview"
-}

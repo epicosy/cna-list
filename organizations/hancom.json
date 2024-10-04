@@ -1,8 +1,0 @@
-{
-    "id": "hancom",
-    "name": "Hancom Inc.",
-    "products": "https://www.hancom.com/global/product/productMain.do?gnb0=3&gnb1=",
-    "open_source": {
-        "github": "hancom-io"
-    }
-}

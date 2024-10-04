@@ -1,0 +1,14 @@
+{
+    "id": "TeamViewer",
+    "name": "TeamViewer Germany GmbH",
+    "root": "cve@mitre.org",
+    "email": "psirt@teamviewer.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "teamviewer"
+        ]
+    },
+    "advisories": "https://www.teamviewer.com/en/trust-center/security-bulletins/"
+}

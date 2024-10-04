@@ -1,0 +1,14 @@
+{
+    "id": "isc",
+    "name": "Internet Systems Consortium (ISC)",
+    "root": "cve@mitre.org",
+    "email": "security-officer@isc.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "isc"
+        ]
+    },
+    "advisories": "https://kb.isc.org/docs/aa-01020"
+}

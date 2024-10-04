@@ -1,0 +1,15 @@
+{
+    "id": "canonical",
+    "name": "Canonical Ltd.",
+    "root": "cve@mitre.org",
+    "email": "security@ubuntu.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "canonical",
+            "ubuntu"
+        ]
+    },
+    "advisories": "https://usn.ubuntu.com/"
+}

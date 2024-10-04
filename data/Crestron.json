@@ -1,0 +1,14 @@
+{
+    "id": "Crestron",
+    "name": "Crestron Electronics, Inc.",
+    "root": "cve@mitre.org",
+    "email": "support@crestron.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "crestron"
+        ]
+    },
+    "advisories": "https://www.crestron.com/Security/Security_Advisories"
+}

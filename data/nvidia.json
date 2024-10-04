@@ -1,0 +1,14 @@
+{
+    "id": "nvidia",
+    "name": "NVIDIA Corporation",
+    "root": "cve@mitre.org",
+    "email": "psirt@nvidia.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "nvidia"
+        ]
+    },
+    "advisories": "https://www.nvidia.com/en-us/security/"
+}

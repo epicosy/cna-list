@@ -1,9 +1,0 @@
-{
-    "id": "rocket.chat",
-    "name": "Rocket.Chat",
-    "open_source": {
-        "github": "RocketChat"
-    },
-    "website": "https://www.rocket.chat/",
-    "advisories": "https://docs.rocket.chat/docs/rocketchat-security-fixes-updates-and-advisories"
-}

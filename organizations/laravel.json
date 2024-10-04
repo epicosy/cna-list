@@ -1,9 +1,0 @@
-{
-    "id": "laravel",
-    "name": "The Laravel Framework",
-    "open_source": {
-        "github": "laravel"
-    },
-    "website": "https://laravel.com",
-    "advisories": "https://github.com/laravel/framework/security/advisories"
-}

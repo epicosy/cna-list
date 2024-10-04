@@ -1,9 +1,0 @@
-{
-    "id": "42gears",
-    "name": "42gears",
-    "products": "https://www.42gears.com/products/",
-    "open_source": {
-        "github": "42Gears"
-    },
-    "advisories": "https://www.42gears.com/trust-center/information-security/security-advisories/"
-}

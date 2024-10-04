@@ -1,0 +1,14 @@
+{
+    "id": "Gallagher",
+    "name": "Gallagher Group Ltd.",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "disclosures@gallagher.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "gallagher"
+        ]
+    },
+    "advisories": "https://security.gallagher.com/Security-Advisories"
+}

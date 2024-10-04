@@ -1,0 +1,14 @@
+{
+    "id": "Synaptics",
+    "name": "Synaptics, Inc.",
+    "root": "cve@mitre.org",
+    "email": "psirt@synaptics.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "synaptics"
+        ]
+    },
+    "advisories": "https://www.synaptics.com/vulnerability-disclosure-policy"
+}

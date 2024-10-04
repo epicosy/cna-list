@@ -1,0 +1,14 @@
+{
+    "id": "atlassian",
+    "name": "Atlassian",
+    "root": "cve@mitre.org",
+    "email": "security@atlassian.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "atlassian"
+        ]
+    },
+    "advisories": "https://www.atlassian.com/trust/security/advisories"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "jetbrains",
-    "name": "JetBrains s.r.o.",
-    "products": "https://www.jetbrains.com/products/",
-    "open_source": {
-        "github": "JetBrains"
-    },
-    "advisories": "https://www.jetbrains.com/privacy-security/issues-fixed/"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "vaadin",
-    "name": "Vaadin Ltd.",
-    "products": "https://vaadin.com/pricing",
-    "open_source": {
-        "github": "vaadin"
-    },
-    "advisories": "https://vaadin.com/security"
-}

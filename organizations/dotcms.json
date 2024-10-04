@@ -1,9 +1,0 @@
-{
-    "id": "dotcms",
-    "name": "dotCMS LLC",
-    "open_source": {
-        "github": "dotCMS"
-    },
-    "services": "https://www.dotcms.com/",
-    "advisories": "https://www.dotcms.com/docs/latest/known-security-issues"
-}

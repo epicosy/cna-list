@@ -1,0 +1,14 @@
+{
+    "id": "Carrier",
+    "name": "Carrier Global Corporation",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "productsecurity@carrier.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "carrier"
+        ]
+    },
+    "advisories": "https://www.corporate.carrier.com/product-security/advisories-resources/"
+}

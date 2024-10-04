@@ -1,0 +1,15 @@
+{
+    "id": "Halborn",
+    "name": "Halborn",
+    "email": "disclosures@halborn.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "dogecoin",
+            "fireblocks"
+        ]
+    },
+    "advisories": "https://www.halborn.com/disclosures/disclosure-policy"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "dell",
-    "name": "Dell, Inc.",
-    "products": "https://www.dell.com/en-us",
-    "open_source": {
-        "github": "dell"
-    },
-    "advisories": "https://www.dell.com/support/security/en-us"
-}

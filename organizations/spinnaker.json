@@ -1,8 +1,0 @@
-{
-    "id": "spinnaker",
-    "name": "Netflix Spinnaker",
-    "open_source": {
-        "github": "spinnaker"
-    },
-    "advisories": "https://github.com/spinnaker/spinnaker.github.io/security/advisories"
-}

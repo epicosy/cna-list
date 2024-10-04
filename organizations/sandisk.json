@@ -1,9 +1,0 @@
-{
-    "id": "sandisk",
-    "name": "SanDisk Corporation",
-    "products": "https://www.westerndigital.com/products?filterByBrandName=SanDisk",
-    "open_source": {
-        "github": "SanDisk-Open-Source"
-    },
-    "advisories": "https://www.westerndigital.com/support/product-security"
-}

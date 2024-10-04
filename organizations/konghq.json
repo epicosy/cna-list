@@ -1,9 +1,0 @@
-{
-    "id": "konghq",
-    "name": "Kong Inc.",
-    "products": "https://konghq.com/",
-    "open_source": {
-        "github": "Kong"
-    },
-    "advisories": "https://konghq.com/compliance/psa"
-}

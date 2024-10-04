@@ -1,9 +1,0 @@
-{
-    "id": "netbsd",
-    "name": "The NetBSD Foundation",
-    "open_source": {
-        "github": "NetBSD"
-    },
-    "website": "https://www.netbsd.org/",
-    "advisories": "https://ftp.netbsd.org/pub/NetBSD/security/advisories/"
-}

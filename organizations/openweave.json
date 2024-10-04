@@ -1,9 +1,0 @@
-{
-    "id": "openweave",
-    "name": "OpenWeave & Weave",
-    "open_source": {
-        "github": "openweave"
-    },
-    "website": "https://openweave.io/",
-    "advisories": "https://openweave.io/resources/disclosures"
-}

@@ -1,0 +1,14 @@
+{
+    "id": "OTRS",
+    "name": "OTRS AG",
+    "root": "cve@mitre.org",
+    "email": "security@otrs.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "otrs"
+        ]
+    },
+    "advisories": "https://otrs.com/overview-release-notes-security-advisories/security-advisories/"
+}

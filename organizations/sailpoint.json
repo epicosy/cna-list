@@ -1,9 +1,0 @@
-{
-    "id": "sailpoint",
-    "name": "SailPoint Technologies",
-    "products": "https://www.sailpoint.com/products/",
-    "open_source": {
-        "github": "sailpoint-oss"
-    },
-    "advisories": "https://www.sailpoint.com/security-advisories/"
-}

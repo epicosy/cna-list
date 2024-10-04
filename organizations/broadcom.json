@@ -1,9 +1,0 @@
-{
-    "id": "broadcom",
-    "name": "Broadcom Inc.",
-    "products": "https://www.broadcom.com/products/software",
-    "open_source": {
-        "github": "CATechnologies"
-    },
-    "advisories": "https://support.broadcom.com/web/ecx/security-advisory"
-}

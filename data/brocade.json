@@ -1,0 +1,14 @@
+{
+    "id": "brocade",
+    "name": "Brocade Communications Systems, LLC",
+    "root": "cve@mitre.org",
+    "email": "brocade.sirt@broadcom.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "brocade"
+        ]
+    },
+    "advisories": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories"
+}

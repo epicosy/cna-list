@@ -1,9 +1,0 @@
-{
-    "id": "keepersecurity",
-    "name": "Keeper Security, Inc.",
-    "products": "https://keepersecurity.com",
-    "open_source": {
-        "github": "Keeper-Security"
-    },
-    "advisories": "https://docs.keeper.io/release-notes/keeper-security/security-advisories"
-}

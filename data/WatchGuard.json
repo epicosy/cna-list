@@ -1,0 +1,16 @@
+{
+    "id": "WatchGuard",
+    "name": "WatchGuard Technologies, Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@watchguard.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "watchguard",
+            "datablink",
+            "pandasecurity"
+        ]
+    },
+    "advisories": "https://www.watchguard.com/wgrd-psirt/advisories"
+}

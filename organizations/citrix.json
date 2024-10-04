@@ -1,9 +1,0 @@
-{
-    "id": "citrix",
-    "name": "Citrix Systems, Inc.",
-    "products": "https://www.citrix.com/downloads/",
-    "open_source": {
-        "github": "citrix"
-    },
-    "advisories": "https://support.citrix.com/securitybulletins"
-}

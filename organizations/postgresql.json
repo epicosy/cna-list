@@ -1,8 +1,0 @@
-{
-    "id": "postgresql",
-    "name": "PostgreSQL",
-    "open_source": {
-        "github": "postgres"
-    },
-    "advisories": "https://www.postgresql.org/support/security/"
-}

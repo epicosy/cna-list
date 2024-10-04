@@ -1,8 +1,0 @@
-{
-    "id": "golang",
-    "name": "Go Project",
-    "open_source": {
-        "github": "golang"
-    },
-    "advisories": "https://pkg.go.dev/vuln/list"
-}

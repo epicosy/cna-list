@@ -1,0 +1,14 @@
+{
+    "id": "Esri",
+    "name": "Environmental Systems Research Institute, Inc.",
+    "root": "cve@mitre.org",
+    "email": "psirt@esri.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "esri"
+        ]
+    },
+    "advisories": "https://trust.arcgis.com/"
+}

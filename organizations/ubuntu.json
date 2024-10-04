@@ -1,8 +1,0 @@
-{
-    "id": "ubuntu",
-    "name": "Ubuntu",
-    "open_source": {
-        "github": "ubuntu"
-    },
-    "advisories": "https://ubuntu.com/security/cves"
-}

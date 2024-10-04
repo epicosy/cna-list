@@ -1,9 +1,0 @@
-{
-    "id": "frappe",
-    "name": "Frappe",
-    "products": "https://frappe.io/products",
-    "open_source": {
-        "github": "frappe"
-    },
-    "advisories": "https://frappe.io/security-bulletin"
-}

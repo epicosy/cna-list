@@ -1,8 +1,0 @@
-{
-    "id": "pixar",
-    "name": "Pixar Animation Studios",
-    "products": "https://renderman.pixar.com/",
-    "open_source": {
-        "github": "PixarAnimationStudios"
-    }
-}

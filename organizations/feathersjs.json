@@ -1,8 +1,0 @@
-{
-    "id": "feathersjs",
-    "name": "feathers",
-    "open_source": {
-        "github": "feathersjs"
-    },
-    "advisories": "https://feathersjs.com/guides/security"
-}

@@ -1,6 +1,0 @@
-{
-    "id": "novell",
-    "name": "OpenText Novell",
-    "products": "https://www.novell.com/documentation/",
-    "advisories": "https://support.novell.com/security/"
-}

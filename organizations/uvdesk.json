@@ -1,8 +1,0 @@
-{
-    "id": "uvdesk",
-    "name": "Uvdesk",
-    "products": "https://www.uvdesk.com/en/",
-    "open_source": {
-        "github": "uvdesk"
-    }
-}

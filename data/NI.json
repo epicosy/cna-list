@@ -1,0 +1,14 @@
+{
+    "id": "NI",
+    "name": "National Instruments",
+    "root": "cve@mitre.org",
+    "email": "security@ni.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ni"
+        ]
+    },
+    "advisories": "https://www.ni.com/en-us/support/documentation/supplemental/11/available-critical-and-security-updates-for-ni-software.html"
+}

@@ -1,7 +1,0 @@
-{
-    "id": "hapifhir",
-    "name": "HAPI FHIR",
-    "open_source": {
-        "github": "hapifhir"
-    }
-}

@@ -1,0 +1,16 @@
+{
+    "id": "OpenText",
+    "name": "OpenText",
+    "root": "cve@mitre.org",
+    "email": "security@opentext.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opentext",
+            "microfocus",
+            "novell"
+        ]
+    },
+    "advisories": "https://knowledge.opentext.com/knowledge/llisapi.dll/open/alerts"
+}

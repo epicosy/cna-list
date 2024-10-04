@@ -1,0 +1,16 @@
+{
+    "id": "Siemens",
+    "name": "Siemens",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "productcert@siemens.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "siemens",
+            "mendix",
+            "siemens-healthineers"
+        ]
+    },
+    "advisories": "https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+}

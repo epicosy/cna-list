@@ -1,0 +1,26 @@
+{
+    "id": "WPScan",
+    "name": "WPScan",
+    "root": "cve@mitre.org",
+    "email": "contact@wpscan.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "wordpress",
+            "wpscan",
+			"kibokolabs",
+			"microsoft",
+			"oracle",
+			"welaunch",
+			"adobe",
+			"zohocorp",
+			"themeum",
+			"justsystems",
+			"themepunch",
+			"metaphorcreations",
+			"yandex"
+        ]
+    },
+    "advisories": "https://wpscan.com/"
+}

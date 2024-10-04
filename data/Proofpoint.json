@@ -1,0 +1,14 @@
+{
+    "id": "Proofpoint",
+    "name": "Proofpoint, Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@proofpoint.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "proofpoint"
+        ]
+    },
+    "advisories": "https://www.proofpoint.com/us/security-advisories"
+}

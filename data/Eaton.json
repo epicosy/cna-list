@@ -1,0 +1,14 @@
+{
+    "id": "Eaton",
+    "name": "Eaton",
+    "root": "cve@mitre.org",
+    "email": "psirt@eaton.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "eaton"
+        ]
+    },
+    "advisories": "https://www.eaton.com/us/en-us/company/news-insights/cybersecurity/security-notifications.html"
+}

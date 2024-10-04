@@ -1,0 +1,15 @@
+{
+    "id": "bosch",
+    "name": "Robert Bosch GmbH",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "psirt@bosch.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "bosch",
+            "boschrexroth"
+        ]
+    },
+    "advisories": "https://psirt.bosch.com/security-advisories/"
+}

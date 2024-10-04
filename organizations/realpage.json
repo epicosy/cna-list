@@ -1,9 +1,0 @@
-{
-    "id": "realpage",
-    "name": "RealPage",
-    "products": "https://www.realpage.com/",
-    "open_source": {
-        "github": "Realpage"
-    },
-    "advisories": "https://www.realpage.com/support/security/responsible-disclosure/security-advisories/"
-}

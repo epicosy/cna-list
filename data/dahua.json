@@ -1,0 +1,14 @@
+{
+    "id": "dahua",
+    "name": "Dahua Technologies",
+    "root": "cve@mitre.org",
+    "email": "cybersecurity@dahuatech.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "dahuasecurity"
+        ]
+    },
+    "advisories": "https://www.dahuasecurity.com/support/cybersecurity/annoucementNotice"
+}

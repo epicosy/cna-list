@@ -1,9 +1,0 @@
-{
-    "id": "beyondtrust",
-    "name": "BeyondTrust Inc.",
-    "products": "https://www.beyondtrust.com/products/",
-    "open_source": {
-        "github": "BeyondTrust"
-    },
-    "advisories": "https://www.beyondtrust.com/trust-center/security-advisories"
-}

@@ -1,8 +1,0 @@
-{
-    "id": "python",
-    "name": "Python Software Foundation",
-    "open_source": {
-        "github": "python"
-    },
-    "advisories": "https://mail.python.org/archives/list/security-announce@python.org/latest"
-}

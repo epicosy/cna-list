@@ -1,0 +1,12 @@
+{
+    "id": "GitHub, Inc.",
+    "name": "OpenSource Security GmbH",
+    "email": "cve@os-s.de",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": true,
+        "third_party": true,
+        "organizations": []
+    },
+    "advisories": "https://os-s.net/en/publications/"
+}

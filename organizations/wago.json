@@ -1,9 +1,0 @@
-{
-    "id": "wago",
-    "name": "WAGO GmbH",
-    "products": "https://www.wago.com/us/products",
-    "open_source": {
-        "github": "WAGO"
-    },
-    "advisories": "https://www.wago.com/us/security"
-}

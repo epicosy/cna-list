@@ -1,0 +1,14 @@
+{
+    "id": "Genetec",
+    "name": "Genetec Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@genetec.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "genetec"
+        ]
+    },
+    "advisories": "https://resources.genetec.com/security-advisories"
+}

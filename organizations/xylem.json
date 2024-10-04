@@ -1,9 +1,0 @@
-{
-    "id": "xylem",
-    "name": "Xylem",
-    "products": "https://www.xylem.com/en-us/products-services/",
-    "open_source": {
-        "github": "xylem"
-    },
-    "advisories": "https://www.xylem.com/en-us/about-xylem/cybersecurity/advisories?page=1&pagesize=24&categories=1324"
-}

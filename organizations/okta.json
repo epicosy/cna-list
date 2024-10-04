@@ -1,9 +1,0 @@
-{
-    "id": "okta",
-    "name": "Okta",
-    "products": "https://www.okta.com/pricing/",
-    "open_source": {
-        "github": "okta"
-    },
-    "advisories": "https://trust.okta.com/security-advisories"
-}

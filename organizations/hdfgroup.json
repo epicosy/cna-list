@@ -1,9 +1,0 @@
-{
-    "id": "hdfgroup",
-    "name": "The HDF Group",
-    "open_source": {
-        "github": "HDFGroup"
-    },
-    "website": "https://www.hdfgroup.org",
-    "products": "https://www.hdfgroup.org/solutions/"
-}

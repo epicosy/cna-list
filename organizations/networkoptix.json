@@ -1,9 +1,0 @@
-{
-    "id": "networkoptix",
-    "name": "Network Optix",
-    "products": "https://www.networkoptix.com/",
-    "open_source": {
-        "github": "networkoptix"
-    },
-    "advisories": "https://networkoptix.atlassian.net/wiki/spaces/CHS/blogs"
-}

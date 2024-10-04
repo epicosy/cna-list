@@ -1,0 +1,14 @@
+{
+    "id": "ODA",
+    "name": "Open Design Alliance",
+    "root": "cve@mitre.org",
+    "email": "security@opendesign.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opendesign"
+        ]
+    },
+    "advisories": "https://www.opendesign.com/security-advisories"
+}

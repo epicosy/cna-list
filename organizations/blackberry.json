@@ -1,9 +1,0 @@
-{
-    "id": "blackberry",
-    "name": "BlackBerry",
-    "products": "https://www.blackberry.com/us/en/products",
-    "open_source": {
-        "github": "blackberry"
-    },
-    "advisories": "https://www.blackberry.com/us/en/services/blackberry-product-security-incident-response"
-}

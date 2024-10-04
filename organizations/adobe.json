@@ -1,9 +1,0 @@
-{
-    "id": "adobe",
-    "name": "Adobe Inc.",
-    "products": "https://www.adobe.com/products/catalog.html",
-    "open_source": {
-        "github": "adobe"
-    },
-    "advisories": "https://helpx.adobe.com/security.html"
-}

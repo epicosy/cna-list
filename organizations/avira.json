@@ -1,9 +1,0 @@
-{
-    "id": "avira",
-    "name": "Avira GmbH",
-    "products": "https://www.avira.com",
-    "open_source": {
-        "github": "Avira"
-    },
-    "advisories": "https://us.norton.com/support/tools/security-advisories.html"
-}

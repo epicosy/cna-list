@@ -1,0 +1,14 @@
+{
+    "id": "Xylem",
+    "name": "Xylem",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "product.security@xyleminc.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "xylem"
+        ]
+    },
+    "advisories": "https://www.xylem.com/en-us/about-xylem/cybersecurity/advisories?page=1&pagesize=24&categories=1324"
+}

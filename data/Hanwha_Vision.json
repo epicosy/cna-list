@@ -1,0 +1,14 @@
+{
+    "id": "Hanwha_Vision",
+    "name": "Hanwha Vision Co., Ltd.",
+    "root": "cve@mitre.org",
+    "email": "secure.cctv@hanwha.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hanwha"
+        ]
+    },
+    "advisories": "https://www.hanwhavision.com/en/support/cybersecurity/"
+}

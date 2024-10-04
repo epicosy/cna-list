@@ -1,9 +1,0 @@
-{
-    "id": "ge",
-    "name": "General Electric (Gas Power)",
-    "products": "https://www.ge.com/gas-power/products",
-    "open_source": {
-        "github": "GeneralElectric"
-    },
-    "advisories": "https://www.ge.com/gas-power/products/digital-and-controls/cybersecurity/security-advisories"
-}

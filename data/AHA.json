@@ -1,0 +1,12 @@
+{
+    "id": "AHA",
+    "email": "cve@takeonme.org",
+    "name": "Austin Hackers Anonymous",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": true,
+        "third_party": true,
+        "organizations": ["cesanta", "openexr", "openprinting", "wireshark"]
+    },
+    "advisories": "https://takeonme.org/cve.html"
+}

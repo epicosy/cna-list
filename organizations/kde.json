@@ -1,9 +1,0 @@
-{
-    "id": "kde",
-    "name": "KDE GitHub Mirror",
-    "open_source": {
-        "github": "KDE"
-    },
-    "website": "https://kde.org",
-    "advisories": "https://kde.org/info/security/"
-}

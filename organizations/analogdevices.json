@@ -1,9 +1,0 @@
-{
-    "id": "analogdevices",
-    "name": "Analog Devices, Inc.",
-    "products": "https://www.analog.com/en/product-category.html",
-    "open_source": {
-        "github": "analogdevicesinc"
-    },
-    "advisories": "https://www.analog.com/en/support/technical-support/product-security-response-center.html"
-}

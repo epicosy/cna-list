@@ -1,9 +1,0 @@
-{
-    "id": "crestron",
-    "name": "Crestron Electronics, Inc.",
-    "products": "https://www.crestron.com/Products",
-    "open_source": {
-        "github": "Crestron"
-    },
-    "advisories": "https://www.crestron.com/Security/Security_Advisories"
-}

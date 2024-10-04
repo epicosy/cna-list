@@ -1,9 +1,0 @@
-{
-    "id": "nordvpn",
-    "name": "Nord Security",
-    "open_source": {
-        "github": "NordSecurity"
-    },
-    "products": "https://nordsecurity.com/#ourProducts",
-    "website": "https://nordsecurity.com/"
-}

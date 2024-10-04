@@ -1,0 +1,14 @@
+{
+    "id": "Linux",
+    "name": "kernel.org",
+    "root": "cve@mitre.org",
+    "email": "cve@kernel.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "linux"
+        ]
+    },
+    "advisories": "https://lore.kernel.org/linux-cve-announce/"
+}

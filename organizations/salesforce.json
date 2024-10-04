@@ -1,9 +1,0 @@
-{
-    "id": "salesforce",
-    "name": "Salesforce, Inc.",
-    "products": "https://www.salesforce.com/products/",
-    "open_source": {
-        "github": "salesforce"
-    },
-    "advisories": "https://security.salesforce.com/security-advisories"
-}

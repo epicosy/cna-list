@@ -1,0 +1,14 @@
+{
+    "id": "Acronis",
+    "name": "Acronis International GmbH",
+    "root": "cve@mitre.org",
+    "email": "security@acronis.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "acronis"
+        ]
+    },
+    "advisories": "https://security-advisory.acronis.com/advisories"
+}

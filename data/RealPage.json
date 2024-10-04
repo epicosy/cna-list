@@ -1,0 +1,14 @@
+{
+    "id": "RealPage",
+    "name": "RealPage, Inc.",
+    "root": "cve@mitre.org",
+    "email": "responsibledisclosure@realpage.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "realpage"
+        ]
+    },
+    "advisories": "https://www.realpage.com/support/security/responsible-disclosure/security-advisories/"
+}

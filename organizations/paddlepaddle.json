@@ -1,8 +1,0 @@
-{
-    "id": "paddlepaddle",
-    "name": "Baidu PaddlePaddle",
-    "open_source": {
-        "github": "PaddlePaddle"
-    },
-    "advisories": "https://github.com/PaddlePaddle/Paddle/tree/develop/security"
-}

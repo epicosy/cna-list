@@ -1,8 +1,0 @@
-{
-    "id": "phpbb",
-    "name": "phpBB Forum Software",
-    "open_source": {
-        "github": "phpbb"
-    },
-    "website": "https://www.phpbb.com"
-}

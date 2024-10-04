@@ -1,9 +1,0 @@
-{
-    "id": "umbraco",
-    "name": "Umbraco",
-    "open_source": {
-        "github": "umbraco"
-    },
-    "products": "https://umbraco.com/products/",
-    "advisories": "https://umbraco.com/trust-center/security-and-umbraco/how-to-get-informed-about-security-advisories/history-of-umbraco-security-advisories/"
-}

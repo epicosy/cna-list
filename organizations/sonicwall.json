@@ -1,9 +1,0 @@
-{
-    "id": "sonicwall",
-    "name": "SonicWall, Inc.",
-    "products": "https://www.sonicwall.com/products-a-to-z",
-    "open_source": {
-        "github": "sonicwall"
-    },
-    "advisories": "https://psirt.global.sonicwall.com/vuln-list"
-}

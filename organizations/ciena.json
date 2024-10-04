@@ -1,9 +1,0 @@
-{
-    "id": "ciena",
-    "name": "Ciena Corporation",
-    "products": "https://www.ciena.com/products/",
-    "open_source": {
-        "github": "ciena"
-    },
-    "advisories": "https://www.ciena.com/product-security"
-}

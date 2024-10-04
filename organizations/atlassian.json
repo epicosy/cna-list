@@ -1,9 +1,0 @@
-{
-    "id": "atlassian",
-    "name": "AVEVA Group",
-    "products": "https://www.atlassian.com/software",
-    "open_source": {
-        "github": "atlassian"
-    },
-    "advisories": "https://www.atlassian.com/trust/security/advisories"
-}

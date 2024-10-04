@@ -1,9 +1,0 @@
-{
-    "id": "acronis",
-    "name": "Acronis",
-    "products": "https://www.acronis.com/en-us/products/",
-    "open_source": {
-        "github": "acronis"
-    },
-    "advisories": "https://security-advisory.acronis.com/advisories"
-}

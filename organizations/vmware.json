@@ -1,9 +1,0 @@
-{
-    "id": "vmware",
-    "name": "VMware",
-    "products": "https://www.vmware.com/solutions/cloud-partners",
-    "open_source": {
-        "github": "vmware"
-    },
-    "advisories": "https://www.broadcom.com/support/vmware-security-advisories"
-}

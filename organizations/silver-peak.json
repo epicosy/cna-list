@@ -1,9 +1,0 @@
-{
-    "id": "silver-peak",
-    "name": "Silver Peak Systems, Inc.",
-    "products": "https://www.arubanetworks.com/products/sd-wan/",
-    "open_source": {
-        "github": "SilverPeakSystems"
-    },
-    "advisories": "https://www.arubanetworks.com/techdocs/sdwan/docs/advisories/archive/"
-}

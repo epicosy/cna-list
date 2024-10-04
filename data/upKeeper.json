@@ -1,0 +1,14 @@
+{
+    "id": "upKeeper",
+    "name": "upKeeper Solutions",
+    "root": "cve@mitre.org",
+    "email": "secure@upkeeper.se",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "upkeeper"
+        ]
+    },
+    "advisories": "https://support.upkeeper.se/hc/en-us/articles/14170844051868-Security-Advisories"
+}

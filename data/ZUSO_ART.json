@@ -1,0 +1,15 @@
+{
+    "id": "ZUSO_ART",
+    "name": "ZUSO Advanced Research Team (ZUSO ART)",
+    "email": "ART@zuso.ai",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "cyberpower",
+            "projectdiscovery"
+        ]
+    },
+    "advisories": "https://zuso.ai/Advisory.html"
+}

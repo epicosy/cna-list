@@ -1,0 +1,35 @@
+{
+    "id": "snyk",
+    "name": "Snyk",
+    "email": "report@snyk.io",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+			"sequelizejs",
+			"wso2",
+			"pimcore",
+			"google",
+			"mongodb",
+			"umbraco",
+			"ibm",
+			"socket",
+			"spatie",
+			"microsoft",
+			"mozilla",
+			"linuxfoundation",
+			"eclipse",
+			"usememos",
+			"cesanta",
+			"ghost",
+			"salesforce",
+			"gnu",
+			"nodebb",
+			"opencart",
+            "snyk",
+            "mit"
+        ]
+    },
+    "advisories": "https://snyk.io/vuln/"
+}

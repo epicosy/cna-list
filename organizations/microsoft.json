@@ -1,9 +1,0 @@
-{
-    "id": "microsoft",
-    "name": "Microsoft Corporation",
-    "products": "https://www.microsoft.com/en-us",
-    "open_source": {
-        "github": "microsoft"
-    },
-    "advisories": "https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories"
-}

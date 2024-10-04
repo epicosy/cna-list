@@ -1,9 +1,0 @@
-{
-    "id": "revive-adserver",
-    "name": "Revive Adserver",
-    "open_source": {
-        "github": "revive-adserver"
-    },
-    "website": "https://www.revive-adserver.com",
-    "advisories": "https://www.revive-adserver.com/security/"
-}

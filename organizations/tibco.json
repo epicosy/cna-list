@@ -1,9 +1,0 @@
-{
-    "id": "tibco",
-    "name": "TIBCO Software Inc.",
-    "products": "https://www.tibco.com/products",
-    "open_source": {
-        "github": "TIBCOSoftware"
-    },
-    "advisories": "https://community.tibco.com/advisories/"
-}

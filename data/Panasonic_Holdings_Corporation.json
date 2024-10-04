@@ -1,0 +1,14 @@
+{
+    "id": "Panasonic_Holdings_Corporation",
+    "name": "Panasonic Holdings Corporation",
+    "root": "vuls@jpcert.or.jp",
+    "email": "product-security@gg.jp.panasonic.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "panasonic"
+        ]
+    },
+    "advisories": "https://www.panasonic.com/global/corporate/product-security/sec/psirt/advisories.html"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "Liferay",
+    "name": "Liferay, Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@liferay.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "liferay"
+        ]
+    },
+    "advisories": "https://liferay.dev/portal/security/known-vulnerabilities"
+}

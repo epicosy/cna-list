@@ -1,9 +1,0 @@
-{
-    "id": "ea",
-    "name": "Electronic Arts, Inc.",
-    "products": "https://www.ea.com/games/library",
-    "open_source": {
-        "github": "electronicarts"
-    },
-    "advisories": "https://www.ea.com/security/advisories"
-}

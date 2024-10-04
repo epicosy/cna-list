@@ -1,9 +1,0 @@
-{
-    "id": "openvpn",
-    "name": "OpenVPN Inc.",
-    "products": "https://openvpn.net/product-comparison/",
-    "open_source": {
-        "github": "OpenVPN"
-    },
-    "advisories": "https://openvpn.net/security-advisories/"
-}

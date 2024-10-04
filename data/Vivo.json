@@ -1,0 +1,14 @@
+{
+    "id": "Vivo",
+    "name": "Vivo Mobile Communication Co., Ltd.",
+    "root": "cve@mitre.org",
+    "email": "security@vivo.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "vivo"
+        ]
+    },
+    "advisories": "https://www.vivo.com/en/activity/security-advisory"
+}

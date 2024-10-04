@@ -1,9 +1,0 @@
-{
-    "id": "hikvision",
-    "name": "Hangzhou Hikvision Digital Technology Co., Ltd.",
-    "products": "https://us.hikvision.com/en/products",
-    "open_source": {
-        "github": "hikvision-research"
-    },
-    "advisories": "https://us.hikvision.com/en/support-resources/cybersecurity-center/security-notices"
-}

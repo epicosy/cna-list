@@ -1,0 +1,14 @@
+{
+    "id": "adobe",
+    "name": "Adobe Systems Incorporated",
+    "root": "cve@mitre.org",
+    "email": "psirt@adobe.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "adobe"
+        ]
+    },
+    "advisories": "https://helpx.adobe.com/security.html"
+}

@@ -1,8 +1,0 @@
-{
-    "id": "pypi",
-    "name": "The Python Package Index",
-    "open_source": {
-        "github": "pypi"
-    },
-    "advisories": "https://github.com/pypa/advisory-database"
-}

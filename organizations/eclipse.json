@@ -1,8 +1,0 @@
-{
-    "id": "eclipse",
-    "name": "Eclipse Foundation",
-    "open_source": {
-        "github": "eclipse"
-    },
-    "advisories": "https://www.eclipse.org/security/known/"
-}

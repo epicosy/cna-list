@@ -1,9 +1,0 @@
-{
-    "id": "replicated",
-    "name": "Replicated, Inc.",
-    "products": "https://www.replicated.com/replicated-platform-overview",
-    "open_source": {
-        "github": "replicatedhq"
-    },
-    "advisories": "https://www.replicated.com/advisories/"
-}

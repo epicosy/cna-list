@@ -1,9 +1,0 @@
-{
-    "id": "softiron",
-    "name": "SoftIron",
-    "products": "https://www.softiron.com/hypercloud",
-    "open_source": {
-        "github": "SoftIron"
-    },
-    "advisories": "https://docs.softiron.cloud/advisory/advisory/"
-}

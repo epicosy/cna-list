@@ -1,8 +1,0 @@
-{
-    "id": "opensuse",
-    "name": "openSUSE Project",
-    "open_source": {
-        "github": "openSUSE"
-    },
-    "advisories": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/"
-}

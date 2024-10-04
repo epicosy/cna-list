@@ -1,9 +1,0 @@
-{
-    "id": "danfoss",
-    "name": "Danfoss",
-    "open_source": {
-        "github": "Danfoss"
-    },
-    "products": "https://www.danfoss.com/en/products/",
-    "advisories": "https://www.danfoss.com/en/service-and-support/coordinated-vulnerability-disclosure/danfoss-security-advisories/"
-}

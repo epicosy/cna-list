@@ -1,9 +1,0 @@
-{
-    "id": "temporal",
-    "name": "Temporal Technologies Inc.",
-    "open_source": {
-        "github": "temporalio"
-    },
-    "services": "https://cloud.temporal.io/login",
-    "advisories": "https://docs.temporal.io/temporal-technologies-inc-security"
-}

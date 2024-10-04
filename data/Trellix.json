@@ -1,0 +1,17 @@
+{
+    "id": "Trellix",
+    "name": "Trellix",
+    "email": "trellixpsirt@trellix.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+			"mcafee",
+			"linksys",
+			"microsoft",
+			"cyberpower"
+        ]
+    },
+    "advisories": "https://supportm.trellix.com/webcenter/portal/supportportal/pages_knowledgecenter"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "MediaTek",
+    "name": "MediaTek Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@mediatek.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mediatek"
+        ]
+    },
+    "advisories": "https://corp.mediatek.com/product-security-bulletin"
+}

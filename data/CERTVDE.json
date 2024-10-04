@@ -1,0 +1,15 @@
+{
+    "id": "CERTVDE",
+    "name": "CERT@VDE",
+    "email": "info@cert.vde.com",
+    "root": "ics-cert@hq.dhs.gov",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "wago",
+            "mz-automation"
+        ]
+    },
+    "advisories": "https://cert.vde.com/en-us/advisories"
+}

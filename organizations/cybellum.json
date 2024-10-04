@@ -1,9 +1,0 @@
-{
-    "id": "cybellum",
-    "name": "Cybellum Technologies LTD",
-    "products": "https://cybellum.com/platform/",
-    "open_source": {
-        "github": "Cybellum"
-    },
-    "advisories": "https://cybellum.com/vulnerabilities/"
-}

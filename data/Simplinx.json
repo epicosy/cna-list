@@ -1,0 +1,14 @@
+{
+    "id": "Simplinx",
+    "name": "Simplinx Ltd.",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "security@simplinx.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "simplinx"
+        ]
+    },
+    "advisories": "https://simplinx.com/en/security-advisories/"
+}

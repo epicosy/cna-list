@@ -1,0 +1,15 @@
+{
+    "id": "hpe",
+    "name": "Hewlett Packard Enterprise (HPE)",
+    "root": "cve@mitre.org",
+    "email": "security-alert@hpe.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hpe",
+            "arubanetworks"
+        ]
+    },
+    "advisories": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/"
+}

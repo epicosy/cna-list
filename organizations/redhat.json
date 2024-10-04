@@ -1,9 +1,0 @@
-{
-    "id": "redhat",
-    "name": "Red Hat, Inc.",
-    "products": "https://www.redhat.com/en/technologies/all-products",
-    "open_source": {
-        "github": "RedHatOfficial"
-    },
-    "advisories": "https://access.redhat.com/security/security-updates/security-advisories"
-}

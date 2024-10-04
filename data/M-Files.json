@@ -1,0 +1,14 @@
+{
+    "id": "M-Files",
+    "name": "M-Files Corporation",
+    "root": "cve@mitre.org",
+    "email": "security@m-files.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "m-files"
+        ]
+    },
+    "advisories": "https://www.m-files.com/about/trust-center/security-advisories/"
+}

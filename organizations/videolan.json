@@ -1,9 +1,0 @@
-{
-    "id": "videolan",
-    "name": "VideoLAN",
-    "open_source": {
-        "github": "videolan"
-    },
-    "website": "http://www.videolan.org",
-    "advisories": "https://www.videolan.org/security/"
-}

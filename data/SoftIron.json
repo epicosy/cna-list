@@ -1,0 +1,14 @@
+{
+    "id": "SoftIron",
+    "name": "SoftIron",
+    "root": "cve@mitre.org",
+    "email": "cve-coordination@softiron.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "softiron"
+        ]
+    },
+    "advisories": "https://docs.softiron.cloud/advisory/advisory/"
+}

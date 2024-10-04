@@ -1,0 +1,14 @@
+{
+    "id": "netapp",
+    "name": "NetApp",
+    "root": "cve@mitre.org",
+    "email": "security-alert@netapp.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "netapp"
+        ]
+    },
+    "advisories": "https://security.netapp.com/advisory/"
+}

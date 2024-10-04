@@ -1,0 +1,14 @@
+{
+    "id": "Splunk",
+    "name": "Splunk Inc.",
+    "root": "cve@mitre.org",
+    "email": "prodsec@splunk.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "splunk"
+        ]
+    },
+    "advisories": "https://advisory.splunk.com/advisories"
+}

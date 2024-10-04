@@ -1,0 +1,14 @@
+{
+    "id": "Solidigm",
+    "name": "Solidigm",
+    "root": "cve@mitre.org",
+    "email": "Security@Solidigm.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "solidigm"
+        ]
+    },
+    "advisories": "https://www.solidigm.com/support-page/support-security.html"
+}

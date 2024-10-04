@@ -1,0 +1,14 @@
+{
+    "id": "PaperCut",
+    "name": "PaperCut Software International Pty Ltd",
+    "root": "cve@mitre.org",
+    "email": "security@papercut.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "papercut"
+        ]
+    },
+    "advisories": "https://www.papercut.com/kb/Main/CommonSecurityQuestions"
+}

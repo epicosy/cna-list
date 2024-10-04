@@ -1,0 +1,14 @@
+{
+    "id": "Silver_Peak",
+    "name": "Silver Peak Systems, Inc.",
+    "root": "cve@mitre.org",
+    "email": "sirt@silver-peak.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "silver-peak"
+        ]
+    },
+    "advisories": "https://www.arubanetworks.com/techdocs/sdwan/docs/advisories/archive/"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "GandC",
+    "name": "Glyph & Cog, LLC",
+    "root": "RootCNA-Coordination@redhat.com",
+    "email": "xpdf@xpdfreader.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "xpdfreader"
+        ]
+    },
+    "advisories": "https://www.xpdfreader.com/security-fixes.html"
+}

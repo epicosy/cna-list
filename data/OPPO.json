@@ -1,0 +1,14 @@
+{
+    "id": "OPPO",
+    "name": "OPPO Mobile Telecommunication Corp., Ltd.",
+    "root": "cve@mitre.org",
+    "email": "security@oppo.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "oppo"
+        ]
+    },
+    "advisories": "https://security.oppo.com/en/mend"
+}

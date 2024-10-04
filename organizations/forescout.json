@@ -1,9 +1,0 @@
-{
-    "id": "forescout",
-    "name": "Forescout Technologies",
-    "products": "https://www.forescout.com/products/",
-    "open_source": {
-        "github": "Forescout"
-    },
-    "advisories": "https://docs.forescout.com/bundle/vulnerabilities/"
-}

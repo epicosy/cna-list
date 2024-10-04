@@ -1,9 +1,0 @@
-{
-    "id": "elastic",
-    "name": "Elastic",
-    "products": "https://www.elastic.co/platform",
-    "open_source": {
-        "github": "elastic"
-    },
-    "advisories": "https://www.elastic.co/community/security"
-}

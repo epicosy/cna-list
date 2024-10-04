@@ -1,9 +1,0 @@
-{
-    "id": "open-xchange",
-    "name": "Open-Xchange",
-    "products": "https://www.open-xchange.com/",
-    "open_source": {
-        "github": "open-xchange"
-    },
-    "advisories": "https://documentation.open-xchange.com/appsuite/security/advisories/"
-}

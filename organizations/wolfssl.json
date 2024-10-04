@@ -1,9 +1,0 @@
-{
-    "id": "wolfssl",
-    "name": "wolfSSL Inc.",
-    "products": "https://www.wolfssl.com/products/",
-    "open_source": {
-        "github": "wolfssl"
-    },
-    "advisories": "https://www.wolfssl.com/docs/security-vulnerabilities/"
-}

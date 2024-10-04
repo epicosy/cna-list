@@ -1,0 +1,14 @@
+{
+    "id": "ShopBeat",
+    "name": "Shop Beat Solutions (Pty) LTD",
+    "root": "cve@mitre.org",
+    "email": "support@shopbeat.co.za",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "shopbeat"
+        ]
+    },
+    "advisories": "https://www.shopbeat.co.za/security_advisory_location.html"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "zohocorp",
-    "name": "Zoho Corporation",
-    "open_source": {
-        "github": "zoho"
-    },
-    "products": "https://www.zoho.com/all-products.html",
-    "advisories": "https://bugbounty.zohocorp.com/bb/info" 
-}

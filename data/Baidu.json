@@ -1,0 +1,14 @@
+{
+    "id": "Baidu",
+    "name": "Baidu, Inc.",
+    "root": "cve@mitre.org",
+    "email": "paddle-security@baidu.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "paddlepaddle"
+        ]
+    },
+    "advisories": "https://github.com/PaddlePaddle/Paddle/tree/develop/security"
+}

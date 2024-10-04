@@ -1,9 +1,0 @@
-{
-    "id": "acquia",
-    "name": "Acquia",
-    "products": "https://www.acquia.com/products",
-    "open_source": {
-        "github": "acquia"
-    },
-    "advisories": "https://security.acquia.com/"
-}

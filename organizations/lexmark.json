@@ -1,9 +1,0 @@
-{
-    "id": "lexmark",
-    "name": "Lexmark International Inc.",
-    "products": "https://www.lexmark.com/en_us/products.html",
-    "open_source": {
-        "github": "LexmarkES"
-    },
-    "advisories": "https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html"
-}

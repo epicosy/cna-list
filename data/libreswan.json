@@ -1,0 +1,14 @@
+{
+    "id": "libreswan",
+    "name": "Libreswan Project",
+    "root": "cve@mitre.org",
+    "email": "security@libreswan.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "libreswan"
+        ]
+    },
+    "advisories": "https://libreswan.org/security/"
+}

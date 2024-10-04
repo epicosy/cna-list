@@ -1,9 +1,0 @@
-{
-    "id": "memcached",
-    "name": "memcached community",
-    "open_source": {
-        "github": "memcached"
-    },
-    "website": "http://memcached.org/",
-    "advisories": "https://github.com/memcached/memcached/issues"
-}

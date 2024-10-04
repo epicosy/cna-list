@@ -1,0 +1,14 @@
+{
+    "id": "Caliptra",
+    "name": "Caliptra Project",
+    "root": "cve@mitre.org",
+    "email": "vulnerabilities.caliptra-wg@lists.chipsalliance.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "caliptra"
+        ]
+    },
+    "advisories": "https://github.com/chipsalliance/Caliptra/security"
+}

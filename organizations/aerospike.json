@@ -1,8 +1,0 @@
-{
-    "id": "aerospike",
-    "name": "Aerospike",
-    "open_source": {
-        "github": "aerospike"
-    },
-    "products": "http://aerospike.com"
-}

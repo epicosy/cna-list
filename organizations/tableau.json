@@ -1,9 +1,0 @@
-{
-    "id": "tableau",
-    "name": "Salesforce Tableau",
-    "products": "https://www.tableau.com",
-    "open_source": {
-        "github": "tableau"
-    },
-    "advisories": "https://security.salesforce.com/security-advisories"
-}

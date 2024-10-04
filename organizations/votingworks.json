@@ -1,9 +1,0 @@
-{
-    "id": "votingworks",
-    "name": "VotingWorks",
-    "products": "https://www.voting.works/",
-    "open_source": {
-        "github": "votingworks"
-    },
-    "advisories": "https://github.com/votingworks/vxsuite/security/advisories"
-}

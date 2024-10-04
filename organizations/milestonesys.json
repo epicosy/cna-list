@@ -1,9 +1,0 @@
-{
-    "id": "milestonesys",
-    "name": "Milestone Systems A/S",
-    "products": "https://www.milestonesys.com/products/software/xprotect/",
-    "open_source": {
-        "github": "milestonesys"
-    },
-    "advisories": "https://www.milestonesys.com/support/help-and-documentation/cyber-security/recent-vulnerabilities/"
-}

@@ -1,0 +1,14 @@
+{
+    "id": "floragunn",
+    "name": "floragunn GmbH",
+    "root": "cve@mitre.org",
+    "email": "security@search-guard.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "search-guard"
+        ]
+    },
+    "advisories": "https://search-guard.com/cve-advisory/"
+}

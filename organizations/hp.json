@@ -1,9 +1,0 @@
-{
-    "id": "hp",
-    "name": "HP Inc.",
-    "products": "https://www.hp.com/us-en/shop",
-    "open_source": {
-        "github": "HPInc"
-    },
-    "advisories": "https://support.hp.com/us-en/security-bulletins"
-}

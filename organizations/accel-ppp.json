@@ -1,9 +1,0 @@
-{
-    "id": "accel-ppp",
-    "name": "Accel PPP Inc",
-    "products": "https://www.accel-ppp.io/",
-    "open_source": {
-        "github": "accel-ppp"
-    },
-    "advisories": "https://github.com/accel-ppp/accel-ppp/security/advisories/"
-}

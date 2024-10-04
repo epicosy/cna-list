@@ -1,8 +1,0 @@
-{
-    "id": "openbmc-project",
-    "name": "Linux Foundation OpenBMC",
-    "open_source": {
-        "github": "openbmc"
-    },
-    "advisories": "https://github.com/openbmc/openbmc/security/advisories"
-}

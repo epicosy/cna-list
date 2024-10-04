@@ -1,8 +1,0 @@
-{
-    "id": "ribose",
-    "name": "Ribose Limited",
-    "open_source": {
-        "github": "riboseinc"
-    },
-    "advisories": "https://cve.ribose.com/advisories/"
-}

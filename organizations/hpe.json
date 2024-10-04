@@ -1,9 +1,0 @@
-{
-    "id": "hpe",
-    "name": "Hewlett Packard Enterprise (HPE)",
-    "products": "https://www.hpe.com/us/en/products.html",
-    "open_source": {
-        "github": "hewlettpackard"
-    },
-    "advisories": "https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/"
-}

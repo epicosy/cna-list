@@ -1,9 +1,0 @@
-{
-    "id": "suse",
-    "name": "SUSE",
-    "products": "https://www.suse.com/products/",
-    "open_source": {
-        "github": "SUSE"
-    },
-    "advisories": "https://www.suse.com/support/update/"
-}

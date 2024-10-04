@@ -1,9 +1,0 @@
-{
-    "id": "teamviewer",
-    "name": "TeamViewer Germany GmbH",
-    "products": "https://service.teamviewer.com/en-us/overview/a",
-    "open_source": {
-        "github": "teamviewer"
-    },
-    "advisories": "https://www.teamviewer.com/en/trust-center/security-bulletins/"
-}

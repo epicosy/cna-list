@@ -1,8 +1,0 @@
-{
-    "id": "apple",
-    "name": "Apple Inc.",
-    "open_source": {
-        "github": "apple"
-    },
-    "advisories": "https://www.swift.org/support/security.html"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "amperecomputing",
-    "name": "Ampere Computing",
-    "products": "https://amperecomputing.com/products/processors",
-    "open_source": {
-        "github": "AmpereComputing"
-    },
-    "advisories": "https://amperecomputing.com/products/product-security.html"
-}

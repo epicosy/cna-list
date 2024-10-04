@@ -1,9 +1,0 @@
-{
-    "id": "ffmpeg",
-    "name": "FFmpeg",
-    "open_source": {
-        "github": "FFmpeg"
-    },
-    "website": "https://ffmpeg.org/",
-    "advisories": "https://ffmpeg.org/security.html"
-}

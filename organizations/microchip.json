@@ -1,9 +1,0 @@
-{
-    "id": "microchip",
-    "name": "Microchip Technology",
-    "products": "https://www.microchip.com/en-us/products",
-    "open_source": {
-        "github": "MicrochipTech"
-    },
-    "advisories": "https://www.microchip.com/psirt"
-}

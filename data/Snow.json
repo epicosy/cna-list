@@ -1,0 +1,14 @@
+{
+    "id": "Snow",
+    "name": "Snow Software",
+    "root": "cve@mitre.org",
+    "email": "security@snowsoftware.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "snowsoftware"
+        ]
+    },
+    "advisories": "https://community.snowsoftware.com/s/group/0F91r000000QUhPCAW/news-updates"
+}

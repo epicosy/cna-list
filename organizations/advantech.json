@@ -1,9 +1,0 @@
-{
-    "id": "advantech",
-    "name": "Advantech",
-    "products": "https://www.advantech.com/en/products/atoz",
-    "open_source": {
-        "github": "ADVANTECH-Corp"
-    },
-    "advisories": "https://icr.advantech.com/download/security-notifications"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "grafana",
-    "name": "Grafana Labs",
-    "products": "https://grafana.com/products/cloud/",
-    "open_source": {
-        "github": "grafana"
-    },
-    "advisories": "https://grafana.com/security/security-advisories/"
-}

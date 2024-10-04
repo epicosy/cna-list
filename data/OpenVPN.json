@@ -1,0 +1,14 @@
+{
+    "id": "OpenVPN",
+    "name": "OpenVPN Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@openvpn.net",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "openvpn"
+        ]
+    },
+    "advisories": "https://openvpn.net/security-advisories/"
+}

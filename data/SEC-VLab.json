@@ -1,0 +1,17 @@
+{
+    "id": "SEC-VLab",
+    "name": "SEC Consult Vulnerability Lab",
+    "email": "security-research@sec-consult.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "atos",
+            "softmaker",
+            "frentix",
+            "faronics"
+        ]
+    },
+    "advisories": "https://sec-consult.com/vulnerability-lab/"
+}

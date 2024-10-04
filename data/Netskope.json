@@ -1,0 +1,14 @@
+{
+    "id": "Netskope",
+    "name": "Netskope",
+    "root": "cve@mitre.org",
+    "email": "psirt@netskope.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "netskope"
+        ]
+    },
+    "advisories": "https://www.netskope.com/company/security-compliance-and-assurance/security-advisories-and-disclosures#security-advisories"
+}

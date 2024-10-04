@@ -1,9 +1,0 @@
-{
-    "id": "mybb",
-    "name": "MyBB Forum Software",
-    "open_source": {
-        "github": "mybb"
-    },
-    "website": "https://mybb.com/",
-    "advisories": "https://mybb.com/versions/security-issues/"
-}

@@ -1,0 +1,14 @@
+{
+    "id": "curl",
+    "name": "curl",
+    "root": "RootCNA-Coordination@redhat.com",
+    "email": "cve@curl.se",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "haxx"
+        ]
+    },
+    "advisories": "https://curl.se/docs/security.html"
+}

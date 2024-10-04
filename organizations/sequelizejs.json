@@ -1,8 +1,0 @@
-{
-    "id": "sequelizejs",
-    "name": "Sequelize",
-    "open_source": {
-        "github": "sequelize"
-    },
-    "advisories": "https://github.com/sequelize/sequelize/security"
-}

@@ -1,8 +1,0 @@
-{
-    "id": "libreoffice",
-    "name": "The Document Foundation",
-    "open_source": {
-        "github": "LibreOffice"
-    },
-    "advisories": "https://www.libreoffice.org/about-us/security/advisories"
-}

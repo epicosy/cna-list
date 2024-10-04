@@ -1,9 +1,0 @@
-{
-    "id": "leadtools",
-    "name": "LEADTOOLS by LEAD Technologies",
-    "open_source": {
-        "github": "LEADTOOLS"
-    },
-    "website": "https://www.leadtools.com",
-    "products": "https://www.leadtools.com/sdk/product-overview"
-}

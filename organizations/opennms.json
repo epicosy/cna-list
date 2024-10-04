@@ -1,9 +1,0 @@
-{
-    "id": "opennms",
-    "name": "The OpenNMS Group",
-    "products": "https://www.opennms.com/",
-    "open_source": {
-        "github": "OpenNMS"
-    },
-    "advisories": "https://www.opennms.com/en/blog/category/security/"
-}

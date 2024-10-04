@@ -1,0 +1,18 @@
+{
+    "id": "Wordfence",
+    "name": "Wordfence",
+    "email": "cve-request@wordfence.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "kibokolabs",
+            "oracle",
+            "google",
+            "wordpress",
+            "themeum"
+        ]
+    },
+    "advisories": "https://www.wordfence.com/blog/category/vulnerabilities/"
+}

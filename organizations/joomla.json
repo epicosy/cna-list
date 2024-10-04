@@ -1,8 +1,0 @@
-{
-    "id": "joomla",
-    "name": "Joomla! Project",
-    "open_source": {
-        "github": "joomla"
-    },
-    "advisories": "https://developer.joomla.org/security-centre.html"
-}

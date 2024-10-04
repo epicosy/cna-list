@@ -1,0 +1,14 @@
+{
+    "id": "Microchip",
+    "name": "Microchip Technology",
+    "root": "cve@mitre.org",
+    "email": "psirt@microchip.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "microchip"
+        ]
+    },
+    "advisories": "https://www.microchip.com/psirt"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "algosec",
-    "name": "AlgoSec Inc",
-    "products": "https://www.algosec.com/products/",
-    "open_source": {
-        "github": "algosec"
-    },
-    "advisories": "https://www.algosec.com/resources/algosec-security-center"
-}

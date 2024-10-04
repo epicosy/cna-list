@@ -1,8 +1,0 @@
-{
-    "id": "webkitgtk",
-    "name": "The WebKitGTK Project",
-    "open_source": {
-        "github": "WebKitGTK"
-    },
-    "advisories": "https://webkitgtk.org/security.html"
-}

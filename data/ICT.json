@@ -1,0 +1,14 @@
+{
+    "id": "ICT",
+    "name": "Integrated Control Technology LTD",
+    "root": "cve@mitre.org",
+    "email": "security-disclosures@ict.co",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "ict"
+        ]
+    },
+    "advisories": "https://ict.co/help-support/security-advisories/"
+}

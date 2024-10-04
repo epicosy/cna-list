@@ -1,9 +1,0 @@
-{
-    "id": "payara",
-    "name": "Payara",
-    "products": "https://www.payara.fish/products/",
-    "open_source": {
-        "github": "payara"
-    },
-    "advisories": "https://docs.payara.fish/community/docs/Security/Security%20Fix%20List.html"
-}

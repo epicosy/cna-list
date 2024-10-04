@@ -1,0 +1,14 @@
+{
+    "id": "Checkmk",
+    "name": "Checkmk GmbH",
+    "root": "cve@mitre.org",
+    "email": "security@checkmk.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "checkmk"
+        ]
+    },
+    "advisories": "https://checkmk.com/werks"
+}

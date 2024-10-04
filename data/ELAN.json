@@ -1,0 +1,14 @@
+{
+    "id": "ELAN",
+    "name": "ELAN Microelectronics Corp.",
+    "root": "cve@mitre.org",
+    "email": "psirt@emc.com.tw",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "emc"
+        ]
+    },
+    "advisories": "https://www.emc.com.tw/emc/en/vulnerability-disclosure-policy"
+}

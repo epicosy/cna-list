@@ -1,9 +1,0 @@
-{
-    "id": "rockwellautomation",
-    "name": "Rockwell Automation",
-    "products": "https://www.rockwellautomation.com/en-us/products.html",
-    "open_source": {
-        "github": "RockwellAutomation"
-    },
-    "advisories": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html"
-}

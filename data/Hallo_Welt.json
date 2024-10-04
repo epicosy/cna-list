@@ -1,0 +1,14 @@
+{
+    "id": "Hallo_Welt",
+    "name": "Hallo Welt! GmbH",
+    "root": "cve@mitre.org",
+    "email": "security@bluespice.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "hallowelt"
+        ]
+    },
+    "advisories": "https://en.wiki.bluespice.com/wiki/Security:Security_Advisories"
+}

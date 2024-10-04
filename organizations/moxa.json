@@ -1,9 +1,0 @@
-{
-    "id": "moxa",
-    "name": "Moxa Inc.",
-    "products": "https://www.moxa.com/en/products",
-    "open_source": {
-        "github": "Moxa-Linux"
-    },
-    "advisories": "https://www.moxa.com/en/support/product-support/security-advisory"
-}

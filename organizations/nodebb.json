@@ -1,8 +1,0 @@
-{
-    "id": "nodebb",
-    "name": "NodeBB",
-    "open_source": {
-        "github": "NodeBB"
-    },
-    "products": "https://nodebb.org/product/"
-}

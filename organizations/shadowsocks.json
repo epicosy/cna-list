@@ -1,8 +1,0 @@
-{
-    "id": "shadowsocks",
-    "name": "Shadowsocks",
-    "open_source": {
-        "github": "shadowsocks"
-    },
-    "website": "https://shadowsocks.org/"
-}

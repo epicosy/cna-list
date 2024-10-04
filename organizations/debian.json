@@ -1,8 +1,0 @@
-{
-    "id": "debian",
-    "name": "Debian GNU/Linux",
-    "open_source": {
-        "github": "Debian"
-    },
-    "advisories": "https://www.debian.org/security/#DSAS"
-}

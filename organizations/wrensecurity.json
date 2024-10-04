@@ -1,8 +1,0 @@
-{
-    "id": "wrensecurity",
-    "name": "Wren Security",
-    "open_source": {
-        "github": "WrenSecurity"
-    },
-    "advisories": "https://wrensecurity.org/community/disclosure.html"
-}

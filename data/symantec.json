@@ -1,0 +1,16 @@
+{
+    "id": "symantec",
+    "name": "Symantec - A Division of Broadcom",
+    "email": "symantec.psirt@broadcom.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "broadcom",
+            "norton",
+            "symantec"
+        ]
+    },
+    "advisories": "https://support.broadcom.com/security-advisory/security-advisories-list.html"
+}

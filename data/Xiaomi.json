@@ -1,0 +1,14 @@
+{
+    "id": "Xiaomi",
+    "name": "Xiaomi Technology Co., Ltd.",
+    "root": "cve@mitre.org",
+    "email": "security@xiaomi.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "mi"
+        ]
+    },
+    "advisories": "https://trust.mi.com/misrc/bulletins"
+}

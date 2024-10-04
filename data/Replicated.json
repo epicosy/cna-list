@@ -1,0 +1,14 @@
+{
+    "id": "Replicated",
+    "name": "Replicated, Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@replicated.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "replicated"
+        ]
+    },
+    "advisories": "https://www.replicated.com/advisories/"
+}

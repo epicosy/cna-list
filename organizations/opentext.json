@@ -1,9 +1,0 @@
-{
-    "id": "opentext",
-    "name": "OpenText (formerly Micro Focus)",
-    "products": "https://www.opentext.com/products/listing",
-    "open_source": {
-        "github": "opentext"
-    },
-    "advisories": "https://knowledge.opentext.com/knowledge/llisapi.dll/open/alerts"
-}

@@ -1,0 +1,17 @@
+{
+    "id": "jenkins",
+    "name": "Jenkins Project",
+    "root": "cve@mitre.org",
+    "email": "jenkinsci-cert@googlegroups.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "jenkins",
+            "google",
+            "netflix",
+            "gitea"
+        ]
+    },
+    "advisories": "https://www.jenkins.io/security/advisories/"
+}

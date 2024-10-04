@@ -1,0 +1,15 @@
+{
+    "id": "apache",
+    "name": "Apache Software Foundation",
+    "root": "cve@mitre.org",
+    "email": "security@apache.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "apache",
+            "mcafee"
+        ]
+    },
+    "advisories": "https://security.apache.org/projects/"
+}

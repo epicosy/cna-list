@@ -1,9 +1,0 @@
-{
-    "id": "checkmk",
-    "name": "Checkmk GmbH",
-    "products": "https://checkmk.com/product",
-    "open_source": {
-        "github": "Checkmk"
-    },
-    "advisories": "https://checkmk.com/werks"
-}

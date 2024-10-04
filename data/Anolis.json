@@ -1,0 +1,14 @@
+{
+    "id": "Anolis",
+    "name": "OpenAnolis",
+    "root": "cve@mitre.org",
+    "email": "security@openanolis.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "openanolis"
+        ]
+    },
+    "advisories": "https://anas.openanolis.cn/cves"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "BD",
+    "name": "Becton, Dickinson and Company (BD)",
+    "root": "ics-cert@hq.dhs.gov",
+    "email": "cybersecurity@bd.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "bd"
+        ]
+    },
+    "advisories": "https://cybersecurity.bd.com/bulletins-and-patches"
+}

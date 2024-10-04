@@ -1,0 +1,19 @@
+{
+    "id": "dell",
+    "name": "Dell",
+    "email": "secure@dell.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "emc",
+			"dell",
+			"vmware",
+			"cloudfoundry",
+			"microsoft",
+			"citrix"
+        ]
+    },
+    "advisories": "https://www.dell.com/support/security/en-us"
+}

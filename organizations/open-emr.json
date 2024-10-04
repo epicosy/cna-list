@@ -1,9 +1,0 @@
-{
-    "id": "open-emr",
-    "name": "OpenEMR",
-    "open_source": {
-        "github": "OpenEMR"
-    },
-    "website": "https://www.open-emr.org/",
-    "advisories": "https://www.open-emr.org/wiki/index.php/Security_Alert_Fixes"
-}

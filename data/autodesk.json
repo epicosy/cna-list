@@ -1,0 +1,14 @@
+{
+    "id": "autodesk",
+    "name": "Autodesk",
+    "root": "cve@mitre.org",
+    "email": "psirt@autodesk.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "autodesk"
+        ]
+    },
+    "advisories": "https://www.autodesk.com/trust/security-advisories"
+}

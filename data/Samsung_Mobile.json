@@ -1,0 +1,14 @@
+{
+    "id": "Samsung_Mobile",
+    "name": "Samsung Mobile",
+    "root": "cve@mitre.org",
+    "email": "mobile.security@samsung.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "samsung"
+        ]
+    },
+    "advisories": "https://security.samsungmobile.com/securityPost.smsb/Advisory"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "Opera",
+    "name": "Opera",
+    "root": "cve@mitre.org",
+    "email": "security@opera.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "opera"
+        ]
+    },
+    "advisories": "https://security.opera.com/en/advisories/"
+}

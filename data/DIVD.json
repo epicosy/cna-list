@@ -1,0 +1,12 @@
+{
+    "id": "DIVD",
+    "email": "csirt@divd.nl",
+    "name": "Dutch Institute for Vulnerability Disclosure (DIVD)",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": ["axiell", "danfoss", "socket", "feathersjs", "qlik", "osnexus", "sequelizejs", "smartertools", "enphase"]
+    },
+    "advisories": "https://csirt.divd.nl/cves/"
+}

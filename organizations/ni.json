@@ -1,9 +1,0 @@
-{
-    "id": "ni",
-    "name": "National Instruments",
-    "products": "https://www.ni.com/en-us/shop.html",
-    "open_source": {
-        "github": "ni"
-    },
-    "advisories": "https://www.ni.com/en-us/support/documentation/supplemental/11/available-critical-and-security-updates-for-ni-software.html"
-}

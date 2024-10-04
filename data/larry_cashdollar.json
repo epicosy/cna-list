@@ -1,0 +1,16 @@
+{
+    "id": "larry_cashdollar",
+    "name": "Larry Cashdollar",
+    "email": "larry0@me.com",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "drupal",
+            "teradata",
+            "kibokolabs"
+        ]
+    },
+    "advisories": "http://www.vapidlabs.com/list.php"
+}

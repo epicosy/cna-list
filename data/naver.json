@@ -1,0 +1,14 @@
+{
+    "id": "naver",
+    "name": "Naver Corporation",
+    "root": "cve@mitre.org",
+    "email": "cve@navercorp.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "navercorp"
+        ]
+    },
+    "advisories": "https://cve.naver.com/advisory"
+}

@@ -1,8 +1,0 @@
-{
-    "id": "blueplanet",
-    "name": "Ciena Blue Planet",
-    "products": "https://www.blueplanet.com/products",
-    "open_source": {
-        "github": "ciena-blueplanet"
-    }
-}

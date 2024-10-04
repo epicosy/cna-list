@@ -1,9 +1,0 @@
-{
-    "id": "knime",
-    "name": "KNIME AG",
-    "products": "https://www.knime.com/software-overview",
-    "open_source": {
-        "github": "knime"
-    },
-    "advisories": "https://www.knime.com/security/advisories"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "smiledigitalhealth",
-    "name": "Smile CDR Inc.",
-    "products": "https://www.smiledigitalhealth.com/",
-    "open_source": {
-        "github": "smilecdr"
-    },
-    "advisories": "https://www.smiledigitalhealth.com/legal/security-advisories"
-}

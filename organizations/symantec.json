@@ -1,9 +1,0 @@
-{
-    "id": "symantec",
-    "name": "Symantec Corp",
-    "open_source": {
-        "github": "Symantec"
-    },
-    "website": "https://sep.securitycloud.symantec.com/v2/landing",
-    "products": "https://www.broadcom.com/products/cyber-security/a-z"
-}

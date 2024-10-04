@@ -1,9 +1,0 @@
-{
-    "id": "zoom",
-    "name": "Zoom Video Communications, Inc.",
-    "products": "https://zoom.com/en/products",
-    "open_source": {
-        "github": "zoom"
-    },
-    "advisories": "https://zoom.us/trust/security/security-bulletin"
-}

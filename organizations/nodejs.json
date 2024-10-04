@@ -1,8 +1,0 @@
-{
-    "id": "nodejs",
-    "name": "Node.js",
-    "open_source": {
-        "github": "nodejs"
-    },
-    "advisories": "https://nodejs.org/en/blog/vulnerability"
-}

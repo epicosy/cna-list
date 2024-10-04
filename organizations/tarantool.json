@@ -1,9 +1,0 @@
-{
-    "id": "tarantool",
-    "name": "Tarantool",
-    "open_source": {
-        "github": "tarantool"
-    },
-    "website": "https://tarantool.io",
-    "products": "https://www.tarantool.io/en/compare/"
-}

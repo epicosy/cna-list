@@ -1,0 +1,14 @@
+{
+    "id": "trendmicro",
+    "name": "Trend Micro, Inc.",
+    "root": "cve@mitre.org",
+    "email": "security@trendmicro.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "trendmicro"
+        ]
+    },
+    "advisories": "https://success.trendmicro.com/vulnerability-response#report"
+}

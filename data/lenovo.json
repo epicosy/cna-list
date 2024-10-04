@@ -1,0 +1,15 @@
+{
+    "id": "lenovo",
+    "name": "Lenovo Group Ltd.",
+    "root": "cve@mitre.org",
+    "email": "psirt@lenovo.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "lenovo",
+            "motorola"
+        ]
+    },
+    "advisories": "https://support.lenovo.com/us/en/product_security/home"
+}

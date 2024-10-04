@@ -1,8 +1,0 @@
-{
-    "id": "cloudlinux",
-    "name": "CloudLinux OS",
-    "open_source": {
-        "github": "cloudlinux"
-    },
-    "products": "http://www.cloudlinux.com"
-}

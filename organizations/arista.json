@@ -1,9 +1,0 @@
-{
-    "id": "arista",
-    "name": "Arista Networks",
-    "products": "https://www.arista.com/en/products",
-    "open_source": {
-        "github": "aristanetworks"
-    },
-    "advisories": "https://www.arista.com/en/support/advisories-notices"
-}

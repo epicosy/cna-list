@@ -1,0 +1,16 @@
+{
+    "id": "ProgressSoftware",
+    "name": "Progress Software Corporation",
+    "root": "cve@mitre.org",
+    "email": "security@progress.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "progress",
+            "chef",
+            "telerik"
+        ]
+    },
+    "advisories": "https://community.progress.com/s/"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "Pega",
+    "name": "Pegasystems Inc.",
+    "root": "cve@mitre.org",
+    "email": "securityreport@pega.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "pega"
+        ]
+    },
+    "advisories": "https://www.pega.com/trust/security-bulletins"
+}

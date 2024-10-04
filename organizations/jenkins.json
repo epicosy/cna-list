@@ -1,8 +1,0 @@
-{
-    "id": "jenkins",
-    "name": "Jenkins Project",
-    "open_source": {
-        "github": "jenkinsci"
-    },
-    "advisories": "https://www.jenkins.io/security/advisories/"
-}

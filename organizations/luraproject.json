@@ -1,8 +1,0 @@
-{
-    "id": "luraproject",
-    "name": "KrakenD Lura Project",
-    "open_source": {
-        "github": "luraproject"
-    },
-    "advisories": "https://github.com/luraproject/luraproject.org/security/advisories?state=published"
-}

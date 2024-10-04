@@ -1,0 +1,14 @@
+{
+    "id": "Docker",
+    "name": "Docker",
+    "root": "cve@mitre.org",
+    "email": "security@docker.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "docker"
+        ]
+    },
+    "advisories": "https://docs.docker.com/security/security-announcements/"
+}

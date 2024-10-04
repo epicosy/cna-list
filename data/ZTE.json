@@ -1,0 +1,14 @@
+{
+    "id": "ZTE",
+    "name": "ZTE Corporation",
+    "root": "cve@mitre.org",
+    "email": "psirt@zte.com.cn",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "zte"
+        ]
+    },
+    "advisories": "https://support.zte.com.cn/support/news/LoopholeInfoList.aspx?classId=972&_langType=en"
+}

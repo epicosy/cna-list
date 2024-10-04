@@ -1,9 +1,0 @@
-{
-    "id": "mulesoft",
-    "name": "MuleSoft, LLC",
-    "products": "https://www.mulesoft.com",
-    "open_source": {
-        "github": "mulesoft"
-    },
-    "advisories": "https://security.salesforce.com/security-advisories"
-}

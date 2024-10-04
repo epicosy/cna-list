@@ -1,9 +1,0 @@
-{
-    "id": "lantronix",
-    "name": "Lantronix",
-    "products": "https://www.lantronix.com/products/",
-    "open_source": {
-        "github": "Lantronix"
-    },
-    "advisories": "https://www.lantronix.com/technical-support/security-updates/"
-}

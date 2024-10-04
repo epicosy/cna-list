@@ -1,9 +1,0 @@
-{
-    "id": "artifex",
-    "name": "Artifex Software",
-    "open_source": {
-        "github": "ArtifexSoftware"
-    },
-    "products": "https://artifex.com/products/",
-    "advisories": "https://artifex.com/security-advisories/"
-}

@@ -1,9 +1,0 @@
-{
-    "id": "powerdns",
-    "name": "Open-Xchange PowerDNS",
-    "products": "https://www.powerdns.com/",
-    "open_source": {
-        "github": "PowerDNS"
-    },
-    "advisories": "https://doc.powerdns.com/authoritative/security-advisories/"
-}

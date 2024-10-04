@@ -1,8 +1,0 @@
-{
-    "id": "tianocore",
-    "name": "TianoCore.org",
-    "open_source": {
-        "github": "tianocore"
-    },
-    "advisories": "https://tianocore-docs.github.io/SecurityAdvisory/draft/"
-}

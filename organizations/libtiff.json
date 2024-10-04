@@ -1,9 +1,0 @@
-{
-    "id": "libtiff",
-    "name": "libtiff",
-    "open_source": {
-        "github": "libsdl-org",
-        "gitlab": "https://gitlab.com/libtiff"
-    },
-    "website": "https://libtiff.gitlab.io/libtiff/"
-}

@@ -1,0 +1,14 @@
+{
+    "id": "sba-research",
+    "name": "SBA Research gGmbH",
+    "email": "advisory@sba-research.org",
+    "root": "cve@mitre.org",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "paradox"
+        ]
+    },
+    "advisories": "https://www.sba-research.org/sba-security-advisories/"
+}

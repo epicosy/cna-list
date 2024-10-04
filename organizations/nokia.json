@@ -1,9 +1,0 @@
-{
-    "id": "nokia",
-    "name": "Nokia",
-    "products": "https://www.nokia.com/",
-    "open_source": {
-        "github": "nokia"
-    },
-    "advisories": "https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/"
-}

@@ -1,0 +1,35 @@
+{
+    "id": "tenable",
+    "name": "Tenable Network Security, Inc.",
+    "root": "cve@mitre.org",
+    "email": "vulnreport@tenable.com",
+    "scope": {
+        "external": false,
+        "third_party": true,
+        "organizations": [
+            "tenable",
+			"manageengine",
+			"crestron",
+			"dlink",
+			"zoom",
+			"netgear",
+			"linuxfoundation",
+			"solarwinds",
+			"papercut",
+			"logitech",
+			"tp-link",
+			"asustor",
+			"advantech",
+			"zohocorp",
+			"westerndigital",
+			"fujielectric",
+			"rockwellautomation",
+			"umbraco",
+			"nokia",
+			"deltaww",
+			"open-emr",
+            "trendnet"
+        ]
+    },
+    "advisories": "https://www.tenable.com/security"
+}

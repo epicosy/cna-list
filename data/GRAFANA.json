@@ -1,0 +1,14 @@
+{
+    "id": "GRAFANA",
+    "name": "Grafana Labs",
+    "root": "cve@mitre.org",
+    "email": "security-team@grafana.com",
+    "scope": {
+        "external": false,
+        "third_party": false,
+        "organizations": [
+            "grafana"
+        ]
+    },
+    "advisories": "https://grafana.com/security/security-advisories/"
+}
